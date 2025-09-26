@@ -20,6 +20,10 @@ app.add_middleware(
 DATA_DIR = Path(__file__).parent / "data"
 
 
+@app.get("/subjects")
+async def get_subjects():
+    subjects = [f.stem for f in DATA_DIR.glob("*.json")]
+    return subjects
 
 
 def load_subject(subject: str):
