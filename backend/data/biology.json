@@ -4,8 +4,8 @@
   ],
   "nodes": {
     "1": [
-      { "key": 2, "parent": 1, "name": "Parent 1", "color": "blue", "hasChildren": true },
-      { "key": 3, "parent": 1, "name": "Parent 2", "color": "purple", "hasChildren": true }
+      { "key": 2, "parent": 1, "name": "raja", "color": "blue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "rani", "color": "purple", "hasChildren": true }
     ],
     "2": [
       { "key": 4, "parent": 2, "name": "Organelles", "color": "red" },
