@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    const API_BASE = window.API_BASE || "http://localhost:8000";
+    const API_BASE = window.API_BASE || "https://concept-classes-backend.onrender.com";
     const subjectList = document.getElementById("subject-list");
 
     fetch(`${API_BASE}/subjects`)

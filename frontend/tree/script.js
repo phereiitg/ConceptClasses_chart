@@ -1,5 +1,5 @@
 function init() {
-  const API_BASE = window.API_BASE || "http://localhost:8000";
+  const API_BASE = window.API_BASE || "https://concept-classes-backend.onrender.com";
 
   const urlParams = new URLSearchParams(window.location.search);
   const subject = urlParams.get("subject");
