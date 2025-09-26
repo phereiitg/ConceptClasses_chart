@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
             subjects.forEach(subject => {
                 const listItem = document.createElement("li");
                 const link = document.createElement("a");
-                link.href = `${subject}/${subject}.html`;
+                link.href = `tree/tree.html?subject=${encodeURIComponent(subject)}`;
                 link.textContent = subject.charAt(0).toUpperCase() + subject.slice(1); // Capitalize first letter
                 listItem.appendChild(link);
                 subjectList.appendChild(listItem);

@@ -1,6 +1,9 @@
 function init() {
-  let subject = 'chemistry';
   const API_BASE = window.API_BASE || "http://localhost:8000";
+
+  const urlParams = new URLSearchParams(window.location.search);
+  const subject = urlParams.get("subject");
+
   const $ = go.GraphObject.make;
 
   const myDiagram = $(go.Diagram, "myDiagramDiv", {
