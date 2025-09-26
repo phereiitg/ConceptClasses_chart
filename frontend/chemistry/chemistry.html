@@ -22,11 +22,36 @@
         margin: 20px auto;
         box-shadow: 0 4px 12px rgba(0,0,0,0.05);
     }
+
+    .home-button a {
+        color: white;
+        text-decoration: none;
+        font-weight: 600;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        padding: 20px 40px;
+        background: #007bff;
+        color: white;
+        border-radius: 15px;
+    }
+    .home-button a:hover {
+        box-shadow: 2px 2px 8px rgba(0,0,0,0.8);
+    }
     </style>
 
 </head>
 <body>
-  <a href="../index.html" style="position: absolute; top: 10px; left: 10px; z-index: 10;">Home</a>
+  <div class="logo">
+    <div class="image">
+        <img src="/assets/logo.jpeg" alt="Logo" width="100" height="100">
+    </div>
+    <span class="title">Concept Classes</span>
+  </div>
+  <div class="home-button">
+      <a href="../index.html">Home</a>
+  </div>
+
   <div id="myDiagramDiv" style="width:100%; height:500px; border:1px solid black"></div>
 
   <script>
