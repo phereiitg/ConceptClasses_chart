@@ -1,18 +1,35 @@
 {
   "root": [
-    { "key": 1, "name": "Root-Biology", "color": "darkgreen", "hasChildren": true }
+    { "key": 1, "name": "Root-Acids and Bases", "color": "darkred", "hasChildren": true }
   ],
   "nodes": {
     "1": [
-      { "key": 2, "parent": 1, "name": "raja", "color": "blue", "hasChildren": true },
-      { "key": 3, "parent": 1, "name": "rani", "color": "purple", "hasChildren": true }
+      { "key": 2, "parent": 1, "name": "Theories", "color": "#007bff", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "Properties & Strength", "color": "#28a745", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "pH and pOH Scale", "color": "#ffc107", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "Reactions", "color": "#dc3545", "hasChildren": true }
     ],
     "2": [
-      { "key": 4, "parent": 2, "name": "Organelles", "color": "red" },
-      { "key": 5, "parent": 2, "name": "Membrane Transport", "color": "orange" }
+      { "key": 6, "parent": 2, "name": "Arrhenius Theory", "color": "#17a2b8" },
+      { "key": 7, "parent": 2, "name": "Brønsted-Lowry Theory", "color": "#17a2b8", "hasChildren": true },
+      { "key": 8, "parent": 2, "name": "Lewis Theory", "color": "#17a2b8" }
+    ],
+     "7": [
+      { "key": 9, "parent": 7, "name": "Conjugate Acid-Base Pairs", "color": "#6f42c1" }
     ],
     "3": [
-      { "key": 6, "parent": 3, "name": "Mendelian Genetics", "color": "brown" }
+      { "key": 10, "parent": 3, "name": "Strong Acids/Bases", "color": "#6610f2" },
+      { "key": 11, "parent": 3, "name": "Weak Acids/Bases", "color": "#6610f2" },
+      { "key": 12, "parent": 3, "name": "Dissociation Constant (Ka, Kb)", "color": "#fd7e14" }
+    ],
+    "4": [
+      { "key": 13, "parent": 4, "name": "Calculating pH", "color": "#e83e8c" },
+      { "key": 14, "parent": 4, "name": "Indicators", "color": "#e83e8c" }
+    ],
+    "5": [
+      { "key": 15, "parent": 5, "name": "Neutralization", "color": "#20c997" },
+      { "key": 16, "parent": 5, "name": "Buffers", "color": "#20c997" },
+      { "key": 17, "parent": 5, "name": "Titrations", "color": "#20c997" }
     ]
   }
 }
