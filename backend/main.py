@@ -6,11 +6,14 @@ import json
 
 app = FastAPI()
 
+@app.get("/")
+async def root():
+    return {"message": "API is running"}
 
 # Allow all for dev; restrict origins in production
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["https://concept-classes-chart.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
