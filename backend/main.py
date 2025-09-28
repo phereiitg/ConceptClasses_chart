@@ -11,7 +11,7 @@ async def root():
     return {"message": "API is running"}
 
 origins = [
-    "https://concept-classes-chart.vercel.app",
+    "https://conceptclassesjhs.vercel.app",
 ]
 
 # Allow all for dev; restrict origins in production
@@ -37,7 +37,8 @@ def load_subject(subject: str):
     fp = DATA_DIR / f"{subject}.json"
     if not fp.exists():
         raise HTTPException(status_code=404, detail="subject not found")
-    return json.loads(fp.read_text(encoding="utf-8"))
+    data = json.loads(fp.read_text(encoding="utf-8"))
+    return data['root'][0]['name']
 
 
 
