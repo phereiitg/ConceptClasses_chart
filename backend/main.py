@@ -32,7 +32,10 @@ async def get_subjects():
     for f in DATA_DIR.glob("*.json"):
         try:
             data = json.loads(f.read_text(encoding="utf-8"))
-            subject_info = data['root'][0]['name'] 
+            subject_info = {
+                "id": f.stem,  # e.g., "chemistry"
+                "name": data['root'][0]['name']  # e.g., "Root-Chemistry"
+            }
             subjects_list.append(subject_info)
 
         except Exception as e:
