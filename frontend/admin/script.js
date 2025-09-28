@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
             subjects.forEach(subject => {
                 const listItem = document.createElement("li");
                 const link = document.createElement("a");
-                link.href = `/tree/tree.html?subject=${encodeURIComponent(subject.id)}`;
+                link.href = `../tree/tree.html?subject=${encodeURIComponent(subject.id)}`;
                 link.textContent = subject.name;
                 listItem.appendChild(link);
                 subjectList.appendChild(listItem);
