@@ -1,6 +1,10 @@
 {
   "root": [
+<<<<<<< HEAD
     { "key": 1, "name": "The First War of Independence, 1857", "color": "darkgreen", "hasChildren": true }
+=======
+    { "key": 1, "name": "Root-test1", "color": "darkgreen", "hasChildren": true }
+>>>>>>> c637aa7d806874aa4e8f9f01cb27e36bbce665a0
   ],
   "nodes": {
     "1": [

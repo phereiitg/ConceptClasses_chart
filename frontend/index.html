@@ -1,72 +1,120 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <title>Concept Classes</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concept Classes - Excellence in Education</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/jpeg" href="/assets/logo.jpeg">
     <style>
         body {
             font-family: 'Inter', sans-serif;
-            background: #f9fafb;
-            margin: 0;
-            padding: 20px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
         }
-        .container {
-            text-align: center;
+        /* Simple animation for elements to fade in on load */
+        .fade-in {
+            animation: fadeIn 1s ease-in-out;
         }
-        h1 {
-            color: #333;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin: 10px 0;
-        }
-        a {
-            text-decoration: none;
-            color: #007bff;
-            font-size: 1.2em;
-            transition: color 0.3s;
-        }
-        a:hover {
-            color: #0056b3;
-            text-decoration: underline;
-        }
-        .logo {
-            position: absolute;
-            top: 20px;
-            left: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
     </style>
 </head>
-<body>
-    <div class="logo">
-        <div class="image">
-            <img src="/assets/logo.jpeg" alt="Logo" width="300" height="auto">
-        </div>
-    </div>
-    <div class="container">
-        <h1>Select a Topic</h1>
-        <ul id="subject-list">
-            <li>Loading... might take upto 50 seconds</li>
-        </ul>
+<body class="bg-gradient-to-br from-blue-50 to-indigo-100 text-gray-800">
+
+    <!-- Main Container -->
+    <div class="container mx-auto p-4 sm:p-6 lg:p-8">
+        
+        <!-- Header Section -->
+        <header class="text-center py-12 fade-in">
+            <div class="flex justify-center mb-6">
+                <div class="bg-white p-4 rounded-xl shadow-lg">
+                    <img src="/assets/logo.jpeg" alt="Concept Classes Logo" class="h-16 w-auto">
+                </div>
+            </div>
+            <h1 class="text-4xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-800">
+                CONCEPT CLASSES
+            </h1>
+            <p class="text-lg md:text-xl text-gray-600 mt-2">Excellence in Education</p>
+            <p class="text-md md:text-lg text-gray-500 mt-1">ICSE & CBSE Coaching for Class IX & X</p>
+        </header>
+
+        <!-- Founder Section -->
+        <section class="my-16 text-center fade-in" style="animation-delay: 0.2s;">
+            <img src="/assets/admin.jpeg" alt="Avijit Kr. Dey, Founder" class="w-36 h-36 mx-auto rounded-full object-cover border-4 border-white shadow-2xl">
+            <h2 class="text-3xl font-bold mt-6 text-indigo-900">Avijit Kr. Dey</h2>
+            <p class="text-gray-600 font-semibold">Founder & Principal Educator</p>
+            <p class="max-w-2xl mx-auto mt-4 text-gray-700">
+                Dedicated to providing quality education with personalized attention to help students excel in their academic journey.
+            </p>
+            <div class="inline-flex items-center mt-4 bg-indigo-100 text-indigo-800 px-4 py-2 rounded-full text-sm font-semibold">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
+                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd" />
+                </svg>
+                Mission: Academic Excellence Through Innovation
+            </div>
+        </section>
+
+        <!-- Visit Us Section -->
+        <section class="my-16 text-center fade-in" style="animation-delay: 0.6s;">
+            <div class="inline-block bg-red-100 p-4 rounded-full mb-4">
+                 <svg class="w-8 h-8 text-red-500" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>
+            </div>
+            <h2 class="text-3xl font-bold text-indigo-900">Visit Us</h2>
+            <p class="text-lg text-gray-700 mt-2">Antia Tal Road,</p>
+            <p class="text-lg text-gray-600">Jhansi, Uttar Pradesh</p>
+        </section>
+
+
+        <!-- Programs Section -->
+        <section class="my-16 fade-in" style="animation-delay: 0.4s;">
+            <h2 class="text-center text-3xl font-bold text-indigo-900 mb-8">Our Programs</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                <!-- ICSE Board Card -->
+                <div class="bg-white/60 backdrop-blur-sm p-8 rounded-xl shadow-lg text-center hover:shadow-2xl transition-shadow duration-300">
+                    <div class="inline-block bg-blue-100 p-4 rounded-full mb-4">
+                        <svg class="w-8 h-8 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v11.494m-5.247-8.742h10.494M4.753 12h14.494"></path></svg>
+                    </div>
+                    <h3 class="text-2xl font-semibold text-gray-800">ICSE Board</h3>
+                    <p class="mt-2 text-gray-600">Comprehensive coaching for Class IX & X with proven methodology.</p>
+                </div>
+                <!-- CBSE Board Card -->
+                <div class="bg-white/60 backdrop-blur-sm p-8 rounded-xl shadow-lg text-center hover:shadow-2xl transition-shadow duration-300">
+                     <div class="inline-block bg-purple-100 p-4 rounded-full mb-4">
+                        <svg class="w-8 h-8 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                    </div>
+                    <h3 class="text-2xl font-semibold text-gray-800">CBSE Board</h3>
+                    <p class="mt-2 text-gray-600">Expert guidance for Class IX & X with a personalized approach.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA Section -->
+        <section class="my-16 text-center bg-white p-8 md:p-12 rounded-2xl shadow-xl fade-in" style="animation-delay: 0.8s;">
+            <h2 class="text-3xl font-bold text-indigo-900">Ready to Excel in Your Studies?</h2>
+            <p class="max-w-2xl mx-auto mt-4 text-gray-600">
+                Join Concept Classes for personalized attention and proven results in ICSE and CBSE board examinations.
+            </p>
+            <button class="mt-8 bg-gradient-to-r from-blue-500 to-indigo-600 text-white font-bold py-3 px-8 rounded-lg shadow-lg hover:shadow-xl hover:scale-105 transform transition-all duration-300">
+                Start Your Journey Today
+            </button>
+        </section>
+        
+        <!-- Footer -->
+        <footer class="text-center py-6 text-gray-500 text-sm">
+            <p>&copy; 2024 Concept Classes. All Rights Reserved.</p>
+        </footer>
+
     </div>
 
-    <script>
-        // set API backend base (for now it's localhost)
-        window.API_BASE = "https://concept-classes-backend.onrender.com";
-    </script>
-    <script src="script.js"></script>
 </body>
 </html>

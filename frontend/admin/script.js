@@ -10,11 +10,12 @@ document.addEventListener("DOMContentLoaded", function() {
             if (firstLi) {
                 firstLi.remove(); // Remove the loading message
             }
+
             subjects.forEach(subject => {
                 const listItem = document.createElement("li");
                 const link = document.createElement("a");
-                link.href = `tree/tree.html?subject=${encodeURIComponent(subject)}`;
-                link.textContent = subject.charAt(0).toUpperCase() + subject.slice(1); // Capitalize first letter
+                link.href = `../tree/tree.html?subject=${encodeURIComponent(subject.id)}`;
+                link.textContent = subject.name;
                 listItem.appendChild(link);
                 subjectList.appendChild(listItem);
             });
