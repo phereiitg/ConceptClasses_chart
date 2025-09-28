@@ -12,6 +12,7 @@ async def root():
 
 origins = [
     "https://conceptclassesjhs.vercel.app",
+    "https://concept-classes-chart.vercel.app",
 ]
 
 # Allow all for dev; restrict origins in production
