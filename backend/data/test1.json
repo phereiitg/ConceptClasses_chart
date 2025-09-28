@@ -1,6 +1,6 @@
 {
   "root": [
-    { "key": 1, "name": "The First War of Independence, 1857", "color": "darkgreen", "hasChildren": true }
+    { "key": 1, "name": "The First War of Independence, 1857 (test)", "color": "darkgreen", "hasChildren": true }
   ],
   "nodes": {
     "1": [
