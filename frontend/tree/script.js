@@ -8,7 +8,8 @@ function init() {
 
   const myDiagram = $(go.Diagram, "myDiagramDiv", {
     layout: $(go.TreeLayout, { angle: 0, layerSpacing: 40 }),
-    initialContentAlignment: go.Spot.LeftCenter
+    initialContentAlignment: go.Spot.LeftCenter,
+    padding: 50
   });
 
   // Node template with expand button
