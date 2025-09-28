@@ -1,154 +1,35 @@
-
+{
   "root": [
-    { "key": 1, "name": "The First War of Independence, 1857", "color": "darkgreen", "hasChildren": true }
+    { "key": 1, "name": "Root-Acids and Bases", "color": "darkred", "hasChildren": true }
   ],
   "nodes": {
     "1": [
-      { "key": 2, "parent": 1, "name": "Important Terms, Events, Persons", "color": "blue", "hasChildren": true },
-      { "key": 3, "parent": 1, "name": "Causes of the War "color": "blue", "hasChildren": true },
-{ "key": 4, "parent": 1, "name": "The Uprising (Events)", "color": "blue", "hasChildren": true },
-      { "key": 5, "parent": 1, "name": "Causes of Failure of Uprising", "color": "blue", "hasChildren": true },
-{ "key": 6, "parent": 1, "name": "raja", "Consequences of the War": "blue", "hasChildren": true }
+      { "key": 2, "parent": 1, "name": "Theories", "color": "#007bff", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "Properties & Strength", "color": "#28a745", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "pH and pOH Scale", "color": "#ffc107", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "Reactions", "color": "#dc3545", "hasChildren": true }
     ],
-
-
-
     "2": [
-      { "key": 7, "parent": 2, "name": "Doctrine of Lapse", "color": "red" },
-      { "key": 8, "parent": 2, "name": "Subsidiary Alliance", "color": "red" },
-      { "key": 9, "parent": 2, "name": "First War of Independence": "red" },
-     
-      { "key": 11, "parent": 2, "name": "Nana Saheb", "color": "red" },
-      { "key": 12, "parent": 2, "name": "Bahadur Shah Zafar", "color": "red" },
-      { "key": 13, "parent": 2, "name": "Lord Dalhousie", "color": "red" },
-      { "key": 14, "parent": 2, "name": "Mangal Pandey", "color": "red" },
-      { "key": 15, "parent": 2, "name": "Government of India Act, 1858", "color": "red" },
-      { "key": 16, "parent": 2, "name": "Queen Victoria's Proclamation (Nov 1, 1858)", "color": "red" },
-      { "key": 17, "parent": 2, "name": "Lord Canning", "color": "red" },
-      { "key": 18, "parent": 2, "name": "General Service Enlistment Act", "color": "red" },
-      { "key": 19, "parent": 2, "name": "Religious Incompetence Law", "color": "red" },
-      { "key": 20, "parent": 2, "name": "Widow Remarriage Act, 1856", "color": "red" },
-      { "key": 21, "parent": 2, "name": "Divide and Rule", "color": "red" },
-      { "key": 22, "parent": 2, "name": "Permanent Settlement (1793)", "color": "red" }  
- 
+      { "key": 6, "parent": 2, "name": "Arrhenius Theory", "color": "#17a2b8" },
+      { "key": 7, "parent": 2, "name": "Brønsted-Lowry Theory", "color": "#17a2b8", "hasChildren": true },
+      { "key": 8, "parent": 2, "name": "Lewis Theory", "color": "#17a2b8" }
     ],
-
-
-   "3": [
-      { "key": 23, "parent": 3, "name": "Socio-Religious Causes", "color": "red" },
-      { "key": 24, "parent": 3, "name": "Economic Exploitation of India", "color": "red" },
-      { "key": 25, "parent": 3, "name": "Military Causes": "red" }
-      {  
- 
+     "7": [
+      { "key": 9, "parent": 7, "name": "Conjugate Acid-Base Pairs", "color": "#6f42c1" }
     ],
-"4": [
-      { "key": 26, "parent": 3, "name": "The Uprising at Meerut", "color": "red" },
-      { "key": 27, "parent": 3, "name": "Delhi", "color": "red" },
-      { "key": 28, "parent": 3, "name": "Lucknow": "red" },
-      { "key": 29, "parent": 3, "name": "Kanpur", "color": "red" },
-      { "key": 30, "parent": 3, "name": "Jhansi and Gwalior", "color": "red" }
-       
- 
+    "3": [
+      { "key": 10, "parent": 3, "name": "Strong Acids/Bases", "color": "#6610f2" },
+      { "key": 11, "parent": 3, "name": "Weak Acids/Bases", "color": "#6610f2" },
+      { "key": 12, "parent": 3, "name": "Dissociation Constant (Ka, Kb)", "color": "#fd7e14" }
     ],
-
-
-"5": [
-      { "key": 31, "parent": 3, "name": "Not All-India Struggle", "color": "red" },
-      { "key": 32, "parent": 3, "name": "Lack of Unity", "color": "red" },
-      { "key": 33, "parent": 3, "name": "Inferior Resources": "red" },
-      { "key": 34, "parent": 3, "name": "Company Superiority", "color": "red" },
-      { "key": 35, "parent": 3, "name": "Poor Organization", "color": "red" }
-       
- 
+    "4": [
+      { "key": 13, "parent": 4, "name": "Calculating pH", "color": "#e83e8c" },
+      { "key": 14, "parent": 4, "name": "Indicators", "color": "#e83e8c" }
     ],
-
-"6": [
-      { "key": 36, "parent": 3, "name": "Changes in Administrative Setup", "color": "red" },
-      { "key": 37, "parent": 3, "name": "End of Peshwas and Mughal Empire", "color": "red" },
-      { "key": 38, "parent": 3, "name": "Changes in Army Organization": "red" },
-      { "key": 39, "parent": 3, "name": "Introduction of Budget System (1860)", "color": "red" },
-     
-       
- 
-    ],
-
-
-"7": [
-      { "key": 40, "parent": 7, "name": "State passed over to English Company
-", "color": "brown" }
-    ];
-
-
-"8": [
-      { "key": 41, "parent": 8, "name": "British force maintained by Indian ruler", "color": "green" }
-    ];
-
-"9": [
-      { "key": 42, "parent": 9, "name": "Main aim: Push British out of India", "color": "green" }
-    ];
-
-"10": [
-      { "key": 43, "parent": 10, "name": "Adopted son of Peshwa Baji Rao II", "color": "green" }
-    ];
-
-"11": [
-      { "key": 44, "parent": 11, "name": "Last Mughal Emperor", "color": "green" }
-    ];
-
-"12": [
-      { "key": 45, "parent": 12, "name": "Governor General 1846-1856", "color": "green" },
-{ "key": 46, "parent": 12, "name": "Introduced Doctrine of Lapse", "color": "green" }
-    ];
-
-"13": [
-      { "key": 47, "parent": 13, "name": "Sepoy who refused greased cartridges", "color": "green" },
-{ "key": 48, "parent": 13, "name": "Executed after court martial", "color": "green" }
-    ];
-
-"14": [
-      { "key": 49, "parent": 14, "name": "Power transferred from East India Company to British Crown
-", "color": "green" }
-    ];
-
-"15": [
-      { "key": 50, "parent": 15, "name": "Read by Lord Canning", "color": "green" },
-{ "key": 51, "parent": 15, "name": "Promises made to Indian people and Princes", "color": "green" }
-    ];
-
-
-"16": [
-      { "key": 52, "parent": 15, "name": "First Viceroy of India", "color": "green" },
-{ "key": 53, "parent": 15, "name": "Read Queen's Proclamation", "color": "green" }
-    ];
-
-
-"17": [
-      { "key": 54, "parent": 15, "name": "Recruits for Bengal Army serve anywhere", "color": "green" },
-{ "key": 55, "parent": 15, "name": "Crossed the sea to serve", "color": "green" }
-    ];
-
-
-"18": [
-      { "key": 55, "parent": 16, "name": "Person changing religion could retain ancestral property
-", "color": "green" }
-    ];
-
-"19": [
-      { "key": 56, "parent": 17, "name": "Legalized widow remarriage", "color": "green" }
-    ];
-
-"20": [
-      { "key": 57, "parent": 18, "name": "Policy of securing empire by creating wedge/discord between communities
-", "color": "green" }
-    ];
-
-
-
-
-
-
-
-
-
+    "5": [
+      { "key": 15, "parent": 5, "name": "Neutralization", "color": "#20c997" },
+      { "key": 16, "parent": 5, "name": "Buffers", "color": "#20c997" },
+      { "key": 17, "parent": 5, "name": "Titrations", "color": "#20c997" }
+    ]
   }
 }
