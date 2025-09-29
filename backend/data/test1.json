@@ -53,7 +53,7 @@
 
     "6": [
       { "key": 36, "parent": 6, "name": "Changes in Administrative Setup", "color": "red" },
-      { "key": 37, "parent": 6, "name": "End of Peshwas and Mughal Empire", "color": "red" },
+      { "key": 37, "parent": 6, "name": "End of Peshwas and Mughal Empire", "color": "red","hasChildren": true },
       { "key": 38, "parent": 6, "name": "Changes in Army Organization", "color": "red" },
       { "key": 39, "parent": 6, "name": "Introduction of Budget System (1860)", "color": "red" }
     ],

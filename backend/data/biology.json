@@ -12,111 +12,111 @@
     ],
 
     "2": [
-      { "key": 7, "parent": 2, "name": "Doctrine of Lapse", "color": "red" },
-      { "key": 8, "parent": 2, "name": "Subsidiary Alliance", "color": "red" },
-      { "key": 9, "parent": 2, "name": "First War of Independence", "color": "red" },
-      { "key": 11, "parent": 2, "name": "Nana Saheb", "color": "red" },
-      { "key": 12, "parent": 2, "name": "Bahadur Shah Zafar", "color": "red" },
-      { "key": 13, "parent": 2, "name": "Lord Dalhousie", "color": "red" },
-      { "key": 14, "parent": 2, "name": "Mangal Pandey", "color": "red" },
-      { "key": 15, "parent": 2, "name": "Government of India Act, 1858", "color": "red" },
-      { "key": 16, "parent": 2, "name": "Queen Victoria's Proclamation (Nov 1, 1858)", "color": "red" },
-      { "key": 17, "parent": 2, "name": "Lord Canning", "color": "red" },
-      { "key": 18, "parent": 2, "name": "General Service Enlistment Act", "color": "red" },
-      { "key": 19, "parent": 2, "name": "Religious Incompetence Law", "color": "red" },
-      { "key": 20, "parent": 2, "name": "Widow Remarriage Act, 1856", "color": "red" },
-      { "key": 21, "parent": 2, "name": "Divide and Rule", "color": "red" },
-      { "key": 22, "parent": 2, "name": "Permanent Settlement (1793)", "color": "red" }
+      { "key": 7, "parent": 2, "name": "Doctrine of Lapse", "color": "red" , "hasChildren": true},
+      { "key": 8, "parent": 2, "name": "Subsidiary Alliance", "color": "red" , "hasChildren": true },
+      { "key": 9, "parent": 2, "name": "First War of Independence", "color": "red" , "hasChildren": true},
+      { "key": 11, "parent": 2, "name": "Nana Saheb", "color": "red" , "hasChildren": true},
+      { "key": 12, "parent": 2, "name": "Bahadur Shah Zafar", "color": "red" , "hasChildren": true},
+      { "key": 13, "parent": 2, "name": "Lord Dalhousie", "color": "red" , "hasChildren": true},
+      { "key": 14, "parent": 2, "name": "Mangal Pandey", "color": "red" , "hasChildren": true},
+      { "key": 15, "parent": 2, "name": "Government of India Act, 1858", "color": "red" , "hasChildren": true},
+      { "key": 16, "parent": 2, "name": "Queen Victoria's Proclamation (Nov 1, 1858)", "color": "red" , "hasChildren": true},
+      { "key": 17, "parent": 2, "name": "Lord Canning", "color": "red" , "hasChildren": true},
+      { "key": 18, "parent": 2, "name": "General Service Enlistment Act", "color": "red" , "hasChildren": true},
+      { "key": 19, "parent": 2, "name": "Religious Incompetence Law", "color": "red" , "hasChildren": true},
+      { "key": 20, "parent": 2, "name": "Widow Remarriage Act, 1856", "color": "red" , "hasChildren": true},
+      { "key": 21, "parent": 2, "name": "Divide and Rule", "color": "red" , "hasChildren": true},
+      { "key": 22, "parent": 2, "name": "Permanent Settlement (1793)", "color": "red" , "hasChildren": true}
     ],
 
     "3": [
-      { "key": 23, "parent": 3, "name": "Socio-Religious Causes", "color": "red" },
-      { "key": 24, "parent": 3, "name": "Economic Exploitation of India", "color": "red" },
-      { "key": 25, "parent": 3, "name": "Military Causes", "color": "red" }
+      { "key": 23, "parent": 3, "name": "Socio-Religious Causes", "color": "red" , "hasChildren": true},
+      { "key": 24, "parent": 3, "name": "Economic Exploitation of India", "color": "red", "hasChildren": true },
+      { "key": 25, "parent": 3, "name": "Military Causes", "color": "red" , "hasChildren": true}
     ],
 
     "4": [
-      { "key": 26, "parent": 4, "name": "The Uprising at Meerut", "color": "red" },
-      { "key": 27, "parent": 4, "name": "Delhi", "color": "red" },
-      { "key": 28, "parent": 4, "name": "Lucknow", "color": "red" },
-      { "key": 29, "parent": 4, "name": "Kanpur", "color": "red" },
-      { "key": 30, "parent": 4, "name": "Jhansi and Gwalior", "color": "red" }
+      { "key": 26, "parent": 4, "name": "The Uprising at Meerut", "color": "red" , "hasChildren": true },
+      { "key": 27, "parent": 4, "name": "Delhi", "color": "red" , "hasChildren": true},
+      { "key": 28, "parent": 4, "name": "Lucknow", "color": "red" , "hasChildren": true},
+      { "key": 29, "parent": 4, "name": "Kanpur", "color": "red" , "hasChildren": true},
+      { "key": 30, "parent": 4, "name": "Jhansi and Gwalior", "color": "red" , "hasChildren": true}
     ],
 
     "5": [
-      { "key": 31, "parent": 5, "name": "Not All-India Struggle", "color": "red" },
-      { "key": 32, "parent": 5, "name": "Lack of Unity", "color": "red" },
-      { "key": 33, "parent": 5, "name": "Inferior Resources", "color": "red" },
-      { "key": 34, "parent": 5, "name": "Company Superiority", "color": "red" },
-      { "key": 35, "parent": 5, "name": "Poor Organization", "color": "red" }
+      { "key": 31, "parent": 5, "name": "Not All-India Struggle", "color": "red" , "hasChildren": true },
+      { "key": 32, "parent": 5, "name": "Lack of Unity", "color": "red" , "hasChildren": true},
+      { "key": 33, "parent": 5, "name": "Inferior Resources", "color": "red" , "hasChildren": true},
+      { "key": 34, "parent": 5, "name": "Company Superiority", "color": "red" , "hasChildren": true },
+      { "key": 35, "parent": 5, "name": "Poor Organization", "color": "red" , "hasChildren": true}
     ],
 
     "6": [
-      { "key": 36, "parent": 6, "name": "Changes in Administrative Setup", "color": "red" },
-      { "key": 37, "parent": 6, "name": "End of Peshwas and Mughal Empire", "color": "red" },
-      { "key": 38, "parent": 6, "name": "Changes in Army Organization", "color": "red" },
-      { "key": 39, "parent": 6, "name": "Introduction of Budget System (1860)", "color": "red" }
+      { "key": 36, "parent": 6, "name": "Changes in Administrative Setup", "color": "red" , "hasChildren": true},
+      { "key": 37, "parent": 6, "name": "End of Peshwas and Mughal Empire", "color": "red" , "hasChildren": true },
+      { "key": 38, "parent": 6, "name": "Changes in Army Organization", "color": "red" , "hasChildren": true},
+      { "key": 39, "parent": 6, "name": "Introduction of Budget System (1860)", "color": "red", "hasChildren": true }
     ],
 
     "7": [
-      { "key": 40, "parent": 7, "name": "State passed over to English Company", "color": "brown" }
+      { "key": 40, "parent": 7, "name": "State passed over to English Company", "color": "brown" , "hasChildren": true }
     ],
 
     "8": [
-      { "key": 41, "parent": 8, "name": "British force maintained by Indian ruler", "color": "green" }
+      { "key": 41, "parent": 8, "name": "British force maintained by Indian ruler", "color": "green" , "hasChildren": true }
     ],
 
     "9": [
-      { "key": 42, "parent": 9, "name": "Main aim: Push British out of India", "color": "green" }
+      { "key": 42, "parent": 9, "name": "Main aim: Push British out of India", "color": "green" , "hasChildren": true}
     ],
 
     "10": [
-      { "key": 43, "parent": 10, "name": "Adopted son of Peshwa Baji Rao II", "color": "green" }
+      { "key": 43, "parent": 10, "name": "Adopted son of Peshwa Baji Rao II", "color": "green" , "hasChildren": true}
     ],
 
     "11": [
-      { "key": 44, "parent": 11, "name": "Last Mughal Emperor", "color": "green" }
+      { "key": 44, "parent": 11, "name": "Last Mughal Emperor", "color": "green" , "hasChildren": true}
     ],
 
     "12": [
-      { "key": 45, "parent": 12, "name": "Governor General 1846-1856", "color": "green" },
-      { "key": 46, "parent": 12, "name": "Introduced Doctrine of Lapse", "color": "green" }
+      { "key": 45, "parent": 12, "name": "Governor General 1846-1856", "color": "green", "hasChildren": true },
+      { "key": 46, "parent": 12, "name": "Introduced Doctrine of Lapse", "color": "green", "hasChildren": true }
     ],
 
     "13": [
-      { "key": 47, "parent": 13, "name": "Sepoy who refused greased cartridges", "color": "green" },
-      { "key": 48, "parent": 13, "name": "Executed after court martial", "color": "green" }
+      { "key": 47, "parent": 13, "name": "Sepoy who refused greased cartridges", "color": "green", "hasChildren": true },
+      { "key": 48, "parent": 13, "name": "Executed after court martial", "color": "green" , "hasChildren": true}
     ],
 
     "14": [
-      { "key": 49, "parent": 14, "name": "Power transferred from East India Company to British Crown", "color": "green" }
+      { "key": 49, "parent": 14, "name": "Power transferred from East India Company to British Crown", "color": "green" , "hasChildren": true}
     ],
 
     "15": [
-      { "key": 50, "parent": 15, "name": "Read by Lord Canning", "color": "green" },
-      { "key": 51, "parent": 15, "name": "Promises made to Indian people and Princes", "color": "green" }
+      { "key": 50, "parent": 15, "name": "Read by Lord Canning", "color": "green", "hasChildren": true },
+      { "key": 51, "parent": 15, "name": "Promises made to Indian people and Princes", "color": "green", "hasChildren": true }
     ],
 
     "16": [
-      { "key": 52, "parent": 16, "name": "First Viceroy of India", "color": "green" },
-      { "key": 53, "parent": 16, "name": "Read Queen's Proclamation", "color": "green" }
+      { "key": 52, "parent": 16, "name": "First Viceroy of India", "color": "green", "hasChildren": true },
+      { "key": 53, "parent": 16, "name": "Read Queen's Proclamation", "color": "green", "hasChildren": true }
     ],
 
     "17": [
-      { "key": 54, "parent": 17, "name": "Recruits for Bengal Army serve anywhere", "color": "green" },
-      { "key": 55, "parent": 17, "name": "Crossed the sea to serve", "color": "green" }
+      { "key": 54, "parent": 17, "name": "Recruits for Bengal Army serve anywhere", "color": "green", "hasChildren": true },
+      { "key": 55, "parent": 17, "name": "Crossed the sea to serve", "color": "green", "hasChildren": true }
     ],
 
     "18": [
-      { "key": 56, "parent": 18, "name": "Person changing religion could retain ancestral property", "color": "green" }
+      { "key": 56, "parent": 18, "name": "Person changing religion could retain ancestral property", "color": "green" , "hasChildren": true }
     ],
 
     "19": [
-      { "key": 57, "parent": 19, "name": "Legalized widow remarriage", "color": "green" }
+      { "key": 57, "parent": 19, "name": "Legalized widow remarriage", "color": "green", "hasChildren": true }
     ],
 
     "20": [
-      { "key": 58, "parent": 20, "name": "Policy of securing empire by creating wedge/discord between communities", "color": "green" }
+      { "key": 58, "parent": 20, "name": "Policy of securing empire by creating wedge/discord between communities", "color": "green", "hasChildren": true}
     ]
   }
 }
