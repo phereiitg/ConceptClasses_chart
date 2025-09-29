@@ -60,63 +60,7 @@
 
     "7": [
       { "key": 40, "parent": 7, "name": "State passed over to English Company", "color": "brown" }
-    ],
-
-    "8": [
-      { "key": 41, "parent": 8, "name": "British force maintained by Indian ruler", "color": "green" }
-    ],
-
-    "9": [
-      { "key": 42, "parent": 9, "name": "Main aim: Push British out of India", "color": "green" }
-    ],
-
-    "10": [
-      { "key": 43, "parent": 10, "name": "Adopted son of Peshwa Baji Rao II", "color": "green" }
-    ],
-
-    "11": [
-      { "key": 44, "parent": 11, "name": "Last Mughal Emperor", "color": "green" }
-    ],
-
-    "12": [
-      { "key": 45, "parent": 12, "name": "Governor General 1846-1856", "color": "green" },
-      { "key": 46, "parent": 12, "name": "Introduced Doctrine of Lapse", "color": "green" }
-    ],
-
-    "13": [
-      { "key": 47, "parent": 13, "name": "Sepoy who refused greased cartridges", "color": "green" },
-      { "key": 48, "parent": 13, "name": "Executed after court martial", "color": "green" }
-    ],
-
-    "14": [
-      { "key": 49, "parent": 14, "name": "Power transferred from East India Company to British Crown", "color": "green" }
-    ],
-
-    "15": [
-      { "key": 50, "parent": 15, "name": "Read by Lord Canning", "color": "green" },
-      { "key": 51, "parent": 15, "name": "Promises made to Indian people and Princes", "color": "green" }
-    ],
-
-    "16": [
-      { "key": 52, "parent": 16, "name": "First Viceroy of India", "color": "green" },
-      { "key": 53, "parent": 16, "name": "Read Queen's Proclamation", "color": "green" }
-    ],
-
-    "17": [
-      { "key": 54, "parent": 17, "name": "Recruits for Bengal Army serve anywhere", "color": "green" },
-      { "key": 55, "parent": 17, "name": "Crossed the sea to serve", "color": "green" }
-    ],
-
-    "18": [
-      { "key": 56, "parent": 18, "name": "Person changing religion could retain ancestral property", "color": "green" }
-    ],
-
-    "19": [
-      { "key": 57, "parent": 19, "name": "Legalized widow remarriage", "color": "green" }
-    ],
-
-    "20": [
-      { "key": 58, "parent": 20, "name": "Policy of securing empire by creating wedge/discord between communities", "color": "green" }
     ]
+
   }
 }
