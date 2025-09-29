@@ -15,6 +15,7 @@
       { "key": 7, "parent": 2, "name": "Doctrine of Lapse", "color": "red" , "hasChildren": true},
       { "key": 8, "parent": 2, "name": "Subsidiary Alliance", "color": "red" , "hasChildren": true },
       { "key": 9, "parent": 2, "name": "First War of Independence", "color": "red" , "hasChildren": true},
+      
       { "key": 11, "parent": 2, "name": "Nana Saheb", "color": "red" , "hasChildren": true},
       { "key": 12, "parent": 2, "name": "Bahadur Shah Zafar", "color": "red" , "hasChildren": true},
       { "key": 13, "parent": 2, "name": "Lord Dalhousie", "color": "red" , "hasChildren": true},
@@ -117,6 +118,10 @@
 
     "21": [
       { "key": 58, "parent": 21, "name": "Policy of securing empire by creating wedge/discord between communities", "color": "green", "hasChildren": true}
-    ]
-  }
-}
+    ],
+     "22": [
+      { "key": 59, "parent": 22, "name": "Land Revenue system under Loard Cornwallis","color": "green", "hasChildren": true },
+      { "key": 60, "parent": 22, "name": "Revenue Fixed Permanently","color": "green", "hasChildren": true }
+     ]
+    }
+  }}
