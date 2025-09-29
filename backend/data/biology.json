@@ -70,53 +70,53 @@
       { "key": 42, "parent": 9, "name": "Main aim: Push British out of India", "color": "green" , "hasChildren": true}
     ],
 
-    "10": [
-      { "key": 43, "parent": 10, "name": "Adopted son of Peshwa Baji Rao II", "color": "green" , "hasChildren": true}
-    ],
-
     "11": [
-      { "key": 44, "parent": 11, "name": "Last Mughal Emperor", "color": "green" , "hasChildren": true}
+      { "key": 43, "parent": 11, "name": "Adopted son of Peshwa Baji Rao II", "color": "green" , "hasChildren": true}
     ],
 
     "12": [
-      { "key": 45, "parent": 12, "name": "Governor General 1846-1856", "color": "green", "hasChildren": true },
-      { "key": 46, "parent": 12, "name": "Introduced Doctrine of Lapse", "color": "green", "hasChildren": true }
+      { "key": 44, "parent": 12, "name": "Last Mughal Emperor", "color": "green" , "hasChildren": true}
     ],
 
     "13": [
-      { "key": 47, "parent": 13, "name": "Sepoy who refused greased cartridges", "color": "green", "hasChildren": true },
-      { "key": 48, "parent": 13, "name": "Executed after court martial", "color": "green" , "hasChildren": true}
+      { "key": 45, "parent": 13, "name": "Governor General 1846-1856", "color": "green", "hasChildren": true },
+      { "key": 46, "parent": 13, "name": "Introduced Doctrine of Lapse", "color": "green", "hasChildren": true }
     ],
 
     "14": [
-      { "key": 49, "parent": 14, "name": "Power transferred from East India Company to British Crown", "color": "green" , "hasChildren": true}
+      { "key": 47, "parent": 14, "name": "Sepoy who refused greased cartridges", "color": "green", "hasChildren": true },
+      { "key": 48, "parent": 14, "name": "Executed after court martial", "color": "green" , "hasChildren": true}
     ],
 
     "15": [
-      { "key": 50, "parent": 15, "name": "Read by Lord Canning", "color": "green", "hasChildren": true },
-      { "key": 51, "parent": 15, "name": "Promises made to Indian people and Princes", "color": "green", "hasChildren": true }
+      { "key": 49, "parent": 15, "name": "Power transferred from East India Company to British Crown", "color": "green" , "hasChildren": true}
     ],
 
     "16": [
-      { "key": 52, "parent": 16, "name": "First Viceroy of India", "color": "green", "hasChildren": true },
-      { "key": 53, "parent": 16, "name": "Read Queen's Proclamation", "color": "green", "hasChildren": true }
+      { "key": 50, "parent": 16, "name": "Read by Lord Canning", "color": "green", "hasChildren": true },
+      { "key": 51, "parent": 16, "name": "Promises made to Indian people and Princes", "color": "green", "hasChildren": true }
     ],
 
     "17": [
-      { "key": 54, "parent": 17, "name": "Recruits for Bengal Army serve anywhere", "color": "green", "hasChildren": true },
-      { "key": 55, "parent": 17, "name": "Crossed the sea to serve", "color": "green", "hasChildren": true }
+      { "key": 52, "parent": 17, "name": "First Viceroy of India", "color": "green", "hasChildren": true },
+      { "key": 53, "parent": 17, "name": "Read Queen's Proclamation", "color": "green", "hasChildren": true }
     ],
 
     "18": [
-      { "key": 56, "parent": 18, "name": "Person changing religion could retain ancestral property", "color": "green" , "hasChildren": true }
+      { "key": 54, "parent": 18, "name": "Recruits for Bengal Army serve anywhere", "color": "green", "hasChildren": true },
+      { "key": 55, "parent": 18, "name": "Crossed the sea to serve", "color": "green", "hasChildren": true }
     ],
 
     "19": [
-      { "key": 57, "parent": 19, "name": "Legalized widow remarriage", "color": "green", "hasChildren": true }
+      { "key": 56, "parent": 19, "name": "Person changing religion could retain ancestral property", "color": "green" , "hasChildren": true }
     ],
 
     "20": [
-      { "key": 58, "parent": 20, "name": "Policy of securing empire by creating wedge/discord between communities", "color": "green", "hasChildren": true}
+      { "key": 57, "parent": 20, "name": "Legalized widow remarriage", "color": "green", "hasChildren": true }
+    ],
+
+    "21": [
+      { "key": 58, "parent": 21, "name": "Policy of securing empire by creating wedge/discord between communities", "color": "green", "hasChildren": true}
     ]
   }
 }
