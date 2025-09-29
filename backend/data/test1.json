@@ -1,4 +1,4 @@
- {
+  {
   "root": [
     { "key": 1, "name": "The First War of Independence, 1857", "color": "darkgren", "hasChildren": true }
   ],
@@ -64,91 +64,91 @@
     ],
 
     "8": [
-      { "key": 41, "parent": 8, "name": "British force maintained by Indian ruler", "color": "orange" , "hasChildren": true }
+      { "key": 41, "parent": 8, "name": "British force maintained by Indian ruler", "color": "green" , "hasChildren": true }
     ],
 
     "9": [
-      { "key": 42, "parent": 9, "name": "Main aim: Push British out of India", "color": "orange" , "hasChildren": true}
+      { "key": 42, "parent": 9, "name": "Main aim: Push British out of India", "color": "green" , "hasChildren": true}
     ],
 
     "11": [
-      { "key": 43, "parent": 11, "name": "Adopted son of Peshwa Baji Rao II", "color": "orange" , "hasChildren": true}
+      { "key": 43, "parent": 11, "name": "Adopted son of Peshwa Baji Rao II", "color": "green" , "hasChildren": true}
     ],
 
     "12": [
-      { "key": 44, "parent": 12, "name": "Last Mughal Emperor", "color": "orange" , "hasChildren": true}
+      { "key": 44, "parent": 12, "name": "Last Mughal Emperor", "color": "green" , "hasChildren": true}
     ],
 
     "13": [
-      { "key": 45, "parent": 13, "name": "Governor General 1846-1856", "color": "orange", "hasChildren": true },
-      { "key": 46, "parent": 13, "name": "Introduced Doctrine of Lapse", "color": "orange", "hasChildren": true }
+      { "key": 45, "parent": 13, "name": "Governor General 1846-1856", "color": "green", "hasChildren": true },
+      { "key": 46, "parent": 13, "name": "Introduced Doctrine of Lapse", "color": "green", "hasChildren": true }
     ],
 
     "14": [
-      { "key": 47, "parent": 14, "name": "Sepoy who refused greased cartridges", "color": "orange", "hasChildren": true },
-      { "key": 48, "parent": 14, "name": "Executed after court martial", "color": "orange" , "hasChildren": true}
+      { "key": 47, "parent": 14, "name": "Sepoy who refused greased cartridges", "color": "green", "hasChildren": true },
+      { "key": 48, "parent": 14, "name": "Executed after court martial", "color": "green" , "hasChildren": true}
     ],
 
     "15": [
-      { "key": 49, "parent": 15, "name": "Power transferred from East India Company to British Crown", "color": "orange" , "hasChildren": true}
+      { "key": 49, "parent": 15, "name": "Power transferred from East India Company to British Crown", "color": "green" , "hasChildren": true}
     ],
 
     "16": [
-      { "key": 50, "parent": 16, "name": "Read by Lord Canning", "color": "orange", "hasChildren": true },
-      { "key": 51, "parent": 16, "name": "Promises made to Indian people and Princes", "color": "orange", "hasChildren": true }
+      { "key": 50, "parent": 16, "name": "Read by Lord Canning", "color": "green", "hasChildren": true },
+      { "key": 51, "parent": 16, "name": "Promises made to Indian people and Princes", "color": "green", "hasChildren": true }
     ],
 
     "17": [
-      { "key": 52, "parent": 17, "name": "First Viceroy of India", "color": "orange", "hasChildren": true },
-      { "key": 53, "parent": 17, "name": "Read Queen's Proclamation", "color": "orange", "hasChildren": true }
+      { "key": 52, "parent": 17, "name": "First Viceroy of India", "color": "green", "hasChildren": true },
+      { "key": 53, "parent": 17, "name": "Read Queen's Proclamation", "color": "green", "hasChildren": true }
     ],
 
     "18": [
-      { "key": 54, "parent": 18, "name": "Recruits for Bengal Army serve anywhere", "color": "orange", "hasChildren": true },
-      { "key": 55, "parent": 18, "name": "Crossed the sea to serve", "color": "orange", "hasChildren": true }
+      { "key": 54, "parent": 18, "name": "Recruits for Bengal Army serve anywhere", "color": "green", "hasChildren": true },
+      { "key": 55, "parent": 18, "name": "Crossed the sea to serve", "color": "green", "hasChildren": true }
     ],
 
     "19": [
-      { "key": 56, "parent": 19, "name": "Person changing religion could retain ancestral property", "color": "orange" , "hasChildren": true }
+      { "key": 56, "parent": 19, "name": "Person changing religion could retain ancestral property", "color": "green" , "hasChildren": true }
     ],
 
     "20": [
-      { "key": 57, "parent": 20, "name": "Legalized widow remarriage", "color": "orange", "hasChildren": true }
+      { "key": 57, "parent": 20, "name": "Legalized widow remarriage", "color": "green", "hasChildren": true }
     ],
 
     "21": [
-      { "key": 58, "parent": 21, "name": "Policy of securing empire by creating wedge/discord between communities", "color": "orange", "hasChildren": true}
+      { "key": 58, "parent": 21, "name": "Policy of securing empire by creating wedge/discord between communities", "color": "green", "hasChildren": true}
     ],
      "22": [
-      { "key": 59, "parent": 22, "name": "Land Revenue system under Loard Cornwallis","color": "orange", "hasChildren": true },
-      { "key": 60, "parent": 22, "name": "Revenue Fixed Permanently","color": "orange", "hasChildren": true }
+      { "key": 59, "parent": 22, "name": "Land Revenue system under Loard Cornwallis","color": "green", "hasChildren": true },
+      { "key": 60, "parent": 22, "name": "Revenue Fixed Permanently","color": "green", "hasChildren": true }
      ],
 "23": [
-      { "key": 61, "parent": 23, "name": "Introduction of Railways and Telegraphs","color": "orange", "hasChildren": true },
-      { "key": 62, "parent": 23, "name": "Year of English Education (1833 A.D.)","color": "orange", "hasChildren": true },
-      { "key": 63, "parent": 23, "name": "General Indignities upon Indians","color": "orange", "hasChildren": true },
-      { "key": 64, "parent": 23, "name": "Other Prohibitions","color": "orange", "hasChildren": true }
+      { "key": 61, "parent": 23, "name": "Introduction of Railways and Telegraphs","color": "green", "hasChildren": true },
+      { "key": 62, "parent": 23, "name": "Year of English Education (1833 A.D.)","color": "green", "hasChildren": true },
+      { "key": 63, "parent": 23, "name": "General Indignities upon Indians","color": "green", "hasChildren": true },
+      { "key": 64, "parent": 23, "name": "Other Prohibitions","color": "green", "hasChildren": true }
 
      ],
 "24": [
-      { "key": 65, "parent": 24, "name": "Ruin of Indian Trade and Handicrafts","color": "orange", "hasChildren": true },
-      { "key": 66, "parent": 24, "name": "Impoverishment of Peasants","color": "orange", "hasChildren": true },
-      { "key": 67, "parent": 24, "name": "GIndia converted into an Agricultural Colony","color": "orange", "hasChildren": true },
-      { "key": 68, "parent": 24, "name": "Ill-treatment of Indigo cultivators","color": "orange", "hasChildren": true },
-      { "key": 69, "parent": 24, "name": "Confiscation of Estates (1852)","color": "orange", "hasChildren": true },
-      { "key": 70, "parent": 24, "name": "Loss of Employment","color": "orange", "hasChildren": true },
-      { "key": 71, "parent": 24, "name": "Drain of Indian wealth to England","color": "orange", "hasChildren": true }
+      { "key": 65, "parent": 24, "name": "Ruin of Indian Trade and Handicrafts","color": "green", "hasChildren": true },
+      { "key": 66, "parent": 24, "name": "Impoverishment of Peasants","color": "green", "hasChildren": true },
+      { "key": 67, "parent": 24, "name": "GIndia converted into an Agricultural Colony","color": "green", "hasChildren": true },
+      { "key": 68, "parent": 24, "name": "Ill-treatment of Indigo cultivators","color": "green", "hasChildren": true },
+      { "key": 69, "parent": 24, "name": "Confiscation of Estates (1852)","color": "green", "hasChildren": true },
+      { "key": 70, "parent": 24, "name": "Loss of Employment","color": "green", "hasChildren": true },
+      { "key": 71, "parent": 24, "name": "Drain of Indian wealth to England","color": "green", "hasChildren": true }
 
      ],
 "25": [
-      { "key": 72, "parent": 25, "name": "Meagre British Troops in India","color": "orange", "hasChildren": true },
-      { "key": 73, "parent": 25, "name": "Lower pay and jobs for Indian Soldiers","color": "orange", "hasChildren": true },
-      { "key": 74, "parent": 25, "name": "Ill-treating the Indian Troops","color": "orange", "hasChildren": true },
-      { "key": 75, "parent": 25, "name": "Demanding of Troops","color": "orange", "hasChildren": true },
-      { "key": 76, "parent": 25, "name": "General Service Enlistment Act (1856)","color": "orange", "hasChildren": true },
-      { "key": 77, "parent": 25, "name": "Defeat of British Troops in First Afghan War","color": "orange", "hasChildren": true },
-      { "key": 78, "parent": 25, "name": "Postage Office Act, 1854","color": "orange", "hasChildren": true },
-      { "key": 79, "parent": 25, "name": "Immediate Cause: Greased Cartridges","color": "orange", "hasChildren": true }
+      { "key": 72, "parent": 25, "name": "Meagre British Troops in India","color": "green", "hasChildren": true },
+      { "key": 73, "parent": 25, "name": "Lower pay and jobs for Indian Soldiers","color": "green", "hasChildren": true },
+      { "key": 74, "parent": 25, "name": "Ill-treating the Indian Troops","color": "green", "hasChildren": true },
+      { "key": 75, "parent": 25, "name": "Demanding of Troops","color": "green", "hasChildren": true },
+      { "key": 76, "parent": 25, "name": "General Service Enlistment Act (1856)","color": "green", "hasChildren": true },
+      { "key": 77, "parent": 25, "name": "Defeat of British Troops in First Afghan War","color": "green", "hasChildren": true },
+      { "key": 78, "parent": 25, "name": "Postage Office Act, 1854","color": "green", "hasChildren": true },
+      { "key": 79, "parent": 25, "name": "Immediate Cause: Greased Cartridges","color": "green", "hasChildren": true }
      ]
 
     }
