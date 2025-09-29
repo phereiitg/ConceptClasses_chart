@@ -33,8 +33,8 @@ async def get_subjects():
         try:
             data = json.loads(f.read_text(encoding="utf-8"))
             subject_info = {
-                "id": f.stem,  # e.g., "chemistry"
-                "name": data['root'][0]['name']  # e.g., "Root-Chemistry"
+                "id": f.stem,
+                "name": data['root'][0]['name']
             }
             subjects_list.append(subject_info)
 
@@ -66,5 +66,4 @@ async def get_root(subject: str):
 async def get_children(subject: str, node_id: int):
     data = load_subject(subject)
     nodes = data.get("nodes", {})
-    # store node ids as strings in JSON for convenience
     return nodes.get(str(node_id), [])
