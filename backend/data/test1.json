@@ -131,25 +131,26 @@
 
      ],
 "24": [
-      { "key": 62, "parent": 24, "name": "Ruin of Indian Trade and Handicrafts","color": "green", "hasChildren": true },
-      { "key": 63, "parent": 24, "name": "Impoverishment of Peasants","color": "green", "hasChildren": true },
-      { "key": 64, "parent": 24, "name": "GIndia converted into an Agricultural Colony","color": "green", "hasChildren": true },
-      { "key": 65, "parent": 24, "name": "Ill-treatment of Indigo cultivators","color": "green", "hasChildren": true },
-      { "key": 66, "parent": 24, "name": "Confiscation of Estates (1852)","color": "green", "hasChildren": true },
-      { "key": 67, "parent": 24, "name": "Loss of Employment","color": "green", "hasChildren": true },
-      { "key": 68, "parent": 24, "name": "Drain of Indian wealth to England","color": "green", "hasChildren": true }
+      { "key": 65, "parent": 24, "name": "Ruin of Indian Trade and Handicrafts","color": "green", "hasChildren": true },
+      { "key": 66, "parent": 24, "name": "Impoverishment of Peasants","color": "green", "hasChildren": true },
+      { "key": 67, "parent": 24, "name": "GIndia converted into an Agricultural Colony","color": "green", "hasChildren": true },
+      { "key": 68, "parent": 24, "name": "Ill-treatment of Indigo cultivators","color": "green", "hasChildren": true },
+      { "key": 69, "parent": 24, "name": "Confiscation of Estates (1852)","color": "green", "hasChildren": true },
+      { "key": 70, "parent": 24, "name": "Loss of Employment","color": "green", "hasChildren": true },
+      { "key": 71, "parent": 24, "name": "Drain of Indian wealth to England","color": "green", "hasChildren": true }
 
-     ]
+     ],
 "25": [
-      { "key": 69, "parent": 25, "name": "Meagre British Troops in India","color": "green", "hasChildren": true },
-      { "key": 70, "parent": 25, "name": "Lower pay and jobs for Indian Soldiers","color": "green", "hasChildren": true },
-      { "key": 71, "parent": 25, "name": "Ill-treating the Indian Troops","color": "green", "hasChildren": true },
-      { "key": 72, "parent": 25, "name": "Demanding of Troops","color": "green", "hasChildren": true },
-      { "key": 73, "parent": 25, "name": "General Service Enlistment Act (1856)","color": "green", "hasChildren": true },
-      { "key": 74, "parent": 25, "name": "Defeat of British Troops in First Afghan War","color": "green", "hasChildren": true },
-      { "key": 75, "parent": 25, "name": "Postage Office Act, 1854","color": "green", "hasChildren": true },
-      { "key": 76, "parent": 25, "name": "Immediate Cause: Greased Cartridges","color": "green", "hasChildren": true }
+      { "key": 72, "parent": 25, "name": "Meagre British Troops in India","color": "green", "hasChildren": true },
+      { "key": 73, "parent": 25, "name": "Lower pay and jobs for Indian Soldiers","color": "green", "hasChildren": true },
+      { "key": 74, "parent": 25, "name": "Ill-treating the Indian Troops","color": "green", "hasChildren": true },
+      { "key": 75, "parent": 25, "name": "Demanding of Troops","color": "green", "hasChildren": true },
+      { "key": 76, "parent": 25, "name": "General Service Enlistment Act (1856)","color": "green", "hasChildren": true },
+      { "key": 77, "parent": 25, "name": "Defeat of British Troops in First Afghan War","color": "green", "hasChildren": true },
+      { "key": 78, "parent": 25, "name": "Postage Office Act, 1854","color": "green", "hasChildren": true },
+      { "key": 79, "parent": 25, "name": "Immediate Cause: Greased Cartridges","color": "green", "hasChildren": true }
      ]
 
     }
   }
+
