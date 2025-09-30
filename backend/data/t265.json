@@ -1,0 +1,78 @@
+{
+  "class": "go.TreeModel",
+  "nodeDataArray": [
+    { "key": 1, "text": "United Nations (U.N.)" },
+
+    { "key": 2, "parent": 1, "text": "Founding & Context" },
+    { "key": 3, "parent": 2, "text": "Founded: 24 October 1945" },
+    { "key": 4, "parent": 2, "text": "Goal: Maintain peace and security" },
+    { "key": 5, "parent": 2, "text": "Replaced: League of Nations" },
+    { "key": 6, "parent": 2, "text": "Current Members: 193" },
+
+    { "key": 7, "parent": 1, "text": "Objectives" },
+    { "key": 8, "parent": 7, "text": "Maintain International Peace & Security" },
+    { "key": 9, "parent": 8, "text": "Prevent conflicts" },
+    { "key": 10, "parent": 8, "text": "Settle disputes peacefully" },
+    { "key": 11, "parent": 8, "text": "Stop aggression (collective measures)" },
+
+    { "key": 12, "parent": 7, "text": "Develop Friendly Relations" },
+    { "key": 13, "parent": 12, "text": "Respect equal rights" },
+    { "key": 14, "parent": 12, "text": "Promote self-determination" },
+
+    { "key": 15, "parent": 7, "text": "Cooperate in Solving International Problems" },
+    { "key": 16, "parent": 15, "text": "Poverty" },
+    { "key": 17, "parent": 15, "text": "Disease" },
+    { "key": 18, "parent": 15, "text": "Human rights" },
+    { "key": 19, "parent": 15, "text": "Environment" },
+
+    { "key": 20, "parent": 7, "text": "Promote Human Rights & Freedoms" },
+    { "key": 21, "parent": 7, "text": "Serve as a Centre for Harmonizing Actions" },
+
+    { "key": 22, "parent": 1, "text": "Principal Organs" },
+    { "key": 23, "parent": 22, "text": "General Assembly" },
+    { "key": 24, "parent": 23, "text": "Composition" },
+    { "key": 25, "parent": 24, "text": "All 193 member states represented" },
+    { "key": 26, "parent": 24, "text": "Each state has one vote" },
+    { "key": 27, "parent": 23, "text": "Functions" },
+    { "key": 28, "parent": 27, "text": "Discuss and make recommendations" },
+    { "key": 29, "parent": 27, "text": "Approve UN budget" },
+    { "key": 30, "parent": 27, "text": "Elect non-permanent Security Council members" },
+    { "key": 31, "parent": 27, "text": "Admit/suspend/expel members" },
+
+    { "key": 32, "parent": 22, "text": "Security Council" },
+    { "key": 33, "parent": 32, "text": "Composition" },
+    { "key": 34, "parent": 33, "text": "15 members total" },
+    { "key": 35, "parent": 33, "text": "5 permanent members (P5): USA, UK, Russia, China, France" },
+    { "key": 36, "parent": 33, "text": "10 non-permanent members (2-year term)" },
+    { "key": 37, "parent": 32, "text": "Functions" },
+    { "key": 38, "parent": 37, "text": "Maintain peace and security" },
+    { "key": 39, "parent": 37, "text": "Investigate disputes" },
+    { "key": 40, "parent": 37, "text": "Impose sanctions/authorize force" },
+    { "key": 41, "parent": 37, "text": "Recommend new members" },
+    { "key": 42, "parent": 32, "text": "Special Power: Veto Power (P5)" },
+    { "key": 43, "parent": 32, "text": "Decisions are legally binding" },
+
+    { "key": 44, "parent": 22, "text": "International Court of Justice (ICJ)" },
+
+    { "key": 45, "parent": 1, "text": "Major Specialized Agencies" },
+    { "key": 46, "parent": 45, "text": "UNICEF (Children’s Fund)" },
+    { "key": 47, "parent": 46, "text": "Established: 1946" },
+    { "key": 48, "parent": 46, "text": "Provide emergency aid (food, healthcare, education)" },
+    { "key": 49, "parent": 46, "text": "Eradicate child diseases (immunization)" },
+    { "key": 50, "parent": 46, "text": "Improve maternal health and nutrition" },
+
+    { "key": 51, "parent": 45, "text": "WHO (World Health Organization)" },
+    { "key": 52, "parent": 51, "text": "Established: 1948" },
+    { "key": 53, "parent": 51, "text": "Promote global public health" },
+    { "key": 54, "parent": 51, "text": "Eradicate and control diseases (polio, malaria)" },
+    { "key": 55, "parent": 51, "text": "Set international health standards" },
+    { "key": 56, "parent": 51, "text": "Provide emergency medical aid" },
+
+    { "key": 57, "parent": 45, "text": "UNESCO (Education, Science, Culture)" },
+    { "key": 58, "parent": 57, "text": "Established: 1945" },
+    { "key": 59, "parent": 57, "text": "Promote education for all (literacy, training)" },
+    { "key": 60, "parent": 57, "text": "Preserve cultural heritage" },
+    { "key": 61, "parent": 57, "text": "Support freedom of expression" },
+    { "key": 62, "parent": 57, "text": "Protect World Heritage Sites" }
+  ]
+}
