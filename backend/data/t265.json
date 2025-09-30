@@ -9,109 +9,109 @@
   ],
   "nodes": {
     "1": [
-      { "key": 2, "parent": 1, "name": "Overview", "color": "green", "hasChildren": true },
-      { "key": 3, "parent": 1, "name": "Causes of WWII", "color": "green", "hasChildren": true },
-      { "key": 4, "parent": 1, "name": "Key Events", "color": "green", "hasChildren": true },
-      { "key": 5, "parent": 1, "name": "Consequences of WWII", "color": "green", "hasChildren": true }
+      { "key": 2, "parent": 1, "name": "Overview", "color": "darkgreen", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "Causes of WWII", "color": "darkgreen", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "Key Events", "color": "darkgreen", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "Consequences of WWII", "color": "darkgreen", "hasChildren": true }
     ],
     "2": [
-      { "key": 6, "parent": 2, "name": "Duration", "color": "lightgreen", "hasChildren": true },
-      { "key": 7, "parent": 2, "name": "Opposing Groups", "color": "lightgreen", "hasChildren": true }
+      { "key": 6, "parent": 2, "name": "Duration", "color": "red", "hasChildren": true },
+      { "key": 7, "parent": 2, "name": "Opposing Groups", "color": "red", "hasChildren": true }
     ],
     "6": [
-      { "key": 8, "parent": 6, "name": "Began: 1 September 1939 (Invasion of Poland)", "color": "yellowgreen" },
-      { "key": 9, "parent": 6, "name": "Ended: 2 September 1945 (Japan's surrender)", "color": "yellowgreen" }
+      { "key": 8, "parent": 6, "name": "Began: 1 September 1939 (Invasion of Poland)", "color": "blue" },
+      { "key": 9, "parent": 6, "name": "Ended: 2 September 1945 (Japan's surrender)", "color": "blue" }
     ],
     "7": [
-      { "key": 10, "parent": 7, "name": "Allied Powers", "color": "lightgreen", "hasChildren": true },
-      { "key": 11, "parent": 7, "name": "Axis Powers", "color": "lightgreen", "hasChildren": true }
+      { "key": 10, "parent": 7, "name": "Allied Powers", "color": "red", "hasChildren": true },
+      { "key": 11, "parent": 7, "name": "Axis Powers", "color": "red", "hasChildren": true }
     ],
     "10": [
-      { "key": 12, "parent": 10, "name": "Britain", "color": "yellowgreen" },
-      { "key": 13, "parent": 10, "name": "France", "color": "yellowgreen" },
-      { "key": 14, "parent": 10, "name": "USSR (later 1941)", "color": "yellowgreen" },
-      { "key": 15, "parent": 10, "name": "USA (after 1941)", "color": "yellowgreen" }
+      { "key": 12, "parent": 10, "name": "Britain", "color": "blue" },
+      { "key": 13, "parent": 10, "name": "France", "color": "blue" },
+      { "key": 14, "parent": 10, "name": "USSR (later 1941)", "color": "blue" },
+      { "key": 15, "parent": 10, "name": "USA (after 1941)", "color": "blue" }
     ],
     "11": [
-      { "key": 16, "parent": 11, "name": "Germany", "color": "yellowgreen" },
-      { "key": 17, "parent": 11, "name": "Italy", "color": "yellowgreen" },
-      { "key": 18, "parent": 11, "name": "Japan", "color": "yellowgreen" }
+      { "key": 16, "parent": 11, "name": "Germany", "color": "blue" },
+      { "key": 17, "parent": 11, "name": "Italy", "color": "blue" },
+      { "key": 18, "parent": 11, "name": "Japan", "color": "blue" }
     ],
     "3": [
-      { "key": 19, "parent": 3, "name": "Dissatisfaction with Treaty of Versailles (1919)", "color": "lightgreen", "hasChildren": true },
-      { "key": 20, "parent": 3, "name": "Rise of Fascism and Nazism", "color": "lightgreen", "hasChildren": true },
-      { "key": 21, "parent": 3, "name": "Policy of Appeasement", "color": "lightgreen", "hasChildren": true },
-      { "key": 22, "parent": 3, "name": "Japanese Aggression", "color": "lightgreen", "hasChildren": true },
-      { "key": 23, "parent": 3, "name": "Failure of the League of Nations", "color": "lightgreen", "hasChildren": true },
-      { "key": 24, "parent": 3, "name": "Immediate Cause", "color": "lightgreen", "hasChildren": true }
+      { "key": 19, "parent": 3, "name": "Dissatisfaction with Treaty of Versailles (1919)", "color": "red", "hasChildren": true },
+      { "key": 20, "parent": 3, "name": "Rise of Fascism and Nazism", "color": "red", "hasChildren": true },
+      { "key": 21, "parent": 3, "name": "Policy of Appeasement", "color": "red", "hasChildren": true },
+      { "key": 22, "parent": 3, "name": "Japanese Aggression", "color": "red", "hasChildren": true },
+      { "key": 23, "parent": 3, "name": "Failure of the League of Nations", "color": "red", "hasChildren": true },
+      { "key": 24, "parent": 3, "name": "Immediate Cause", "color": "red", "hasChildren": true }
     ],
     "19": [
-      { "key": 25, "parent": 19, "name": "Harsh terms on Germany", "color": "yellowgreen" },
-      { "key": 26, "parent": 19, "name": "Germany accepted full war guilt", "color": "yellowgreen" },
-      { "key": 27, "parent": 19, "name": "Hitler exploited resentment to overturn Treaty", "color": "yellowgreen" }
+      { "key": 25, "parent": 19, "name": "Harsh terms on Germany", "color": "blue" },
+      { "key": 26, "parent": 19, "name": "Germany accepted full war guilt", "color": "blue" },
+      { "key": 27, "parent": 19, "name": "Hitler exploited resentment to overturn Treaty", "color": "blue" }
     ],
     "20": [
-      { "key": 28, "parent": 20, "name": "Mussolini’s Fascist regime (Italy, 1922)", "color": "yellowgreen" },
-      { "key": 29, "parent": 20, "name": "Hitler’s Nazi Party (Germany, 1933)", "color": "yellowgreen" },
-      { "key": 30, "parent": 20, "name": "Policies of militarism and expansion", "color": "yellowgreen" }
+      { "key": 28, "parent": 20, "name": "Mussolini’s Fascist regime (Italy, 1922)", "color": "blue" },
+      { "key": 29, "parent": 20, "name": "Hitler’s Nazi Party (Germany, 1933)", "color": "blue" },
+      { "key": 30, "parent": 20, "name": "Policies of militarism and expansion", "color": "blue" }
     ],
     "21": [
-      { "key": 31, "parent": 21, "name": "Britain and France made concessions to Hitler", "color": "yellowgreen" },
-      { "key": 32, "parent": 21, "name": "Allowed Germany to rearm", "color": "yellowgreen" },
-      { "key": 33, "parent": 21, "name": "Accepted occupation of Rhineland (1936)", "color": "yellowgreen" },
-      { "key": 34, "parent": 21, "name": "Munich Agreement (Sudetenland, 1938)", "color": "yellowgreen" }
+      { "key": 31, "parent": 21, "name": "Britain and France made concessions to Hitler", "color": "blue" },
+      { "key": 32, "parent": 21, "name": "Allowed Germany to rearm", "color": "blue" },
+      { "key": 33, "parent": 21, "name": "Accepted occupation of Rhineland (1936)", "color": "blue" },
+      { "key": 34, "parent": 21, "name": "Munich Agreement (Sudetenland, 1938)", "color": "blue" }
     ],
     "22": [
-      { "key": 35, "parent": 22, "name": "Invasion of Manchuria (1931)", "color": "yellowgreen" },
-      { "key": 36, "parent": 22, "name": "Full-scale invasion of China (1937)", "color": "yellowgreen" },
-      { "key": 37, "parent": 22, "name": "Sought domination of Asia for resources", "color": "yellowgreen" }
+      { "key": 35, "parent": 22, "name": "Invasion of Manchuria (1931)", "color": "blue" },
+      { "key": 36, "parent": 22, "name": "Full-scale invasion of China (1937)", "color": "blue" },
+      { "key": 37, "parent": 22, "name": "Sought domination of Asia for resources", "color": "blue" }
     ],
     "23": [
-      { "key": 38, "parent": 23, "name": "Lacked real power and armed force", "color": "yellowgreen" },
-      { "key": 39, "parent": 23, "name": "USA never joined", "color": "yellowgreen" },
-      { "key": 40, "parent": 23, "name": "Failed to stop aggression (Japan, Italy, Germany)", "color": "yellowgreen" }
+      { "key": 38, "parent": 23, "name": "Lacked real power and armed force", "color": "blue" },
+      { "key": 39, "parent": 23, "name": "USA never joined", "color": "blue" },
+      { "key": 40, "parent": 23, "name": "Failed to stop aggression (Japan, Italy, Germany)", "color": "blue" }
     ],
     "24": [
-      { "key": 41, "parent": 24, "name": "Hitler’s invasion of Poland (1 Sept 1939)", "color": "yellowgreen" },
-      { "key": 42, "parent": 24, "name": "Britain and France declared war (3 Sept 1939)", "color": "yellowgreen" }
+      { "key": 41, "parent": 24, "name": "Hitler’s invasion of Poland (1 Sept 1939)", "color": "blue" },
+      { "key": 42, "parent": 24, "name": "Britain and France declared war (3 Sept 1939)", "color": "blue" }
     ],
     "4": [
-      { "key": 43, "parent": 4, "name": "Attack on Pearl Harbor (7 Dec 1941)", "color": "lightgreen", "hasChildren": true },
-      { "key": 44, "parent": 4, "name": "Bombing of Hiroshima and Nagasaki (Aug 1945)", "color": "lightgreen", "hasChildren": true },
-      { "key": 45, "parent": 4, "name": "Defeat of the Axis Powers", "color": "lightgreen", "hasChildren": true }
+      { "key": 43, "parent": 4, "name": "Attack on Pearl Harbor (7 Dec 1941)", "color": "red", "hasChildren": true },
+      { "key": 44, "parent": 4, "name": "Bombing of Hiroshima and Nagasaki (Aug 1945)", "color": "red", "hasChildren": true },
+      { "key": 45, "parent": 4, "name": "Defeat of the Axis Powers", "color": "red", "hasChildren": true }
     ],
     "43": [
-      { "key": 46, "parent": 43, "name": "Japan attacked US naval base", "color": "yellowgreen" },
-      { "key": 47, "parent": 43, "name": "Resulted in USA entering the war", "color": "yellowgreen" }
+      { "key": 46, "parent": 43, "name": "Japan attacked US naval base", "color": "blue" },
+      { "key": 47, "parent": 43, "name": "Resulted in USA entering the war", "color": "blue" }
     ],
     "44": [
-      { "key": 48, "parent": 44, "name": "USA dropped two atomic bombs", "color": "yellowgreen" },
-      { "key": 49, "parent": 44, "name": "Led to Japan’s surrender", "color": "yellowgreen" }
+      { "key": 48, "parent": 44, "name": "USA dropped two atomic bombs", "color": "blue" },
+      { "key": 49, "parent": 44, "name": "Led to Japan’s surrender", "color": "blue" }
     ],
     "45": [
-      { "key": 50, "parent": 45, "name": "Decisive Allied victory", "color": "yellowgreen" },
-      { "key": 51, "parent": 45, "name": "Germany surrendered May 1945", "color": "yellowgreen" },
-      { "key": 52, "parent": 45, "name": "Japan surrendered September 1945", "color": "yellowgreen" }
+      { "key": 50, "parent": 45, "name": "Decisive Allied victory", "color": "blue" },
+      { "key": 51, "parent": 45, "name": "Germany surrendered May 1945", "color": "blue" },
+      { "key": 52, "parent": 45, "name": "Japan surrendered September 1945", "color": "blue" }
     ],
     "5": [
-      { "key": 53, "parent": 5, "name": "Formation of the United Nations (1945)", "color": "lightgreen", "hasChildren": true },
-      { "key": 54, "parent": 5, "name": "The Cold War", "color": "lightgreen", "hasChildren": true },
-      { "key": 55, "parent": 5, "name": "Other Major Effects", "color": "lightgreen", "hasChildren": true }
+      { "key": 53, "parent": 5, "name": "Formation of the United Nations (1945)", "color": "red", "hasChildren": true },
+      { "key": 54, "parent": 5, "name": "The Cold War", "color": "red", "hasChildren": true },
+      { "key": 55, "parent": 5, "name": "Other Major Effects", "color": "red", "hasChildren": true }
     ],
     "53": [
-      { "key": 56, "parent": 53, "name": "Replaced the failed League of Nations", "color": "yellowgreen" },
-      { "key": 57, "parent": 53, "name": "Aims: Maintain peace and security", "color": "yellowgreen" }
+      { "key": 56, "parent": 53, "name": "Replaced the failed League of Nations", "color": "blue" },
+      { "key": 57, "parent": 53, "name": "Aims: Maintain peace and security", "color": "blue" }
     ],
     "54": [
-      { "key": 58, "parent": 54, "name": "World divided into two power blocs", "color": "yellowgreen" },
-      { "key": 59, "parent": 54, "name": "USA and Allies (Capitalist/Democratic)", "color": "yellowgreen" },
-      { "key": 60, "parent": 54, "name": "USSR and Allies (Communist)", "color": "yellowgreen" },
-      { "key": 61, "parent": 54, "name": "Ideological and political rivalry", "color": "yellowgreen" }
+      { "key": 58, "parent": 54, "name": "World divided into two power blocs", "color": "blue" },
+      { "key": 59, "parent": 54, "name": "USA and Allies (Capitalist/Democratic)", "color": "blue" },
+      { "key": 60, "parent": 54, "name": "USSR and Allies (Communist)", "color": "blue" },
+      { "key": 61, "parent": 54, "name": "Ideological and political rivalry", "color": "blue" }
     ],
     "55": [
-      { "key": 62, "parent": 55, "name": "Enormous loss of life and destruction", "color": "yellowgreen" },
-      { "key": 63, "parent": 55, "name": "End of European colonial empires", "color": "yellowgreen" },
-      { "key": 64, "parent": 55, "name": "Beginning of the nuclear age", "color": "yellowgreen" }
+      { "key": 62, "parent": 55, "name": "Enormous loss of life and destruction", "color": "blue" },
+      { "key": 63, "parent": 55, "name": "End of European colonial empires", "color": "blue" },
+      { "key": 64, "parent": 55, "name": "Beginning of the nuclear age", "color": "blue" }
     ]
   }
 }
