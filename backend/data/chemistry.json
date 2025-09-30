@@ -1,18 +1,42 @@
 {
   "root": [
-    { "key": 1, "name": "Root-Chemistry", "color": "darkgreen", "hasChildren": true }
+    {
+      "key": 1,
+      "name": "> The Second World War (1939–1945)",
+      "color": "darkblue",
+      "hasChildren": true
+    }
   ],
   "nodes": {
     "1": [
-      { "key": 2, "parent": 1, "name": "raja12", "color": "blue", "hasChildren": true },
-      { "key": 3, "parent": 1, "name": "rani12", "color": "purple", "hasChildren": true }
+      { "key": 2, "parent": 1, "name": "> Overview", "color": "darkgreen", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Causes of WWII", "color": "darkgreen", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Key Events", "color": "darkgreen", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "> Consequences of WWII", "color": "darkgreen", "hasChildren": true }
     ],
     "2": [
-      { "key": 4, "parent": 2, "name": "Organelles", "color": "red" },
-      { "key": 5, "parent": 2, "name": "Membrane Transport", "color": "orange" }
+      { "key": 6, "parent": 2, "name": "1939–1945 Global Conflict", "color": "orange" },
+      { "key": 7, "parent": 2, "name": "Axis vs Allies", "color": "orange" }
     ],
     "3": [
-      { "key": 6, "parent": 3, "name": "Mendelian Genetics", "color": "brown" }
+      { "key": 8, "parent": 3, "name": "Treaty of Versailles", "color": "orange" },
+      { "key": 9, "parent": 3, "name": "Rise of Fascism", "color": "orange" },
+      { "key": 10, "parent": 3, "name": "Economic Depression", "color": "orange" },
+      { "key": 11, "parent": 3, "name": "Failure of League of Nations", "color": "orange" }
+    ],
+    "4": [
+      { "key": 12, "parent": 4, "name": "Invasion of Poland (1939)", "color": "orange" },
+      { "key": 13, "parent": 4, "name": "Battle of Britain (1940)", "color": "orange" },
+      { "key": 14, "parent": 4, "name": "Operation Barbarossa (1941)", "color": "orange" },
+      { "key": 15, "parent": 4, "name": "Pearl Harbor (1941)", "color": "orange" },
+      { "key": 16, "parent": 4, "name": "D-Day (1944)", "color": "orange" },
+      { "key": 17, "parent": 4, "name": "Atomic Bombings (1945)", "color": "orange" }
+    ],
+    "5": [
+      { "key": 18, "parent": 5, "name": "Massive Human Loss", "color": "orange" },
+      { "key": 19, "parent": 5, "name": "Formation of United Nations", "color": "orange" },
+      { "key": 20, "parent": 5, "name": "Beginning of Cold War", "color": "orange" },
+      { "key": 21, "parent": 5, "name": "Decolonization", "color": "orange" }
     ]
   }
 }
