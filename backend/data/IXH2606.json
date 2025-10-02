@@ -1,0 +1,82 @@
+{
+  "root": [
+    { "key": 1, "name": "> Growth of Nationalism & Indian National Congress Foundation", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Factors Promoting Growth of Nationalism", "color": "skyblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Foundation of the Indian National Congress (INC)", "color": "skyblue", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Important Terms & Facts", "color": "skyblue", "hasChildren": true }
+    ],
+    "2": [
+      { "key": 5, "parent": 2, "name": "> Rise of Nationalism", "hasChildren": true },
+      { "key": 6, "parent": 2, "name": "> Repressive Policies of Lord Lytton", "hasChildren": true },
+      { "key": 7, "parent": 2, "name": "> Socio-Religious Reform Movements", "hasChildren": true },
+      { "key": 8, "parent": 2, "name": "> Spread of Western Education", "hasChildren": true },
+      { "key": 9, "parent": 2, "name": "> Role of Press", "hasChildren": true }
+    ],
+    "5": [
+      { "key": 10, "parent": 5, "name": "Feeling of oneness, togetherness" },
+      { "key": 11, "parent": 5, "name": "Based on political, historical, religious, linguistic, cultural, spiritual, psychological factors" }
+    ],
+    "6": [
+      { "key": 12, "parent": 6, "name": "Vernacular Press Act, 1878" },
+      { "key": 13, "parent": 6, "name": "Arms Act, 1878" },
+      { "key": 14, "parent": 6, "name": "Lowered age of ICS exam to 19" },
+      { "key": 15, "parent": 6, "name": "Grand Delhi Durbar (1877)   during famine" },
+      { "key": 16, "parent": 6, "name": "Discontent against unpopular policies" }
+    ],
+    "7": [
+      { "key": 17, "parent": 7, "name": "Contributions of Arya Samaj, Brahmo Samaj, Aligarh Movement" },
+      { "key": 18, "parent": 7, "name": "Struggle against caste discrimination, untouchability" },
+      { "key": 19, "parent": 7, "name": "Spread of education and rational thinking (Raja Ram Mohan Roy)" },
+      { "key": 20, "parent": 7, "name": "Upliftment of the society" },
+      { "key": 21, "parent": 7, "name": "Inspired self-confidence" }
+    ],
+    "8": [
+      { "key": 22, "parent": 8, "name": "English language linked India" },
+      { "key": 23, "parent": 8, "name": "Spread liberal, democratic and national ideas" },
+      { "key": 24, "parent": 8, "name": "Created awareness of modern rights" },
+      { "key": 25, "parent": 8, "name": "Unified Indians across regions" }
+    ],
+    "9": [
+      { "key": 26, "parent": 9, "name": "Newspapers highlighted grievances" },
+      { "key": 27, "parent": 9, "name": "Exposed British policies" },
+      { "key": 28, "parent": 9, "name": "Created awareness about exploitation" },
+      { "key": 29, "parent": 9, "name": "Prominent papers: Amrita Bazar Patrika, The Hindu, Kesari, Maratha" }
+    ],
+    "3": [
+      { "key": 30, "parent": 3, "name": "> Year of Formation: December 1885", "hasChildren": true },
+      { "key": 31, "parent": 3, "name": "> Founder: A.O. Hume", "hasChildren": true },
+      { "key": 32, "parent": 3, "name": "> First Session", "hasChildren": true },
+      { "key": 33, "parent": 3, "name": "> Immediate Objectives", "hasChildren": true },
+      { "key": 34, "parent": 3, "name": "> Aims/True Intention", "hasChildren": true }
+    ],
+    "30": [
+      { "key": 35, "parent": 30, "name": "Retired ICS officer" },
+      { "key": 36, "parent": 30, "name": "More open to Indian University graduates" },
+      { "key": 37, "parent": 30, "name": "Womesh Chandra Bonnerjee elected as president" }
+    ],
+    "31": [
+      { "key": 38, "parent": 31, "name": "Retired Civil Servant" },
+      { "key": 39, "parent": 31, "name": "Wanted to provide a platform for educated Indians" }
+    ],
+    "32": [
+      { "key": 40, "parent": 32, "name": "Bombay, Dec 28th, 1885" },
+      { "key": 41, "parent": 32, "name": "Presided by W.C. Bonnerjee" }
+    ],
+    "33": [
+      { "key": 42, "parent": 33, "name": "To ventilate the views of educated Indians" },
+      { "key": 43, "parent": 33, "name": "To train Indians in political work" }
+    ],
+    "34": [
+      { "key": 44, "parent": 34, "name": "To promote British loyalty" },
+      { "key": 45, "parent": 34, "name": "To check growing discontent among Indians" }
+    ],
+    "4": [
+      { "key": 46, "parent": 4, "name": "Vernacular Press Act (1878): Passed to suppress freedom of Indian Press" },
+      { "key": 47, "parent": 4, "name": "Arms Act (1878): Restricted possession of arms without license" },
+      { "key": 48, "parent": 4, "name": "Lord Lytton: Known for repressive policies" }
+    ]
+  }
+}

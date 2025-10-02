@@ -1,0 +1,84 @@
+{
+  "root": [
+    { "key": 1, "name": "> First Phase of the Indian Nationalist Movement (1885–1907)", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Important Terms, Events, Persons and Dates", "color": "skyblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Key Nationalist Leaders", "color": "skyblue", "hasChildren": true }
+    ],
+    "2": [
+      { "key": 4, "parent": 2, "name": "Indian National Congress (INC), 1885", "hasChildren": true },
+      { "key": 5, "parent": 2, "name": "The Indian Association", "hasChildren": true },
+      { "key": 6, "parent": 2, "name": "East India Association, 1866", "hasChildren": true },
+      { "key": 7, "parent": 2, "name": "A.O. Hume (Retired British official, founded INC)" },
+      { "key": 8, "parent": 2, "name": "Moderates (Early Nationalists)", "hasChildren": true },
+      { "key": 9, "parent": 2, "name": "Indian Council Act", "hasChildren": true },
+      { "key": 10, "parent": 2, "name": "Poverty and Un-British Rule in India (Book)" },
+      { "key": 11, "parent": 2, "name": "Servants of India Society", "hasChildren": true },
+      { "key": 12, "parent": 2, "name": "Assertive Nationalism (Extremists)", "hasChildren": true }
+    ],
+    "4": [
+      { "key": 13, "parent": 4, "name": "Founded by A.O. Hume" },
+      { "key": 14, "parent": 4, "name": "Aimed to promote friendly relations" },
+      { "key": 15, "parent": 4, "name": "Constituted first step of national unity" }
+    ],
+    "5": [
+      { "key": 16, "parent": 5, "name": "Founded by Surendranath Banerjee in 1876" },
+      { "key": 17, "parent": 5, "name": "Slogan: India’s only common political association" }
+    ],
+    "6": [
+      { "key": 18, "parent": 6, "name": "Founded in London by Dadabhai Naoroji" }
+    ],
+    "8": [
+      { "key": 19, "parent": 8, "name": "Promoted British rule" },
+      { "key": 20, "parent": 8, "name": "Used Petitions, Protests, Prayers, Press" }
+    ],
+    "9": [
+      { "key": 21, "parent": 9, "name": "10 to 16 members nominated by Governor-General’s Council" }
+    ],
+    "10": [
+      { "key": 22, "parent": 10, "name": "Written by Dadabhai Naoroji" },
+      { "key": 23, "parent": 10, "name": "Explained drain of India’s wealth" }
+    ],
+    "11": [
+      { "key": 24, "parent": 11, "name": "Founded by Gopal Krishna Gokhale" },
+      { "key": 25, "parent": 11, "name": "Aimed at education, sanitation, health care" }
+    ],
+    "12": [
+      { "key": 26, "parent": 12, "name": "Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal" },
+      { "key": 27, "parent": 12, "name": "Founded Indian Home Rule Society (1905)" },
+      { "key": 28, "parent": 12, "name": "Founded Irish India Association (1906)" },
+      { "key": 29, "parent": 12, "name": "Elected to Parliament (1907)" },
+      { "key": 30, "parent": 12, "name": "Championed various causes in House of Commons" },
+      { "key": 31, "parent": 12, "name": "Advocated Indian independence and reforms" },
+      { "key": 32, "parent": 12, "name": "Presided over INC Congress sessions (1886, 1893, 1906)" },
+      { "key": 33, "parent": 12, "name": "Laid foundation of early nationalist politics" }
+    ],
+    "3": [
+      { "key": 34, "parent": 3, "name": "Dadabhai Naoroji", "color": "lightgreen", "hasChildren": true },
+      { "key": 35, "parent": 3, "name": "Surendranath Banerjee", "color": "lightgreen", "hasChildren": true }
+    ],
+    "34": [
+      { "key": 36, "parent": 34, "name": "Proponent of ‘Drain Theory’" },
+      { "key": 37, "parent": 34, "name": "Highlighted economic drain: exports, salaries, pensions" },
+      { "key": 38, "parent": 34, "name": "Book: Poverty and Un-British Rule in India" },
+      { "key": 39, "parent": 34, "name": "Involved in Welby Commission (Royal Commission)" },
+      { "key": 40, "parent": 34, "name": "1906 INC Session: Resolutions on Swadeshi, Boycott, National Education" }
+    ],
+    "35": [
+      { "key": 41, "parent": 35, "name": "Began career as Professor of English" },
+      { "key": 42, "parent": 35, "name": "Elected to Bengal Legislative Council (1882, 1893, 1901, 1905)" },
+      { "key": 43, "parent": 35, "name": "First Indian Minister in Bengal (1921)" },
+      { "key": 44, "parent": 35, "name": "Aimed to make India united people" },
+      { "key": 45, "parent": 35, "name": "Protested Arms Act, Vernacular Press Act, Ilbert Bill" },
+      { "key": 46, "parent": 35, "name": "Opposed Partition of Bengal and Lord Curzon" },
+      { "key": 47, "parent": 35, "name": "Supported Swadeshi Movement and Boycott" },
+      { "key": 48, "parent": 35, "name": "One of original founders of Congress" },
+      { "key": 49, "parent": 35, "name": "Merged Indian National Conference (1883) into INC" },
+      { "key": 50, "parent": 35, "name": "Elected Congress President twice (1895, 1902)" },
+      { "key": 51, "parent": 35, "name": "Edited ‘The Bengalee’ newspaper" },
+      { "key": 52, "parent": 35, "name": "Wrote ‘A Nation in Making’" }
+    ]
+  }
+}

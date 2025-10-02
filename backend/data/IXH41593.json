@@ -1,0 +1,100 @@
+{
+  "root": [
+    { "key": 1, "name": "> Bengal on the Eve of its Partition", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Presidency of Bengal (1899)", "color": "skyblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Government Version (Justification)", "color": "skyblue", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Curzon’s Real Motives", "color": "skyblue", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "> Reactions Against the Partition", "color": "skyblue", "hasChildren": true }
+    ],
+    "2": [
+      { "key": 6, "parent": 2, "name": "Largest and most populous state" },
+      { "key": 7, "parent": 2, "name": "Comprised: Bengal, Bihar, Orissa, Chotanagpur" },
+      { "key": 8, "parent": 2, "name": "Area: 5,09,500 sq. km" },
+      { "key": 9, "parent": 2, "name": "Population: Over 8 million" },
+      { "key": 10, "parent": 2, "name": "Viceroy: Lord Curzon (1899)" },
+      { "key": 11, "parent": 2, "name": "Divided Provinces: Proposal" },
+      { "key": 12, "parent": 2, "name": "Scheme implemented" }
+    ],
+    "11": [
+      { "key": 13, "parent": 11, "name": "1. 'Bengal' (Western districts, Calcutta Capital)" },
+      { "key": 14, "parent": 11, "name": "2. 'Eastern Bengal & Assam' (Eastern districts, Dacca Capital)" }
+    ],
+    "12": [
+      { "key": 15, "parent": 12, "name": "Announced: July 19, 1905" },
+      { "key": 16, "parent": 12, "name": "Came into effect: October 16, 1905" }
+    ],
+    "3": [
+      { "key": 17, "parent": 3, "name": "Province too large to administer" },
+      { "key": 18, "parent": 3, "name": "Solve administrative burden by creating 2 provinces" },
+      { "key": 19, "parent": 3, "name": "Promote development of backward Assam" },
+      { "key": 20, "parent": 3, "name": "Upliftment of tribal areas with resources" },
+      { "key": 21, "parent": 3, "name": "Solve famine and defense issues" }
+    ],
+    "4": [
+      { "key": 22, "parent": 4, "name": "1. To Weaken Congress and Indian National Movement" },
+      { "key": 23, "parent": 4, "name": "2. To Divide Hindus and Muslims" },
+      { "key": 24, "parent": 4, "name": "3. To Demonstrate Strength of British Raj" }
+    ],
+    "22": [
+      { "key": 25, "parent": 22, "name": "Bengal was stronghold of Congress" },
+      { "key": 26, "parent": 22, "name": "Movement was strong there" },
+      { "key": 27, "parent": 22, "name": "Intended to crush the movement" }
+    ],
+    "23": [
+      { "key": 28, "parent": 23, "name": "Wedge between Hindus & Muslims" },
+      { "key": 29, "parent": 23, "name": "Curzon and Minto wanted to create Muslim-dominated province" }
+    ],
+    "24": [
+      { "key": 30, "parent": 24, "name": "Counter nationalist claims" },
+      { "key": 31, "parent": 24, "name": "Demonstration of strength of British Raj" },
+      { "key": 32, "parent": 24, "name": "Crush popular hostility" }
+    ],
+    "5": [
+      { "key": 33, "parent": 5, "name": "> Awakened Spirit of Nationalism", "color": "lightgreen", "hasChildren": true },
+      { "key": 34, "parent": 5, "name": "> Reactions of Press", "color": "lightgreen", "hasChildren": true },
+      { "key": 35, "parent": 5, "name": "> Foundation of Federation Hall", "color": "lightgreen", "hasChildren": true },
+      { "key": 36, "parent": 5, "name": "> The Swadeshi & Boycott Movements", "color": "lightgreen", "hasChildren": true },
+      { "key": 37, "parent": 5, "name": "> Spread of Swadeshi Movement", "color": "lightgreen", "hasChildren": true },
+      { "key": 38, "parent": 5, "name": "> Boycott of Foreign Goods", "color": "lightgreen", "hasChildren": true },
+      { "key": 39, "parent": 5, "name": "> Course and Growth of Swadeshi Movement", "color": "lightgreen", "hasChildren": true }
+    ],
+    "33": [
+      { "key": 40, "parent": 33, "name": "Proclaimed impact on political history" },
+      { "key": 41, "parent": 33, "name": "Observed as ‘Day of Mourning’" },
+      { "key": 42, "parent": 33, "name": "Massive nationalist upsurge" },
+      { "key": 43, "parent": 33, "name": "Tagore’s Amar Sonar Bangla became patriotic song" }
+    ],
+    "34": [
+      { "key": 44, "parent": 34, "name": "Opposed partition in unison" },
+      { "key": 45, "parent": 34, "name": "Strongest criticism by Amrita Bazar Patrika" },
+      { "key": 46, "parent": 34, "name": "Main objective: arouse public opinion" }
+    ],
+    "35": [
+      { "key": 47, "parent": 35, "name": "Madhu Bose, venue leader" },
+      { "key": 48, "parent": 35, "name": "Symbol of unity of Bengal" }
+    ],
+    "36": [
+      { "key": 49, "parent": 36, "name": "Boycott leaders supported by common masses" },
+      { "key": 50, "parent": 36, "name": "Used protests, picketing, prayers" },
+      { "key": 51, "parent": 36, "name": "Resorted to Swadeshi & boycott of foreign goods" }
+    ],
+    "37": [
+      { "key": 52, "parent": 37, "name": "Masses taught ‘swadeshi is swaraj’" },
+      { "key": 53, "parent": 37, "name": "Used indigenous goods" },
+      { "key": 54, "parent": 37, "name": "Movement spread widely across India" },
+      { "key": 55, "parent": 37, "name": "Movement was widespread and self-sustaining" }
+    ],
+    "38": [
+      { "key": 56, "parent": 38, "name": "Foreign goods boycotted" },
+      { "key": 57, "parent": 38, "name": "Swadeshi goods promoted" }
+    ],
+    "39": [
+      { "key": 58, "parent": 39, "name": "Failed for some time but revived later" },
+      { "key": 59, "parent": 39, "name": "Women and students participated" },
+      { "key": 60, "parent": 39, "name": "Movement had both moderate and extremist support" }
+    ]
+  }
+}
