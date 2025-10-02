@@ -1,0 +1,110 @@
+{
+  "root": [
+    { "key": 1, "name": "> Rise of Dictatorship (Post-WWI)", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> General Causes for Dictatorship Rise", "color": "skyblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Rise of Fascism in Italy (Mussolini)", "color": "skyblue", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Rise of Nazism in Germany (Hitler)", "color": "skyblue", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "> Comparison of Fascism and Nazism", "color": "skyblue", "hasChildren": true }
+    ],
+
+    "2": [
+      { "key": 6, "parent": 2, "name": "Post-War Political Instability" },
+      { "key": 7, "parent": 2, "name": "Economically Ruined Countries" },
+      { "key": 8, "parent": 2, "name": "Socially Divided Societies" },
+      { "key": 9, "parent": 2, "name": "Weak Democratic Government", "hasChildren": true },
+      { "key": 10, "parent": 2, "name": "Desire for Strong Leaders / Authoritarian Systems" }
+    ],
+    "9": [
+      { "key": 11, "parent": 9, "name": "Unable to solve urgent problems" },
+      { "key": 12, "parent": 9, "name": "Loss of public confidence" }
+    ],
+
+    "3": [
+      { "key": 13, "parent": 3, "name": "Post-War Discontent", "hasChildren": true },
+      { "key": 14, "parent": 3, "name": "Economic Crisis", "hasChildren": true },
+      { "key": 15, "parent": 3, "name": "Fear of Communism (post-1917 Russian Revolution)" },
+      { "key": 16, "parent": 3, "name": "Weak Democratic Government", "hasChildren": true },
+      { "key": 17, "parent": 3, "name": "Charismatic Leadership (Mussolini)" }
+    ],
+    "13": [
+      { "key": 18, "parent": 13, "name": "Unfulfilled territorial rewards" },
+      { "key": 19, "parent": 13, "name": "Treaty of Versailles failures" },
+      { "key": 20, "parent": 13, "name": "Called 'Mutilated Victory'" }
+    ],
+    "14": [
+      { "key": 21, "parent": 14, "name": "Inflation and high unemployment" },
+      { "key": 22, "parent": 14, "name": "Food shortages and widespread strikes" }
+    ],
+    "16": [
+      { "key": 23, "parent": 16, "name": "Unstable parliamentary system" },
+      { "key": 24, "parent": 16, "name": "Frequent changes of government" }
+    ],
+    "17": [
+      { "key": 25, "parent": 17, "name": "Formed Fascist Party (1919)" },
+      { "key": 26, "parent": 17, "name": "Promised national unity and greatness" }
+    ],
+
+    "4": [
+      { "key": 27, "parent": 4, "name": "Treaty of Versailles (1919)", "hasChildren": true },
+      { "key": 28, "parent": 4, "name": "Economic Hardships", "hasChildren": true },
+      { "key": 29, "parent": 4, "name": "Fear of Communism" },
+      { "key": 30, "parent": 4, "name": "Weakness of Weimar Republic", "hasChildren": true },
+      { "key": 31, "parent": 4, "name": "Charismatic Leadership (Hitler)", "hasChildren": true }
+    ],
+    "27": [
+      { "key": 32, "parent": 27, "name": "Forced acceptance of war blame" },
+      { "key": 33, "parent": 27, "name": "Huge reparations and territory loss" },
+      { "key": 34, "parent": 27, "name": "Caused humiliation and anger" }
+    ],
+    "28": [
+      { "key": 35, "parent": 28, "name": "Hyperinflation (1923)" },
+      { "key": 36, "parent": 28, "name": "Great Depression (1929)" },
+      { "key": 37, "parent": 28, "name": "Massive unemployment and poverty" }
+    ],
+    "30": [
+      { "key": 38, "parent": 30, "name": "Blamed for accepting Versailles Treaty" },
+      { "key": 39, "parent": 30, "name": "Political instability" }
+    ],
+    "31": [
+      { "key": 40, "parent": 31, "name": "Joined Nazi Party" },
+      { "key": 41, "parent": 31, "name": "Promised to reject Versailles" },
+      { "key": 42, "parent": 31, "name": "Promised to rebuild power and pride" }
+    ],
+
+    "5": [
+      { "key": 43, "parent": 5, "name": "Similarities (Totalitarian Systems)", "hasChildren": true },
+      { "key": 44, "parent": 5, "name": "Differences", "hasChildren": true },
+      { "key": 45, "parent": 5, "name": "Ideologies", "hasChildren": true }
+    ],
+    "43": [
+      { "key": 46, "parent": 43, "name": "One party rule" },
+      { "key": 47, "parent": 43, "name": "Glorified infallible leader" },
+      { "key": 48, "parent": 43, "name": "Opposed democracy, socialism, communism" },
+      { "key": 49, "parent": 43, "name": "Used propaganda and censorship" },
+      { "key": 50, "parent": 43, "name": "Emphasized nationalism and militarism" }
+    ],
+    "44": [
+      { "key": 51, "parent": 44, "name": "Fascism (Italy)", "hasChildren": true },
+      { "key": 52, "parent": 44, "name": "Nazism (Germany)", "hasChildren": true }
+    ],
+    "51": [
+      { "key": 53, "parent": 51, "name": "Focus: State supremacy and nationalism" },
+      { "key": 54, "parent": 51, "name": "Racial Policy: Not primarily racist" },
+      { "key": 55, "parent": 51, "name": "Foreign Policy: Restore Roman glory (Mare Nostrum)" },
+      { "key": 56, "parent": 51, "name": "Leader Title: Il Duce" }
+    ],
+    "52": [
+      { "key": 57, "parent": 52, "name": "Focus: Racial superiority (Aryans)" },
+      { "key": 58, "parent": 52, "name": "Racial Policy: Deeply racist/Anti-Semitic (Holocaust)" },
+      { "key": 59, "parent": 52, "name": "Foreign Policy: Opposed Versailles, expand East (Lebensraum)" },
+      { "key": 60, "parent": 52, "name": "Leader Title: Der F hrer" }
+    ],
+    "45": [
+      { "key": 61, "parent": 45, "name": "Fascism Core: State is supreme; individual serves State" },
+      { "key": 62, "parent": 45, "name": "Nazism Core: Nation/Race is supreme; state serves racial goals" }
+    ]
+  }
+}

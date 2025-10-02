@@ -1,0 +1,75 @@
+{
+  "root": [
+    { "key": 1, "name": "> Transfer of Power and Independence of India (1946-1947)", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Cabinet Mission Plan (1946)", "color": "skyblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Mountbatten Plan (June 1947)", "color": "skyblue", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Indian Independence Act (July 1947)", "color": "skyblue", "hasChildren": true }
+    ],
+    "2": [
+      { "key": 21, "parent": 2, "name": "> Background", "color": "lightgreen", "hasChildren": true },
+      { "key": 22, "parent": 2, "name": "> Proposals", "color": "lightgreen", "hasChildren": true },
+      { "key": 23, "parent": 2, "name": "> Reaction and Criticism", "color": "lightgreen", "hasChildren": true }
+    ],
+    "3": [
+      { "key": 31, "parent": 3, "name": "> Background", "color": "lightgreen", "hasChildren": true },
+      { "key": 32, "parent": 3, "name": "> Proposals", "color": "lightgreen", "hasChildren": true },
+      { "key": 33, "parent": 3, "name": "> Reaction and Outcome", "color": "lightgreen", "hasChildren": true }
+    ],
+    "4": [
+      { "key": 41, "parent": 4, "name": "> Legislation", "color": "lightgreen", "hasChildren": true },
+      { "key": 42, "parent": 4, "name": "> Key Provisions", "color": "lightgreen", "hasChildren": true },
+      { "key": 43, "parent": 4, "name": "> Significance", "color": "lightgreen", "hasChildren": true }
+    ],
+    "21": [
+      { "key": 211, "parent": 21, "name": "Post WWII Britain wanted responsible power transfer", "color": "paleturquoise" },
+      { "key": 212, "parent": 21, "name": "Headed by Lord Pethick-Lawrence", "color": "paleturquoise" },
+      { "key": 213, "parent": 21, "name": "Sent Mission to devise independent plan", "color": "paleturquoise" }
+    ],
+    "22": [
+      { "key": 221, "parent": 22, "name": "Union of India (Single Union)", "color": "paleturquoise" },
+      { "key": 222, "parent": 22, "name": "Centre functions: Defence, Foreign Affairs, Communications", "color": "paleturquoise" },
+      { "key": 223, "parent": 22, "name": "Grouping of Provinces (A, B, C) with autonomy", "color": "paleturquoise" },
+      { "key": 224, "parent": 22, "name": "Interim Government (Congress-Muslim League agreed)", "color": "paleturquoise" },
+      { "key": 225, "parent": 22, "name": "Constituent Assembly to draft constitution", "color": "paleturquoise" }
+    ],
+    "23": [
+      { "key": 231, "parent": 23, "name": "Congress initially agreed, later opposed groupings", "color": "paleturquoise" },
+      { "key": 232, "parent": 23, "name": "Muslim League accepted (pleased with provincial autonomy)", "color": "paleturquoise" },
+      { "key": 233, "parent": 23, "name": "Poor Scheduling led to Congress/Muslim League disagreements", "color": "paleturquoise" },
+      { "key": 234, "parent": 23, "name": "Led to communal violence (Bengal, Bihar, Punjab)", "color": "paleturquoise" }
+    ],
+    "31": [
+      { "key": 311, "parent": 31, "name": "Mountbatten appointed Viceroy (March 1947)", "color": "paleturquoise" },
+      { "key": 312, "parent": 31, "name": "Given increased authority to power transfer", "color": "paleturquoise" }
+    ],
+    "32": [
+      { "key": 321, "parent": 32, "name": "Partition of India (India and Pakistan)", "color": "paleturquoise" },
+      { "key": 322, "parent": 32, "name": "Punjab and Bengal choices via district referendum", "color": "paleturquoise" },
+      { "key": 323, "parent": 32, "name": "Transfer of Power by 15 August 1947", "color": "paleturquoise" },
+      { "key": 324, "parent": 32, "name": "Princely States decide on accession (India or Pakistan)", "color": "paleturquoise" }
+    ],
+    "33": [
+      { "key": 331, "parent": 33, "name": "Accepted by Congress and Muslim League", "color": "paleturquoise" },
+      { "key": 332, "parent": 33, "name": "End of efforts for federal rule", "color": "paleturquoise" },
+      { "key": 333, "parent": 33, "name": "Triggered mass migrations and communal riots", "color": "paleturquoise" }
+    ],
+    "41": [
+      { "key": 411, "parent": 41, "name": "Passed by British Parliament", "color": "paleturquoise" },
+      { "key": 412, "parent": 41, "name": "Date: 18 July 1947", "color": "paleturquoise" },
+      { "key": 413, "parent": 41, "name": "India comes to be independent (15 Aug 1947)", "color": "paleturquoise" }
+    ],
+    "42": [
+      { "key": 421, "parent": 42, "name": "Creation of two independent dominions: India and Pakistan", "color": "paleturquoise" },
+      { "key": 422, "parent": 42, "name": "Legislative powers transferred to dominion governments", "color": "paleturquoise" },
+      { "key": 423, "parent": 42, "name": "Princely States given freedom to accede to India or Pakistan", "color": "paleturquoise" },
+      { "key": 424, "parent": 42, "name": "Office of Governor-General established for both dominions", "color": "paleturquoise" }
+    ],
+    "43": [
+      { "key": 431, "parent": 43, "name": "Legal and formal end of British rule", "color": "paleturquoise" },
+      { "key": 432, "parent": 43, "name": "Foundation for independent governance", "color": "paleturquoise" }
+    ]
+  }
+}

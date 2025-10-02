@@ -1,0 +1,93 @@
+{
+  "root": [
+    { "key": 0, "name": "> Subhas Chandra Bose: Key Topics", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "0": [
+      { "key": 1, "parent": 0, "name": "> Role", "color": "skyblue", "hasChildren": true },
+      { "key": 6, "parent": 0, "name": "> Advocacy", "color": "skyblue", "hasChildren": true },
+      { "key": 12, "parent": 0, "name": "> Exile and Arrest", "color": "skyblue", "hasChildren": true },
+      { "key": 18, "parent": 0, "name": "> Political Views/Ideas", "color": "skyblue", "hasChildren": true },
+      { "key": 22, "parent": 0, "name": "> Forward Bloc (FB)", "color": "skyblue", "hasChildren": true },
+      { "key": 32, "parent": 0, "name": "> Indian National Army (INA) – Azad Hind Fauj", "color": "skyblue", "hasChildren": true },
+      { "key": 50, "parent": 0, "name": "> Provisional Government of Free India (Azad Hind)", "color": "skyblue", "hasChildren": true },
+      { "key": 56, "parent": 0, "name": "> Significance of INA Trials", "color": "skyblue", "hasChildren": true }
+    ],
+    "1": [
+      { "key": 2, "parent": 1, "name": "Freedom fighter", "color": "white" },
+      { "key": 3, "parent": 1, "name": "Nehru’s ‘Energised Leader’", "color": "white" },
+      { "key": 4, "parent": 1, "name": "Leading anchor of Indian Independence Movement", "color": "white" },
+      { "key": 5, "parent": 1, "name": "President, Congress (1938, 1939)", "color": "white" }
+    ],
+    "6": [
+      { "key": 7, "parent": 6, "name": "Effective instrument for freedom", "color": "white" },
+      { "key": 8, "parent": 6, "name": "Advocated organized resistance", "color": "white" },
+      { "key": 9, "parent": 6, "name": "Supported armed struggle", "color": "white" },
+      { "key": 10, "parent": 6, "name": "Immediate independence from British rule", "color": "white" },
+      { "key": 11, "parent": 6, "name": "Influence: Revolutionary ideas, Marxism", "color": "white" }
+    ],
+    "12": [
+      { "key": 13, "parent": 12, "name": "Imprisoned 11 times (1920s–30s)", "color": "white" },
+      { "key": 14, "parent": 12, "name": "Arrested 11 July 1940 (charges: sedition)", "color": "white" },
+      { "key": 15, "parent": 12, "name": "Imprisoned in 1941 (and escapes, Afghanistan)", "color": "white" },
+      { "key": 16, "parent": 12, "name": "Fled to Germany", "color": "white" },
+      { "key": 17, "parent": 12, "name": "Traveled to Soviet Union, Germany, Japan", "color": "white" }
+    ],
+    "18": [
+      { "key": 19, "parent": 18, "name": "Basic democracy, social justice", "color": "white" },
+      { "key": 20, "parent": 18, "name": "Poverty end, social inequalities", "color": "white" },
+      { "key": 21, "parent": 18, "name": "Authoritarianism (similar to Soviet Union)", "color": "white" }
+    ],
+    "22": [
+      { "key": 23, "parent": 22, "name": "Formed May 1, 1939", "color": "white" },
+      { "key": 24, "parent": 22, "name": "Big Sabha’s banner (broader multiple presidencies)", "color": "white" },
+      { "key": 25, "parent": 22, "name": "Conference held in Bombay (June 1939)", "color": "white" },
+      { "key": 26, "parent": 22, "name": "Alliance of left ideology, workers, peasants", "color": "white" },
+      { "key": 27, "parent": 22, "name": "Calling for total anti-war mobilization", "color": "white" },
+      { "key": 28, "parent": 22, "name": "Effective instrument for freedom", "color": "white" },
+      { "key": 29, "parent": 22, "name": "All power to Indian people’s struggle", "color": "white" }
+    ],
+    "32": [
+      { "key": 33, "parent": 32, "name": "> Objectives", "color": "lightgreen", "hasChildren": true },
+      { "key": 38, "parent": 32, "name": "> Formation and Leadership", "color": "lightgreen", "hasChildren": true },
+      { "key": 44, "parent": 32, "name": "> Campaign and Defeat", "color": "lightgreen", "hasChildren": true },
+      { "key": 47, "parent": 32, "name": "> The INA Trial", "color": "lightgreen", "hasChildren": true }
+    ],
+    "33": [
+      { "key": 34, "parent": 33, "name": "Liberate India from British rule", "color": "white" },
+      { "key": 35, "parent": 33, "name": "Unite anti-British forces", "color": "white" },
+      { "key": 36, "parent": 33, "name": "Battle against Allies in Bengal, Burma", "color": "white" },
+      { "key": 37, "parent": 33, "name": "Proclaim Azad Hind Government in exile", "color": "white" }
+    ],
+    "38": [
+      { "key": 39, "parent": 38, "name": "Established Oct 1, 1943", "color": "white" },
+      { "key": 40, "parent": 38, "name": "First Commander-in-Chief: Mohan Singh", "color": "white" },
+      { "key": 41, "parent": 38, "name": "Mohan Singh resigned (July 1943)", "color": "white" },
+      { "key": 42, "parent": 38, "name": "Bose reorganized INA (took command)", "color": "white" },
+      { "key": 43, "parent": 38, "name": "Recruited from Indian soldiers in Southeast Asia", "color": "white" }
+    ],
+    "44": [
+      { "key": 45, "parent": 44, "name": "INA fought British in Burma, Imphal", "color": "white" },
+      { "key": 46, "parent": 44, "name": "Faced defeat, disbanded post-war", "color": "white" }
+    ],
+    "47": [
+      { "key": 48, "parent": 47, "name": "INA trials at Red Fort (Nov 1945 – May 1946)", "color": "white" },
+      { "key": 49, "parent": 47, "name": "Grouped with War Crimes trials, Rajaji Response", "color": "white" }
+    ],
+    "50": [
+      { "key": 51, "parent": 50, "name": "Formed Oct 21, 1943 (Azad Hind Govt.)", "color": "white" },
+      { "key": 52, "parent": 50, "name": "Recognized by Japan, Germany, Italy, Burma", "color": "white" },
+      { "key": 53, "parent": 50, "name": "Slogan: Jai Hind", "color": "white" },
+      { "key": 54, "parent": 50, "name": "Volunteer leader: Subhas Bose", "color": "white" },
+      { "key": 55, "parent": 50, "name": "Declared war (Nov 23, 1943) against UK & USA (England)", "color": "white" }
+    ],
+    "56": [
+      { "key": 57, "parent": 56, "name": "Mobilized opinion of Congress, Muslim League", "color": "white" },
+      { "key": 58, "parent": 56, "name": "Flagship: INA advantage of British weakness", "color": "white" },
+      { "key": 59, "parent": 56, "name": "Result of INA trial developed tensions", "color": "white" },
+      { "key": 60, "parent": 56, "name": "Created massive public protest (different cities)", "color": "white" },
+      { "key": 61, "parent": 56, "name": "Inspired armed revolt: Bombay, Calcutta, Karachi", "color": "white" }
+    ]
+  }
+}
+
