@@ -1,0 +1,123 @@
+{
+  "root": [
+    { "key": 1, "name": "> United Nations (U.N.)", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Founding & Context", "color": "skyblue", "hasChildren": true },
+      { "key": 7, "parent": 1, "name": "> Objectives", "color": "skyblue", "hasChildren": true },
+      { "key": 22, "parent": 1, "name": "> Principal Organs", "color": "skyblue", "hasChildren": true },
+      { "key": 50, "parent": 1, "name": "> Major Specialized Agencies", "color": "skyblue", "hasChildren": true }
+    ],
+
+    "2": [
+      { "key": 3, "parent": 2, "name": "Founded: 24 Oct 1945", "color": "lightgreen" },
+      { "key": 4, "parent": 2, "name": "Goal: Maintain peace & security", "color": "lightgreen" },
+      { "key": 5, "parent": 2, "name": "Replaced League of Nations", "color": "lightgreen" },
+      { "key": 6, "parent": 2, "name": "Current Members: 193", "color": "lightgreen" }
+    ],
+
+    "7": [
+      { "key": 8, "parent": 7, "name": "Maintain Int. Peace & Security", "color": "lightgreen", "hasChildren": true },
+      { "key": 12, "parent": 7, "name": "Develop Friendly Relations", "color": "lightgreen", "hasChildren": true },
+      { "key": 15, "parent": 7, "name": "Cooperate in Solving Problems", "color": "lightgreen", "hasChildren": true },
+      { "key": 20, "parent": 7, "name": "Promote Human Rights & Freedom", "color": "lightgreen" },
+      { "key": 21, "parent": 7, "name": "Serve as Centre for Harmonizing Actions", "color": "lightgreen" }
+    ],
+
+    "8": [
+      { "key": 9, "parent": 8, "name": "Prevent conflicts", "color": "lightyellow" },
+      { "key": 10, "parent": 8, "name": "Settle disputes peacefully", "color": "lightyellow" },
+      { "key": 11, "parent": 8, "name": "Stop aggression (collective measures)", "color": "lightyellow" }
+    ],
+
+    "12": [
+      { "key": 13, "parent": 12, "name": "Respect equal rights", "color": "lightyellow" },
+      { "key": 14, "parent": 12, "name": "Promote self-determination", "color": "lightyellow" }
+    ],
+
+    "15": [
+      { "key": 16, "parent": 15, "name": "Poverty", "color": "lightyellow" },
+      { "key": 17, "parent": 15, "name": "Disease", "color": "lightyellow" },
+      { "key": 18, "parent": 15, "name": "Human Rights", "color": "lightyellow" },
+      { "key": 19, "parent": 15, "name": "Environment", "color": "lightyellow" }
+    ],
+
+    "22": [
+      { "key": 23, "parent": 22, "name": "General Assembly", "color": "lightgreen", "hasChildren": true },
+      { "key": 32, "parent": 22, "name": "Security Council", "color": "lightgreen", "hasChildren": true },
+      { "key": 44, "parent": 22, "name": "International Court of Justice (ICJ)", "color": "lightgreen", "hasChildren": true }
+    ],
+
+    "23": [
+      { "key": 24, "parent": 23, "name": "Composition", "color": "lightyellow", "hasChildren": true },
+      { "key": 27, "parent": 23, "name": "Functions", "color": "lightyellow", "hasChildren": true }
+    ],
+
+    "24": [
+      { "key": 25, "parent": 24, "name": "193 member states", "color": "lightyellow" },
+      { "key": 26, "parent": 24, "name": "Each state = one vote", "color": "lightyellow" }
+    ],
+
+    "27": [
+      { "key": 28, "parent": 27, "name": "Discuss & recommend", "color": "lightyellow" },
+      { "key": 29, "parent": 27, "name": "Approve UN budget", "color": "lightyellow" },
+      { "key": 30, "parent": 27, "name": "Elect SC members", "color": "lightyellow" },
+      { "key": 31, "parent": 27, "name": "Admit/suspend members", "color": "lightyellow" }
+    ],
+
+    "32": [
+      { "key": 33, "parent": 32, "name": "Composition", "color": "lightyellow", "hasChildren": true },
+      { "key": 37, "parent": 32, "name": "Functions", "color": "lightyellow", "hasChildren": true },
+      { "key": 43, "parent": 32, "name": "Special Power: Veto (P5)", "color": "lightyellow" }
+    ],
+
+    "33": [
+      { "key": 34, "parent": 33, "name": "15 members total", "color": "lightyellow" },
+      { "key": 35, "parent": 33, "name": "5 permanent: USA, UK, Russia, China, France", "color": "lightyellow" },
+      { "key": 36, "parent": 33, "name": "10 non-permanent (2 years)", "color": "lightyellow" }
+    ],
+
+    "37": [
+      { "key": 38, "parent": 37, "name": "Maintain peace & security", "color": "lightyellow" },
+      { "key": 39, "parent": 37, "name": "Investigate disputes", "color": "lightyellow" },
+      { "key": 40, "parent": 37, "name": "Impose sanctions / authorize force", "color": "lightyellow" },
+      { "key": 41, "parent": 37, "name": "Recommend new members", "color": "lightyellow" },
+      { "key": 42, "parent": 37, "name": "Decisions legally binding", "color": "lightyellow" }
+    ],
+
+    "44": [
+      { "key": 45, "parent": 44, "name": "Location: The Hague, Netherlands", "color": "lightyellow" },
+      { "key": 46, "parent": 44, "name": "Composition: 15 Judges (9 years)", "color": "lightyellow" },
+      { "key": 47, "parent": 44, "name": "Settle legal disputes", "color": "lightyellow" },
+      { "key": 48, "parent": 44, "name": "Give advisory opinions", "color": "lightyellow" },
+      { "key": 49, "parent": 44, "name": "Promote peaceful settlement", "color": "lightyellow" }
+    ],
+
+    "50": [
+      { "key": 51, "parent": 50, "name": "UNICEF (1946)", "color": "lightgreen", "hasChildren": true },
+      { "key": 55, "parent": 50, "name": "WHO (1948)", "color": "lightgreen", "hasChildren": true },
+      { "key": 60, "parent": 50, "name": "UNESCO (1945)", "color": "lightgreen", "hasChildren": true }
+    ],
+
+    "51": [
+      { "key": 52, "parent": 51, "name": "Provide emergency aid", "color": "lightyellow" },
+      { "key": 53, "parent": 51, "name": "Eradicate child diseases", "color": "lightyellow" },
+      { "key": 54, "parent": 51, "name": "Improve health & nutrition", "color": "lightyellow" }
+    ],
+
+    "55": [
+      { "key": 56, "parent": 55, "name": "Promote global public health", "color": "lightyellow" },
+      { "key": 57, "parent": 55, "name": "Eradicate/control diseases", "color": "lightyellow" },
+      { "key": 58, "parent": 55, "name": "Set international health standards", "color": "lightyellow" },
+      { "key": 59, "parent": 55, "name": "Provide emergency medical aid", "color": "lightyellow" }
+    ],
+
+    "60": [
+      { "key": 61, "parent": 60, "name": "Promote education", "color": "lightyellow" },
+      { "key": 62, "parent": 60, "name": "Preserve cultural heritage", "color": "lightyellow" },
+      { "key": 63, "parent": 60, "name": "Support freedom of expression", "color": "lightyellow" },
+      { "key": 64, "parent": 60, "name": "Protect World Heritage Sites", "color": "lightyellow" }
+    ]
+  }
+}

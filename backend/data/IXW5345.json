@@ -1,0 +1,73 @@
+{
+  "root": [
+    { "key": 1, "name": "> Non-Aligned Movement (NAM)", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Brief Meaning & Origin", "color": "skyblue", "hasChildren": true },
+      { "key": 10, "parent": 1, "name": "> Objectives of NAM", "color": "skyblue", "hasChildren": true },
+      { "key": 20, "parent": 1, "name": "> Panchsheel (Five Principles)", "color": "skyblue", "hasChildren": true },
+      { "key": 30, "parent": 1, "name": "> Key Architects of NAM", "color": "skyblue", "hasChildren": true },
+      { "key": 40, "parent": 1, "name": "> Significance", "color": "skyblue", "hasChildren": true }
+    ],
+
+    "2": [
+      { "key": 3, "parent": 2, "name": "Decision not to align formally", "color": "lightgreen", "hasChildren": true },
+      { "key": 4, "parent": 2, "name": "Founded 1961", "color": "lightgreen" },
+      { "key": 5, "parent": 2, "name": "Belgrade Conference (Yugoslavia)", "color": "lightgreen" },
+      { "key": 6, "parent": 2, "name": "Aim: Safeguard independence & sovereignty", "color": "lightgreen" },
+      { "key": 7, "parent": 2, "name": "Members: Newly independent (Asia, Africa, Latin America)", "color": "lightgreen" },
+      { "key": 8, "parent": 2, "name": "Simple Term: Freedom to make decisions (no big power pressure)", "color": "lightgreen" }
+    ],
+
+    "3": [
+      { "key": 9, "parent": 3, "name": "USA-led Western bloc (Capitalist)", "color": "lightyellow" },
+      { "key": 9.1, "parent": 3, "name": "USSR-led Eastern bloc (Communist)", "color": "lightyellow" }
+    ],
+
+    "10": [
+      { "key": 11, "parent": 10, "name": "Preserve independence & sovereignty", "color": "lightgreen" },
+      { "key": 12, "parent": 10, "name": "Avoid military alliances / Keep freedom of action", "color": "lightgreen" },
+      { "key": 13, "parent": 10, "name": "Promote peace & security (reduce tensions, support disarmament)", "color": "lightgreen" },
+      { "key": 14, "parent": 10, "name": "Support struggles against colonialism, imperialism, racism", "color": "lightgreen" },
+      { "key": 15, "parent": 10, "name": "Encourage economic development & cooperation", "color": "lightgreen" },
+      { "key": 16, "parent": 10, "name": "Strengthen UN & international law", "color": "lightgreen" },
+      { "key": 17, "parent": 10, "name": "Work for new international economic order (fairer trade)", "color": "lightgreen" }
+    ],
+
+    "20": [
+      { "key": 21, "parent": 20, "name": "Signed 1954 (India & China)", "color": "lightgreen" },
+      { "key": 22, "parent": 20, "name": "Principles became central to NAM", "color": "lightgreen" },
+      { "key": 23, "parent": 20, "name": "Specific Principles", "color": "lightgreen", "hasChildren": true }
+    ],
+
+    "23": [
+      { "key": 24, "parent": 23, "name": "Mutual respect for territorial integrity/sovereignty", "color": "lightyellow" },
+      { "key": 25, "parent": 23, "name": "Mutual non-aggression", "color": "lightyellow" },
+      { "key": 26, "parent": 23, "name": "Mutual non-interference in internal affairs", "color": "lightyellow" },
+      { "key": 27, "parent": 23, "name": "Equality and mutual benefit", "color": "lightyellow" },
+      { "key": 28, "parent": 23, "name": "Peaceful co-existence / settlement of disputes", "color": "lightyellow" }
+    ],
+
+    "30": [
+      { "key": 31, "parent": 30, "name": "Jawaharlal Nehru (India)", "color": "lightgreen", "hasChildren": true },
+      { "key": 35, "parent": 30, "name": "Josip Broz Tito (Yugoslavia)", "color": "lightgreen" },
+      { "key": 36, "parent": 30, "name": "Gamal Abdel Nasser (Egypt)", "color": "lightgreen" },
+      { "key": 37, "parent": 30, "name": "Kwame Nkrumah (Ghana)", "color": "lightgreen" },
+      { "key": 38, "parent": 30, "name": "Sukarno (Indonesia)", "color": "lightgreen" }
+    ],
+
+    "31": [
+      { "key": 32, "parent": 31, "name": "Chief architect", "color": "lightyellow" },
+      { "key": 33, "parent": 31, "name": "Believed in policy independence", "color": "lightyellow" },
+      { "key": 34, "parent": 31, "name": "Promoted Panchsheel", "color": "lightyellow" },
+      { "key": 34.1, "parent": 31, "name": "Advocated 'third force' (balancing blocs)", "color": "lightyellow" }
+    ],
+
+    "40": [
+      { "key": 41, "parent": 40, "name": "Significant force during Cold War", "color": "lightgreen" },
+      { "key": 42, "parent": 40, "name": "Gave collective voice to newly independent nations", "color": "lightgreen" },
+      { "key": 43, "parent": 40, "name": "Aimed to keep members free from superpower domination", "color": "lightgreen" }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+
+Concept Classes <conceptclassesjhs@gmail.com>
+8:00 AM (1 minute ago)
+to me
+
+{
+  "root": [
+    { "key": 1, "name": "> The Second World War (1939–1945)", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Overview", "color": "skyblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Causes of WWII", "color": "skyblue", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Key Events", "color": "skyblue", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "> Consequences of WWII", "color": "skyblue", "hasChildren": true }
+    ],
+
+    "2": [
+      { "key": 6, "parent": 2, "name": "Duration", "hasChildren": true },
+      { "key": 7, "parent": 2, "name": "Opposing Groups", "hasChildren": true }
+    ],
+    "6": [
+      { "key": 8, "parent": 6, "name": "Began: 1 Sept 1939 (invasion of Poland)" },
+      { "key": 9, "parent": 6, "name": "Ended: 2 Sept 1945 (Japan’s surrender)" }
+    ],
+    "7": [
+      { "key": 10, "parent": 7, "name": "Allied Powers", "hasChildren": true },
+      { "key": 11, "parent": 7, "name": "Axis Powers", "hasChildren": true }
+    ],
+    "10": [
+      { "key": 12, "parent": 10, "name": "Britain" },
+      { "key": 13, "parent": 10, "name": "France" },
+      { "key": 14, "parent": 10, "name": "USSR (after 1941)" },
+      { "key": 15, "parent": 10, "name": "USA (after 1941)" }
+    ],
+    "11": [
+      { "key": 16, "parent": 11, "name": "Germany" },
+      { "key": 17, "parent": 11, "name": "Italy" },
+      { "key": 18, "parent": 11, "name": "Japan" }
+    ],
+
+    "3": [
+      { "key": 19, "parent": 3, "name": "Dissatisfaction with Treaty of Versailles (1919)", "hasChildren": true },
+      { "key": 20, "parent": 3, "name": "Rise of Fascism and Nazism", "hasChildren": true },
+      { "key": 21, "parent": 3, "name": "Policy of Appeasement", "hasChildren": true },
+      { "key": 22, "parent": 3, "name": "Japanese Aggression", "hasChildren": true },
+      { "key": 23, "parent": 3, "name": "Failure of the League of Nations", "hasChildren": true },
+      { "key": 24, "parent": 3, "name": "Immediate Cause", "hasChildren": true }
+    ],
+    "19": [
+      { "key": 25, "parent": 19, "name": "Harsh terms on Germany" },
+      { "key": 26, "parent": 19, "name": "Germany accepted full war guilt" },
+      { "key": 27, "parent": 19, "name": "Hitler exploited resentment to overturn Treaty" }
+    ],
+    "20": [
+      { "key": 28, "parent": 20, "name": "Mussolini’s Fascist regime (Italy, 1922)" },
+      { "key": 29, "parent": 20, "name": "Hitler’s Nazi Party (Germany, 1933)" },
+      { "key": 30, "parent": 20, "name": "Policies of militarism and expansion" }
+    ],
+    "21": [
+      { "key": 31, "parent": 21, "name": "Britain and France made concessions to Hitler" },
+      { "key": 32, "parent": 21, "name": "Allowed Germany to rearm" },
+      { "key": 33, "parent": 21, "name": "Accepted occupation of Rhineland (1936)" },
+      { "key": 34, "parent": 21, "name": "Munich Agreement (Sudetenland, 1938)" }
+    ],
+    "22": [
+      { "key": 35, "parent": 22, "name": "Invasion of Manchuria (1931)" },
+      { "key": 36, "parent": 22, "name": "Full-scale invasion of China (1937)" },
+      { "key": 37, "parent": 22, "name": "Sought dominance of Asia for resources" }
+    ],
+    "23": [
+      { "key": 38, "parent": 23, "name": "Lacked real power and armed force" },
+      { "key": 39, "parent": 23, "name": "USA never joined" },
+      { "key": 40, "parent": 23, "name": "Failed to stop aggression (Japan, Italy, Germany)" }
+    ],
+    "24": [
+      { "key": 41, "parent": 24, "name": "Hitler’s invasion of Poland (1 Sept 1939)" },
+      { "key": 42, "parent": 24, "name": "Britain and France declared war (3 Sept 1939)" }
+    ],
+
+    "4": [
+      { "key": 43, "parent": 4, "name": "Attack on Pearl Harbor (7 Dec 1941)", "hasChildren": true },
+      { "key": 44, "parent": 4, "name": "Bombing of Hiroshima and Nagasaki (Aug 1945)", "hasChildren": true }
+    ],
+    "43": [
+      { "key": 45, "parent": 43, "name": "Japan attacked US naval base" },
+      { "key": 46, "parent": 43, "name": "Resulted in USA entering the war" }
+    ],
+    "44": [
+      { "key": 47, "parent": 44, "name": "USA dropped two atomic bombs" },
+      { "key": 48, "parent": 44, "name": "Led to Japan’s surrender" }
+    ],
+
+    "5": [
+      { "key": 49, "parent": 5, "name": "Defeat of the Axis Powers", "hasChildren": true },
+      { "key": 50, "parent": 5, "name": "Formation of the United Nations (1945)", "hasChildren": true },
+      { "key": 51, "parent": 5, "name": "The Cold War", "hasChildren": true },
+      { "key": 52, "parent": 5, "name": "Other Major Effects", "hasChildren": true }
+    ],
+    "49": [
+      { "key": 53, "parent": 49, "name": "Decisive Allied victory" },
+      { "key": 54, "parent": 49, "name": "Germany surrendered May 1945" },
+      { "key": 55, "parent": 49, "name": "Japan surrendered Sept 1945" }
+    ],
+    "50": [
+      { "key": 56, "parent": 50, "name": "Replaced the failed League of Nations" },
+      { "key": 57, "parent": 50, "name": "Aims: Maintain peace and security" }
+    ],
+    "51": [
+      { "key": 58, "parent": 51, "name": "World divided into two power blocs" },
+      { "key": 59, "parent": 51, "name": "USA and Allies (Capitalist/Democratic)" },
+      { "key": 60, "parent": 51, "name": "USSR and Allies (Communist)" },
+      { "key": 61, "parent": 51, "name": "Ideological and political rivalry" }
+    ],
+    "52": [
+      { "key": 62, "parent": 52, "name": "Enormous loss of life and destruction" },
+      { "key": 63, "parent": 52, "name": "End of European colonial empires" },
+      { "key": 64, "parent": 52, "name": "Beginning of the nuclear age" }
+    ]
+  }
+}
