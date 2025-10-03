@@ -1,0 +1,42 @@
+{
+  "root": [
+    { "key": 1, "name": "> The Mughal Empire (1526–1857)", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Overview & Peak", "color": "darkblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Sources of Information", "color": "darkblue", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Mughal Emperors (Chronology)", "color": "darkblue", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "> Babur’s Consolidation Battles", "color": "darkblue", "hasChildren": true },
+      { "key": 6, "parent": 1, "name": "> Akbar’s Policies (1556–1605)", "color": "darkblue", "hasChildren": true },
+      { "key": 7, "parent": 1, "name": "> Mughal Legacy", "color": "darkblue", "hasChildren": true }
+    ],
+
+    "2": [
+      { "key": 8, "parent": 2, "name": "Established by Babur", "color": "darkred" },
+      { "key": 9, "parent": 2, "name": "Consolidated by Akbar", "color": "darkred" },
+      { "key": 10, "parent": 2, "name": "Peak under Shah Jahan", "color": "darkred" },
+      { "key": 11, "parent": 2, "name": "Strong administrative system", "color": "darkred" },
+      { "key": 12, "parent": 2, "name": "Rich cultural and architectural legacy", "color": "darkred" }
+    ],
+
+    "3": [
+      { "key": 13, "parent": 3, "name": "> Abul-Fazl", "color": "darkgreen", "hasChildren": true },
+      { "key": 14, "parent": 3, "name": "> Monuments", "color": "darkgreen", "hasChildren": true }
+    ],
+    "13": [
+      { "key": 15, "parent": 13, "name": "Akbarnama by Abul Fazl (Nauroznamah)", "color": "darkred" },
+      { "key": 16, "parent": 13, "name": "Third volume of Akbarnama", "color": "darkred" },
+      { "key": 17, "parent": 13, "name": "Details Akbar’s administration", "color": "darkred" },
+      { "key": 18, "parent": 13, "name": "Covers revenue and military organization", "color": "darkred" },
+      { "key": 19, "parent": 13, "name": "Socio-economic conditions", "color": "darkred" }
+    ],
+    "14": [
+      { "key": 20, "parent": 14, "name": "Taj Mahal (Agra) – Shah Jahan’s finest architecture", "color": "darkred" },
+      { "key": 21, "parent": 14, "name": "Jama Masjid (Delhi) – Shah Jahan’s largest mosque", "color": "darkred" },
+      { "key": 22, "parent": 14, "name": "Red Fort (Delhi) – Shah Jahan’s center of power", "color": "darkred" }
+    ],
+
+    "4": [
+      { "key": 23, "parent": 4, "name": "Babur (1526–1530) – Founder", "color": "darkred" },
+      { "key": 24, "parent": 4, "name": "Humayun (1530–1540; 1555–1556) – Lost and regained", "color": "darkred" }

@@ -1,0 +1,117 @@
+{
+  "root": [
+    { "key": 1, "name": "> The Mauryan Empire (c. 321–185 BCE)", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Historical Significance", "color": "darkblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Sources of Information", "color": "darkblue", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Mauryan Kings (Chronology)", "color": "darkblue", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "> Administration Structure", "color": "darkblue", "hasChildren": true },
+      { "key": 6, "parent": 1, "name": "> Ashoka’s Dhamma (Moral Policy)", "color": "darkblue", "hasChildren": true }
+    ],
+
+    "2": [
+      { "key": 7, "parent": 2, "name": "First large-scale empire in India", "color": "darkred" },
+      { "key": 8, "parent": 2, "name": "Unification of most of the Indian subcontinent", "color": "darkred" },
+      { "key": 9, "parent": 2, "name": "Centralized administration", "color": "darkred" },
+      { "key": 10, "parent": 2, "name": "Set model for later Indian empires", "color": "darkred" }
+    ],
+
+    "3": [
+      { "key": 11, "parent": 3, "name": "Arthashastra (by Kautilya–Chanakya)", "color": "darkgreen", "hasChildren": true },
+      { "key": 12, "parent": 3, "name": "Indica (by Megasthenes)", "color": "darkgreen", "hasChildren": true },
+      { "key": 13, "parent": 3, "name": "Ashokan Edicts", "color": "darkgreen", "hasChildren": true },
+      { "key": 14, "parent": 3, "name": "Sanchi Stupa", "color": "darkgreen", "hasChildren": true }
+    ],
+    "11": [
+      { "key": 15, "parent": 11, "name": "Deals with administration and statecraft", "color": "darkred" },
+      { "key": 16, "parent": 11, "name": "Covers politics, taxation, warfare, diplomacy", "color": "darkred" }
+    ],
+    "12": [
+      { "key": 17, "parent": 12, "name": "Describes political system, society, economy, culture", "color": "darkred" }
+    ],
+    "13": [
+      { "key": 18, "parent": 13, "name": "Inscriptions on rocks and pillars", "color": "darkred" },
+      { "key": 19, "parent": 13, "name": "Insights into policies, Dhamma, administration", "color": "darkred" }
+    ],
+    "14": [
+      { "key": 20, "parent": 14, "name": "Buddhist monument", "color": "darkred" },
+      { "key": 21, "parent": 14, "name": "Reflects art, religion, architecture", "color": "darkred" }
+    ],
+
+    "4": [
+      { "key": 22, "parent": 4, "name": "Chandragupta Maurya (321–297 BCE)", "color": "darkgreen", "hasChildren": true },
+      { "key": 23, "parent": 4, "name": "Bindusara (297–273 BCE)", "color": "darkgreen", "hasChildren": true },
+      { "key": 24, "parent": 4, "name": "Ashoka (272–233 BCE)", "color": "darkgreen", "hasChildren": true },
+      { "key": 25, "parent": 4, "name": "Later Mauryan Rulers", "color": "darkgreen", "hasChildren": true }
+    ],
+    "22": [
+      { "key": 26, "parent": 22, "name": "Founder; overthrew Nanda dynasty", "color": "darkred" },
+      { "key": 27, "parent": 22, "name": "Expanded territory to northwest", "color": "darkred" },
+      { "key": 28, "parent": 22, "name": "Established centralized admin with Chanakya", "color": "darkred" },
+      { "key": 29, "parent": 22, "name": "Later became Jain monk", "color": "darkred" }
+    ],
+    "23": [
+      { "key": 30, "parent": 23, "name": "Son of Chandragupta", "color": "darkred" },
+      { "key": 31, "parent": 23, "name": "Expanded empire southwards", "color": "darkred" },
+      { "key": 32, "parent": 23, "name": "Known as Amitraghata (Slayer of Enemies)", "color": "darkred" }
+    ],
+    "24": [
+      { "key": 33, "parent": 24, "name": "Grandson of Chandragupta", "color": "darkred" },
+      { "key": 34, "parent": 24, "name": "Conquest of Kalinga War (261 BCE)", "color": "darkred" },
+      { "key": 35, "parent": 24, "name": "Embraced Buddhism and Dhamma", "color": "darkred" },
+      { "key": 36, "parent": 24, "name": "Promoted non-violence and welfare", "color": "darkred" }
+    ],
+    "25": [
+      { "key": 37, "parent": 25, "name": "Dasaratha, Samprati, Brihadratha", "color": "darkred" },
+      { "key": 38, "parent": 25, "name": "Empire declined", "color": "darkred" },
+      { "key": 39, "parent": 25, "name": "Fell to Sunga dynasty (185 BCE)", "color": "darkred" }
+    ],
+
+    "5": [
+      { "key": 40, "parent": 5, "name": "Central Administration", "color": "darkgreen", "hasChildren": true },
+      { "key": 41, "parent": 5, "name": "Provincial Administration", "color": "darkgreen", "hasChildren": true },
+      { "key": 42, "parent": 5, "name": "Revenue System", "color": "darkgreen", "hasChildren": true },
+      { "key": 43, "parent": 5, "name": "Military and Law", "color": "darkgreen", "hasChildren": true }
+    ],
+    "40": [
+      { "key": 44, "parent": 40, "name": "Emperor held supreme power", "color": "darkred" },
+      { "key": 45, "parent": 40, "name": "Assisted by ministers and advisors (Chanakya)", "color": "darkred" }
+    ],
+    "41": [
+      { "key": 46, "parent": 41, "name": "Empire divided into provinces", "color": "darkred" },
+      { "key": 47, "parent": 41, "name": "Each headed by a governor (often royal family)", "color": "darkred" },
+      { "key": 48, "parent": 41, "name": "Provinces divided into districts", "color": "darkred" }
+    ],
+    "42": [
+      { "key": 49, "parent": 42, "name": "Land revenue was main source", "color": "darkred" },
+      { "key": 50, "parent": 42, "name": "Trade, mining, state monopolies also contributed", "color": "darkred" }
+    ],
+    "43": [
+      { "key": 51, "parent": 43, "name": "Large standing army (infantry, cavalry, elephants)", "color": "darkred" },
+      { "key": 52, "parent": 43, "name": "Strict enforcement of laws", "color": "darkred" },
+      { "key": 53, "parent": 43, "name": "Extensive spy system (intelligence network)", "color": "darkred" }
+    ],
+
+    "6": [
+      { "key": 54, "parent": 6, "name": "Introduced after Kalinga War", "color": "darkgreen" },
+      { "key": 55, "parent": 6, "name": "Principles", "color": "darkgreen", "hasChildren": true },
+      { "key": 56, "parent": 6, "name": "Impact", "color": "darkgreen", "hasChildren": true }
+    ],
+    "55": [
+      { "key": 57, "parent": 55, "name": "Non-violence (Ahimsa)", "color": "darkred" },
+      { "key": 58, "parent": 55, "name": "Respect for All Religions / Tolerance", "color": "darkred" },
+      { "key": 59, "parent": 55, "name": "Compassion and Kindness", "color": "darkred" },
+      { "key": 60, "parent": 55, "name": "Truthfulness and Honesty", "color": "darkred" },
+      { "key": 61, "parent": 55, "name": "Welfare Measures (hospitals, roads, wells)", "color": "darkred" },
+      { "key": 62, "parent": 55, "name": "Moral Education and Justice", "color": "darkred" }
+    ],
+    "56": [
+      { "key": 63, "parent": 56, "name": "Encouraged unity and ethical governance", "color": "darkred" },
+      { "key": 64, "parent": 56, "name": "Promoted Buddhism in India and abroad", "color": "darkred" },
+      { "key": 65, "parent": 56, "name": "Communicated via Ashokan edicts", "color": "darkred" }
+    ]
+  }
+}
+

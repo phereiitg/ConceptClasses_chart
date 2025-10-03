@@ -1,0 +1,107 @@
+{
+  "root": [
+    { "key": 1, "name": "> The Vedic Period (c. 1500 BCE – 600 BCE)", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Division and Timeline", "color": "darkblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Sources of Information", "color": "darkblue", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Social Organization and Structure", "color": "darkblue", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "> Comparative Analysis: Early vs. Later Vedic", "color": "darkblue", "hasChildren": true },
+      { "key": 6, "parent": 1, "name": "> Education System (Gurukul)", "color": "darkblue", "hasChildren": true }
+    ],
+
+    "2": [
+      { "key": 7, "parent": 2, "name": "Early Vedic Period (Rig Vedic Age)", "color": "darkgreen", "hasChildren": true },
+      { "key": 8, "parent": 2, "name": "Later Vedic Period", "color": "darkgreen", "hasChildren": true }
+    ],
+    "7": [
+      { "key": 9, "parent": 7, "name": "1500 BCE – 1000 BCE", "color": "darkred" },
+      { "key": 10, "parent": 7, "name": "Semi-nomadic, pastoral society", "color": "darkred" }
+    ],
+    "8": [
+      { "key": 11, "parent": 8, "name": "1000 BCE – 600 BCE", "color": "darkred" },
+      { "key": 12, "parent": 8, "name": "Agrarian and hierarchical society", "color": "darkred" },
+      { "key": 13, "parent": 8, "name": "Composition of other Vedas, Brahmanas, Aranyakas, Upanishads", "color": "darkred" }
+    ],
+
+    "3": [
+      { "key": 14, "parent": 3, "name": "The Four Vedas (Primary Sources)", "color": "darkgreen", "hasChildren": true },
+      { "key": 15, "parent": 3, "name": "Epics (Preserve Traditions)", "color": "darkgreen", "hasChildren": true }
+    ],
+    "14": [
+      { "key": 16, "parent": 14, "name": "Rig Veda (Oldest, 1028 hymns, Early Vedic)", "color": "darkred" },
+      { "key": 17, "parent": 14, "name": "Sama Veda (Hymns set to music, Indian classical music basis)", "color": "darkred" },
+      { "key": 18, "parent": 14, "name": "Yajur Veda (Sacrificial rituals and formulas)", "color": "darkred" },
+      { "key": 19, "parent": 14, "name": "Atharva Veda (Spells, charms, prayers for everyday life)", "color": "darkred" }
+    ],
+    "15": [
+      { "key": 20, "parent": 15, "name": "Ramayana (Valmiki)", "color": "darkred" },
+      { "key": 21, "parent": 15, "name": "Mahabharata (Vyasa)", "color": "darkred" },
+      { "key": 22, "parent": 15, "name": "Information on dharma, moral values, family life", "color": "darkred" }
+    ],
+
+    "4": [
+      { "key": 23, "parent": 4, "name": "Family (Early Vedic)", "color": "darkgreen", "hasChildren": true },
+      { "key": 24, "parent": 4, "name": "Position of the King (Rajan)", "color": "darkgreen", "hasChildren": true },
+      { "key": 25, "parent": 4, "name": "Rig Vedic Assemblies (Limited King’s Power)", "color": "darkgreen", "hasChildren": true },
+      { "key": 26, "parent": 4, "name": "Varna System (Later Vedic)", "color": "darkgreen", "hasChildren": true },
+      { "key": 27, "parent": 4, "name": "Four Ashramas (Stages of Life – Later Vedic)", "color": "darkgreen", "hasChildren": true }
+    ],
+    "23": [
+      { "key": 28, "parent": 23, "name": "Patriarchal but affectionate", "color": "darkred" },
+      { "key": 29, "parent": 23, "name": "Joint families common", "color": "darkred" },
+      { "key": 30, "parent": 23, "name": "Women enjoyed respect and freedom", "color": "darkred" }
+    ],
+    "24": [
+      { "key": 31, "parent": 24, "name": "Protector of the tribe", "color": "darkred" },
+      { "key": 32, "parent": 24, "name": "Power not absolute", "color": "darkred" },
+      { "key": 33, "parent": 24, "name": "Elected/chosen by people", "color": "darkred" },
+      { "key": 34, "parent": 24, "name": "Advised by assemblies", "color": "darkred" }
+    ],
+    "25": [
+      { "key": 35, "parent": 25, "name": "Sabha (Assemblies, elders, advised king)", "color": "darkred" },
+      { "key": 36, "parent": 25, "name": "Samiti (Larger assemblies, discussed tribal matters, elected king)", "color": "darkred" },
+      { "key": 37, "parent": 25, "name": "Vidhata (Rituals, military, secular functions)", "color": "darkred" }
+    ],
+    "26": [
+      { "key": 38, "parent": 26, "name": "Brahmins (Priests, scholars)", "color": "darkred" },
+      { "key": 39, "parent": 26, "name": "Kshatriyas (Warriors, rulers)", "color": "darkred" },
+      { "key": 40, "parent": 26, "name": "Vaishyas (Farmers, traders, artisans)", "color": "darkred" },
+      { "key": 41, "parent": 26, "name": "Shudras (Servants, labourers)", "color": "darkred" },
+      { "key": 42, "parent": 26, "name": "Originally based on occupation, later hereditary", "color": "darkred" }
+    ],
+    "27": [
+      { "key": 43, "parent": 27, "name": "Brahmacharya (Student life, learning)", "color": "darkred" },
+      { "key": 44, "parent": 27, "name": "Grihastha (Householder, family duties)", "color": "darkred" },
+      { "key": 45, "parent": 27, "name": "Vanaprastha (Retirement, meditation)", "color": "darkred" },
+      { "key": 46, "parent": 27, "name": "Sannyasa (Renunciation, spiritual liberation)", "color": "darkred" }
+    ],
+
+    "5": [
+      { "key": 47, "parent": 5, "name": "Economy", "color": "darkgreen", "hasChildren": true },
+      { "key": 48, "parent": 5, "name": "Women’s Status", "color": "darkgreen", "hasChildren": true },
+      { "key": 49, "parent": 5, "name": "Other Shifts (Summary)", "color": "darkgreen", "hasChildren": true }
+    ],
+    "47": [
+      { "key": 50, "parent": 47, "name": "Early: Pastoral, cattle wealth, barley crop, simple crafts", "color": "darkred" },
+      { "key": 51, "parent": 47, "name": "Later: Agrarian, agriculture dominant (iron plough, tank irrigation), new crafts: pottery, smiths, carpentry", "color": "darkred" }
+    ],
+    "48": [
+      { "key": 52, "parent": 48, "name": "Early: High status, freedom, chose spouses (Swayamvara), participation in assemblies", "color": "darkred" },
+      { "key": 53, "parent": 48, "name": "Later: Status declined, education restricted, early marriage common, participation limited, property rights curtailed", "color": "darkred" }
+    ],
+    "49": [
+      { "key": 54, "parent": 49, "name": "Kings’ Power: Limited (Early) → Increased (Later)", "color": "darkred" },
+      { "key": 55, "parent": 49, "name": "Religion: Simple rituals (Early) → Complex rituals/Brahman dominance (Later)", "color": "darkred" },
+      { "key": 56, "parent": 49, "name": "Society: Fluid (Early) → Stratified (Later)", "color": "darkred" }
+    ],
+
+    "6": [
+      { "key": 57, "parent": 6, "name": "Students lived with gurus in ashrams", "color": "darkred" },
+      { "key": 58, "parent": 6, "name": "Focus on Vedas, philosophy, ethics, warfare", "color": "darkred" },
+      { "key": 59, "parent": 6, "name": "Used learning, writing rare", "color": "darkred" },
+      { "key": 60, "parent": 6, "name": "Emphasis on discipline and oral training", "color": "darkred" }
+    ]
+  }
+}
