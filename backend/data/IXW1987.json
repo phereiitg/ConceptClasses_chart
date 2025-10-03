@@ -1,4 +1,4 @@
-{  
+{ 
   "root": [
     { "key": 1, "name": "> First World War (1914-1919)", "color": "darkyellow", "hasChildren": true }
   ],
@@ -9,36 +9,36 @@
       { "key": 4, "parent": 1, "name": "> Results of WWI", "color": "darkblue", "hasChildren": true }
     ],
     "2": [
-      { "key": 5, "parent": 2, "name": "> Nationalism and Imperialism", "color": "darkgreen",  "hasChildren": true },
-      { "key": 6, "parent": 2, "name": "> Armament Race",  "color": "darkgreen", "hasChildren": true },
-      { "key": 7, "parent": 2, "name": "> Division of Europe (Alliance Systems)", "color": "darkgreen",  "hasChildren": true }
+      { "key": 5, "parent": 2, "name": "> Nationalism and Imperialism", "color": "darkgreen", "hasChildren": true },
+      { "key": 6, "parent": 2, "name": "> Armament Race", "color": "darkgreen", "hasChildren": true },
+      { "key": 7, "parent": 2, "name": "> Division of Europe (Alliance Systems)", "color": "darkgreen", "hasChildren": true }
     ],
     "5": [
-      { "key": 8, "parent": 5, "name": "> Nationalism",    "color": "darkyellow", "hasChildren": true },
-      { "key": 9, "parent": 5, "name": "> Imperialism",  "color": "darkyellow", "hasChildren": true }
+      { "key": 8, "parent": 5, "name": "> Nationalism", "color": "darkyellow", "hasChildren": true },
+      { "key": 9, "parent": 5, "name": "> Imperialism", "color": "darkyellow", "hasChildren": true }
     ],
     "8": [
-      { "key": 10, "parent": 8, "name": "Intense pride, belief in superiority" ,  "color": "darkred"},
-      { "key": 11, "parent": 8, "name": "Germany: Proud of industrial progress (post-1871)" ,  "color": "darkred"},
-      { "key": 12, "parent": 8, "name": "France: Resentment over losing Alsace-Lorraine" ,  "color": "darkred" },
-      { "key": 13, "parent": 8, "name": "Balkan States: Pan-Slav nationalism against Ottoman/Austro-Hungarian rule" ,  "color": "darkred"}
+      { "key": 10, "parent": 8, "name": "Intense pride, belief in superiority", "color": "darkred" },
+      { "key": 11, "parent": 8, "name": "Germany: Proud of industrial progress (post-1871)", "color": "darkred" },
+      { "key": 12, "parent": 8, "name": "France: Resentment over losing Alsace-Lorraine", "color": "darkred" },
+      { "key": 13, "parent": 8, "name": "Balkan States: Pan-Slav nationalism against Ottoman/Austro-Hungarian rule", "color": "darkred" }
     ],
     "9": [
-      { "key": 14, "parent": 9, "name": "Fierce competition for colonies (Africa/Asia)" ,  "color": "darkred"},
-      { "key": 15, "parent": 9, "name": "Rivalry between powers (Britain, France vs Germany, Italy)",,  "color": "darkred" },
-      { "key": 16, "parent": 9, "name": "Impact: Mutual hostility and desire to prove power" ,  "color": "darkred"}
+      { "key": 14, "parent": 9, "name": "Fierce competition for colonies (Africa/Asia)", "color": "darkred" },
+      { "key": 15, "parent": 9, "name": "Rivalry between powers (Britain, France vs Germany, Italy)", "color": "darkred" },
+      { "key": 16, "parent": 9, "name": "Impact: Mutual hostility and desire to prove power", "color": "darkred" }
     ],
     "6": [
-      { "key": 17, "parent": 6, "name": "Massive military buildup (late 19th/early 20th century)",  "color": "darkyellow" },
+      { "key": 17, "parent": 6, "name": "Massive military buildup (late 19th/early 20th century)", "color": "darkyellow" },
       { "key": 18, "parent": 6, "name": "Germany built powerful navy to rival Britain", "color": "darkyellow" },
       { "key": 19, "parent": 6, "name": "Britain responded (e.g., Dreadnought battleships)", "color": "darkyellow" },
-      { "key": 20, "parent": 6, "name": "Expansion of armies and weapon stockpiles" ,  "color": "darkyellow"},
-      { "key": 21, "parent": 6, "name": "Impact: Europe as a 'powder keg'" ,  "color": "darkyellow"}
+      { "key": 20, "parent": 6, "name": "Expansion of armies and weapon stockpiles", "color": "darkyellow" },
+      { "key": 21, "parent": 6, "name": "Impact: Europe as a 'powder keg'", "color": "darkyellow" }
     ],
     "7": [
-      { "key": 22, "parent": 7, "name": "> Triple Entente (Allied Powers)", "color": "darkyellow","hasChildren": true },
-      { "key": 23, "parent": 7, "name": "> Triple Alliance (Central Powers)", "color": "darkyellow","hasChildren": true },
-      { "key": 24, "parent": 7, "name": "Impact: Local conflict escalated to full-scale war" "color": "darkyellow",}
+      { "key": 22, "parent": 7, "name": "> Triple Entente (Allied Powers)", "color": "darkyellow", "hasChildren": true },
+      { "key": 23, "parent": 7, "name": "> Triple Alliance (Central Powers)", "color": "darkyellow", "hasChildren": true },
+      { "key": 24, "parent": 7, "name": "Impact: Local conflict escalated to full-scale war", "color": "darkyellow" }
     ],
     "22": [
       { "key": 25, "parent": 22, "name": "Britain" },
