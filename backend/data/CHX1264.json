@@ -1,0 +1,136 @@
+{
+  "root": [
+    { "key": 1, "name": "> The French Revolution (1789–1799)", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Causes", "color": "darkblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Events", "color": "darkblue", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Results", "color": "darkblue", "hasChildren": true }
+    ],
+
+    "2": [
+      { "key": 5, "parent": 2, "name": "> Political Causes", "color": "darkgreen", "hasChildren": true },
+      { "key": 6, "parent": 2, "name": "> Social Causes", "color": "darkgreen", "hasChildren": true },
+      { "key": 7, "parent": 2, "name": "> Economic Causes", "color": "darkgreen", "hasChildren": true }
+    ],
+
+    "5": [
+      { "key": 8, "parent": 5, "name": "Absolute monarchy", "color": "brown", "hasChildren": true },
+      { "key": 9, "parent": 5, "name": "Failure of reforms", "color": "brown", "hasChildren": true }
+    ],
+
+    "8": [
+      { "key": 10, "parent": 8, "name": "King held unlimited powers", "color": "darkred" },
+      { "key": 11, "parent": 8, "name": "People had no voice in government", "color": "darkred" }
+    ],
+
+    "9": [
+      { "key": 12, "parent": 9, "name": "Reforms attempted but blocked by privileged classes", "color": "darkred" }
+    ],
+
+    "6": [
+      { "key": 13, "parent": 6, "name": "Rigid social structure", "color": "brown", "hasChildren": true },
+      { "key": 14, "parent": 6, "name": "Privileges of clergy & nobility", "color": "brown", "hasChildren": true }
+    ],
+
+    "13": [
+      { "key": 15, "parent": 13, "name": "Society divided into 3 estates", "color": "darkred" },
+      { "key": 16, "parent": 13, "name": "3rd Estate bore taxation burden", "color": "darkred" }
+    ],
+
+    "14": [
+      { "key": 17, "parent": 14, "name": "Exemption from taxes", "color": "darkred" },
+      { "key": 18, "parent": 14, "name": "Enjoyed feudal dues", "color": "darkred" }
+    ],
+
+    "7": [
+      { "key": 19, "parent": 7, "name": "Financial crisis", "color": "brown", "hasChildren": true },
+      { "key": 20, "parent": 7, "name": "Extravagance of monarchy", "color": "brown", "hasChildren": true }
+    ],
+
+    "19": [
+      { "key": 21, "parent": 19, "name": "Costly wars drained treasury", "color": "darkred" },
+      { "key": 22, "parent": 19, "name": "Heavy taxation on 3rd Estate", "color": "darkred" }
+    ],
+
+    "20": [
+      { "key": 23, "parent": 20, "name": "Lavish lifestyle at Versailles", "color": "darkred" },
+      { "key": 24, "parent": 20, "name": "Queen Marie Antoinette’s expenses", "color": "darkred" }
+    ],
+
+    "3": [
+      { "key": 25, "parent": 3, "name": "> National Assembly", "color": "darkgreen", "hasChildren": true },
+      { "key": 26, "parent": 3, "name": "> Fall of Bastille", "color": "darkgreen", "hasChildren": true },
+      { "key": 27, "parent": 3, "name": "> Reign of Terror", "color": "darkgreen", "hasChildren": true }
+    ],
+
+    "25": [
+      { "key": 28, "parent": 25, "name": "Formed by 3rd Estate (1789)", "color": "brown", "hasChildren": true },
+      { "key": 29, "parent": 25, "name": "Adopted Declaration of Rights", "color": "brown", "hasChildren": true }
+    ],
+
+    "28": [
+      { "key": 30, "parent": 28, "name": "Demanded constitutional monarchy", "color": "darkred" }
+    ],
+
+    "29": [
+      { "key": 31, "parent": 29, "name": "Rights of man and citizen", "color": "darkred" },
+      { "key": 32, "parent": 29, "name": "Equality before law", "color": "darkred" }
+    ],
+
+    "26": [
+      { "key": 33, "parent": 26, "name": "Symbol of people’s revolt", "color": "brown", "hasChildren": true }
+    ],
+
+    "33": [
+      { "key": 34, "parent": 33, "name": "Stormed on 14 July 1789", "color": "darkred" },
+      { "key": 35, "parent": 33, "name": "Marked start of revolution", "color": "darkred" }
+    ],
+
+    "27": [
+      { "key": 36, "parent": 27, "name": "Led by Robespierre", "color": "brown", "hasChildren": true },
+      { "key": 37, "parent": 27, "name": "Thousands executed", "color": "brown", "hasChildren": true }
+    ],
+
+    "36": [
+      { "key": 38, "parent": 36, "name": "Committee of Public Safety", "color": "darkred" }
+    ],
+
+    "37": [
+      { "key": 39, "parent": 37, "name": "Use of guillotine", "color": "darkred" }
+    ],
+
+    "4": [
+      { "key": 40, "parent": 4, "name": "> End of Monarchy", "color": "darkgreen", "hasChildren": true },
+      { "key": 41, "parent": 4, "name": "> Rise of Napoleon", "color": "darkgreen", "hasChildren": true },
+      { "key": 42, "parent": 4, "name": "> Legacy", "color": "darkgreen", "hasChildren": true }
+    ],
+
+    "40": [
+      { "key": 43, "parent": 40, "name": "King Louis XVI executed (1793)", "color": "darkred" }
+    ],
+
+    "41": [
+      { "key": 44, "parent": 41, "name": "Napoleon emerged as leader", "color": "brown", "hasChildren": true }
+    ],
+
+    "44": [
+      { "key": 45, "parent": 44, "name": "Napoleonic Code", "color": "darkred" },
+      { "key": 46, "parent": 44, "name": "Military expansion of France", "color": "darkred" }
+    ],
+
+    "42": [
+      { "key": 47, "parent": 42, "name": "Spread of nationalism", "color": "brown", "hasChildren": true },
+      { "key": 48, "parent": 42, "name": "Inspired revolutions in Europe", "color": "brown", "hasChildren": true }
+    ],
+
+    "47": [
+      { "key": 49, "parent": 47, "name": "Ideas of liberty and equality", "color": "darkred" }
+    ],
+
+    "48": [
+      { "key": 50, "parent": 48, "name": "Influenced 19th century Europe", "color": "darkred" }
+    ]
+  }
+}

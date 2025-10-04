@@ -1,0 +1,55 @@
+{
+  "root": [
+    { "key": 1, "name": "> The Rise of Nationalism in Europe (19th Century)", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Frédéric Sorrieu’s Vision (1848)", "color": "darkblue" },
+      { "key": 3, "parent": 1, "name": "> Defining Nation-State and Nationalism", "color": "darkblue" },
+      { "key": 4, "parent": 1, "name": "> The French Revolution (1789) and Idea of Nation", "color": "darkblue" },
+      { "key": 5, "parent": 1, "name": "> Napoleonic Code (Civil Code of 1804)", "color": "darkblue" },
+      { "key": 6, "parent": 1, "name": "> Making of Nationalism in Europe (Pre-1848)", "color": "darkblue" },
+      { "key": 7, "parent": 1, "name": "> Age of Revolutions (1830–1848)", "color": "darkblue" },
+      { "key": 8, "parent": 1, "name": "> Unification of Germany and Italy", "color": "darkblue" },
+      { "key": 9, "parent": 1, "name": "> Visualising the Nation", "color": "darkblue", "hasChildren": true },
+      { "key": 10, "parent": 1, "name": "> Nationalism and Imperialism (Post-1871)", "color": "darkblue", "hasChildren": true }
+    ],
+
+    "9": [
+      { "key": 11, "parent": 9, "name": "Personification of Nation (Female Figures)", "color": "darkgreen" },
+      { "key": 12, "parent": 9, "name": "Allegory: Abstract idea expressed through person or thing", "color": "darkgreen" },
+      { "key": 13, "parent": 9, "name": "> Allegories of Liberty/Justice", "color": "darkgreen", "hasChildren": true },
+      { "key": 14, "parent": 9, "name": "> Female Allegories of Nations", "color": "darkgreen", "hasChildren": true }
+    ],
+
+    "13": [
+      { "key": 15, "parent": 13, "name": "Liberty: Red cap, broken chain", "color": "brown" },
+      { "key": 16, "parent": 13, "name": "Justice: Blindfolded woman carrying scales", "color": "brown" }
+    ],
+
+    "14": [
+      { "key": 17, "parent": 14, "name": "Marianne (France): Red cap, tricolour, cockade; underlined 'people’s nation'", "color": "brown" },
+      { "key": 18, "parent": 14, "name": "Germania (German Nation): Crown of oak leaves (symbol of heroism)", "color": "brown" }
+    ],
+
+    "10": [
+      { "key": 19, "parent": 10, "name": "Nationalism became a narrow creed with limited ends", "color": "darkgreen" },
+      { "key": 20, "parent": 10, "name": "Nationalist groups became intolerant and ready for war", "color": "darkgreen" },
+      { "key": 21, "parent": 10, "name": "Major powers manipulated aspirations for imperialist aims", "color": "darkgreen" },
+      { "key": 22, "parent": 10, "name": "> The Balkans (Most serious source of tension)", "color": "darkgreen", "hasChildren": true }
+    ],
+
+    "22": [
+      { "key": 23, "parent": 22, "name": "Region of geographical and ethnic variation (Slavs)", "color": "brown" },
+      { "key": 24, "parent": 22, "name": "Under control of Ottoman Empire (disintegrating)", "color": "brown" },
+      { "key": 25, "parent": 22, "name": "Balkan peoples based claims on nationality and history (to win back independence)", "color": "brown" },
+      { "key": 26, "parent": 22, "name": "Intense conflict and fierce jealousy among Balkan states", "color": "brown" },
+      { "key": 27, "parent": 22, "name": "> Big Power Rivalry", "color": "brown", "hasChildren": true }
+    ],
+
+    "27": [
+      { "key": 28, "parent": 27, "name": "Russia, Germany, England, Austro-Hungary keen on extending control", "color": "darkred" },
+      { "key": 29, "parent": 27, "name": "Led to series of wars and finally the First World War", "color": "darkred" }
+    ]
+  }
+}

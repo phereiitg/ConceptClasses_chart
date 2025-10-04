@@ -1,0 +1,86 @@
+{
+  "root": [
+    { "key": 1, "name": "> The Rise of Nationalism in Europe (19th Century)", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Age of Revolutions (1830–1848)", "color": "darkblue", "hasChildren": true }
+    ],
+    "2": [
+      { "key": 3, "parent": 2, "name": "> The July Revolution (France, 1830)", "color": "darkgreen", "hasChildren": true },
+      { "key": 4, "parent": 2, "name": "> Greek War of Independence (began 1821)", "color": "darkgreen", "hasChildren": true },
+      { "key": 5, "parent": 2, "name": "> Cultural Role in Nationalism (Romanticism)", "color": "darkgreen", "hasChildren": true },
+      { "key": 6, "parent": 2, "name": "> Revolution of the Liberals (1848s)", "color": "darkgreen", "hasChildren": true }
+    ],
+
+    "3": [
+      { "key": 7, "parent": 3, "name": "Bourbons kings overthrown by liberals", "color": "brown" },
+      { "key": 8, "parent": 3, "name": "Constitutional monarchy installed (Louis Philippe)", "color": "brown" },
+      { "key": 9, "parent": 3, "name": "Sparked uprisings in Brussels (Belgium broke from Netherlands)", "color": "brown" }
+    ],
+
+    "4": [
+      { "key": 10, "parent": 4, "name": "Mobilized nationalist feelings across Europe", "color": "brown" },
+      { "key": 11, "parent": 4, "name": "Greek supported by poets and West Europeans (Lord Byron)", "color": "brown" },
+      { "key": 12, "parent": 4, "name": "Greece treated as ‘cradle of European civilization’", "color": "brown" },
+      { "key": 13, "parent": 4, "name": "Recognized as independent nation (Treaty of Constantinople, 1832)", "color": "brown" }
+    ],
+
+    "5": [
+      { "key": 14, "parent": 5, "name": "> Cultural context: focused on emotion, intuition", "color": "brown", "hasChildren": true },
+      { "key": 15, "parent": 5, "name": "> Sought shared collective heritage/common cultural past", "color": "brown", "hasChildren": true },
+      { "key": 16, "parent": 5, "name": "> Johann Gottfried Herder", "color": "brown", "hasChildren": true },
+      { "key": 17, "parent": 5, "name": "> Language and Folklore", "color": "brown", "hasChildren": true }
+    ],
+
+    "14": [
+      { "key": 18, "parent": 14, "name": "True German culture found in common people (das volk)", "color": "darkred" }
+    ],
+    "15": [
+      { "key": 19, "parent": 15, "name": "Popularized new spirit of nation (volksgeist) in folk songs/poetry", "color": "darkred" }
+    ],
+    "16": [
+      { "key": 20, "parent": 16, "name": "Grimm Brothers collected folktales to oppose French domination", "color": "darkred" }
+    ],
+    "17": [
+      { "key": 21, "parent": 17, "name": "Vernacular language carried nationalist message to illiterate masses", "color": "darkred" },
+      { "key": 22, "parent": 17, "name": "Poland used music (poets, musicians) and Polish language as resistance to Russian dominance", "color": "darkred" }
+    ],
+
+    "6": [
+      { "key": 23, "parent": 6, "name": "> Hunger, Hardship, and Popular Revolts", "color": "brown", "hasChildren": true },
+      { "key": 24, "parent": 6, "name": "> Revolution of the Liberals (1848s)", "color": "brown", "hasChildren": true },
+      { "key": 25, "parent": 6, "name": "> Women’s Rights Issues", "color": "brown", "hasChildren": true },
+      { "key": 26, "parent": 6, "name": "> Post-1848 Consequences", "color": "brown", "hasChildren": true }
+    ],
+
+    "23": [
+      { "key": 27, "parent": 23, "name": "1840s: Great economic hardship, population increase, job scarcity", "color": "darkred" },
+      { "key": 28, "parent": 23, "name": "Competition from cheap English machine-made goods", "color": "darkred" },
+      { "key": 29, "parent": 23, "name": "Peasants struggled under feudal dues", "color": "darkred" },
+      { "key": 30, "parent": 23, "name": "1848 Revolts (Food Shortages/Peasantry)", "color": "darkred" },
+      { "key": 31, "parent": 23, "name": "France: Monarchy abolished, Republic proclaimed, universal male suffrage", "color": "darkred" },
+      { "key": 32, "parent": 23, "name": "Silesian Weavers Revolt (1844) against contractors over reduced payments", "color": "darkred" }
+    ],
+
+    "24": [
+      { "key": 33, "parent": 24, "name": "Led by educated middle classes", "color": "darkred" },
+      { "key": 34, "parent": 24, "name": "Demanded constitutional unification", "color": "darkred" },
+      { "key": 35, "parent": 24, "name": "Drafted constitution for German nation (Church of St. Paul)", "color": "darkred" },
+      { "key": 36, "parent": 24, "name": "Prussian monarch rejected it (King Friedrich Wilhelm IV)", "color": "darkred" },
+      { "key": 37, "parent": 24, "name": "Middle class resisted workers’ radical demands", "color": "darkred" },
+      { "key": 38, "parent": 24, "name": "Assembly forced to disband", "color": "darkred" }
+    ],
+
+    "25": [
+      { "key": 39, "parent": 25, "name": "Demand political rights/suffrage", "color": "darkred" },
+      { "key": 40, "parent": 25, "name": "Admitted only as observers in Frankfurt Parliament gallery", "color": "darkred" },
+      { "key": 41, "parent": 25, "name": "Feminist groups formed (e.g., Louise Otto-Peters)", "color": "darkred" }
+    ],
+
+    "26": [
+      { "key": 42, "parent": 26, "name": "Monarchs granted concessions to liberal-nationalists", "color": "darkred" },
+      { "key": 43, "parent": 26, "name": "Serfdom/feudal labor abolished in Habsburg dominions and Russia", "color": "darkred" }
+    ]
+  }
+}
