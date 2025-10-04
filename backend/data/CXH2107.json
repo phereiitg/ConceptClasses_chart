@@ -1,0 +1,65 @@
+{
+  "root": [
+    {
+      "key": 1,
+      "name": "Nationalism in India (1920s onwards)",
+      "color": "lightpurple",
+      "hasChildren": true
+    }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "name": "Growth of Modern Nationalism", "color": "lightblue", "hasChildren": true },
+      { "key": 3, "name": "Impact of First World War (Post-1919)", "color": "lightblue", "hasChildren": true },
+      { "key": 4, "name": "Mahatma Gandhi's New Mode of Struggle", "color": "lightblue", "hasChildren": true },
+      { "key": 5, "name": "Key Movements (1919-1934)", "color": "lightblue", "hasChildren": false },
+      { "key": 6, "name": "Participants and Aspirations (Swaraj)", "color": "lightblue", "hasChildren": false },
+      { "key": 7, "name": "Limits of Civil Disobedience", "color": "lightblue", "hasChildren": false },
+      { "key": 8, "name": "Sense of Collective Belonging", "color": "lightblue", "hasChildren": false }
+    ],
+
+    "2": [
+      { "key": 21, "name": "Connected to Anti-Colonial Movement", "color": "green" },
+      { "key": 22, "name": "Shared Bond under Colonialism", "color": "green" },
+      { "key": 23, "name": "Varied Experiences/Notions of Freedom", "color": "green" },
+      { "key": 24, "name": "Congress under Gandhi tried to forge unity", "color": "green" }
+    ],
+
+    "3": [
+      { "key": 31, "name": "New Economic and Political Situation", "color": "green" },
+      { "key": 32, "name": "Increased Defence Expenditure", "color": "green" },
+      { "key": 33, "name": "Financing through Taxes/Loans", "color": "green", "hasChildren": true },
+      { "key": 34, "name": "Price Doubling (1913-1918) → Hardship", "color": "green" },
+      { "key": 35, "name": "Forced Recruitment in Rural Areas → Anger", "color": "green" },
+      { "key": 36, "name": "Crop Failure (1918-21) → Food Shortages", "color": "green" },
+      { "key": 37, "name": "Influenza Epidemic (12-13 million perished)", "color": "green" }
+    ],
+
+    "33": [
+      { "key": 331, "name": "Customs duties raised", "color": "brown" },
+      { "key": 332, "name": "Income tax introduced", "color": "brown" }
+    ],
+
+    "4": [
+      { "key": 41, "name": "Return to India (Jan 1915)", "color": "green", "hasChildren": true },
+      { "key": 42, "name": "Idea of Satyagraha", "color": "green", "hasChildren": true },
+      { "key": 43, "name": "Early Satyagraha Movements", "color": "green", "hasChildren": true }
+    ],
+
+    "41": [
+      { "key": 411, "name": "Emphasized power of truth", "color": "brown" }
+    ],
+
+    "42": [
+      { "key": 421, "name": "Struggle against injustice", "color": "brown" },
+      { "key": 422, "name": "Win battle through non-violence", "color": "brown" },
+      { "key": 423, "name": "Unite all Indians", "color": "brown" }
+    ],
+
+    "43": [
+      { "key": 431, "name": "1917: Champaran, Bihar (Plantation system)", "color": "brown" },
+      { "key": 432, "name": "1917: Kheda, Gujarat (Revenue relaxation)", "color": "brown" },
+      { "key": 433, "name": "1918: Ahmedabad (Cotton mill workers)", "color": "brown" }
+    ]
+  }
+}
