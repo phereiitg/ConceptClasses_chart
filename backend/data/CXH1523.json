@@ -4,13 +4,6 @@
   ],
   "nodes": {
     "1": [
-      { "key": 2, "parent": 1, "name": "> Frédéric Sorrieu’s Vision (1848)", "color": "darkblue" },
-      { "key": 3, "parent": 1, "name": "> Defining Nation-State and Nationalism", "color": "darkblue" },
-      { "key": 4, "parent": 1, "name": "> The French Revolution (1789) and Idea of Nation", "color": "darkblue" },
-      { "key": 5, "parent": 1, "name": "> Napoleonic Code (Civil Code of 1804)", "color": "darkblue" },
-      { "key": 6, "parent": 1, "name": "> Making of Nationalism in Europe (Pre-1848)", "color": "darkblue" },
-      { "key": 7, "parent": 1, "name": "> Age of Revolutions (1830–1848)", "color": "darkblue" },
-      { "key": 8, "parent": 1, "name": "> Unification of Germany and Italy", "color": "darkblue" },
       { "key": 9, "parent": 1, "name": "> Visualising the Nation", "color": "darkblue", "hasChildren": true },
       { "key": 10, "parent": 1, "name": "> Nationalism and Imperialism (Post-1871)", "color": "darkblue", "hasChildren": true }
     ],
