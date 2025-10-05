@@ -1,0 +1,78 @@
+{
+  "root": [
+    { "key": 1, "name": "> The Age of Industrialisation", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 8, "parent": 1, "name": "> Factories Come Up (India)", "color": "darkblue", "hasChildren": true },
+      { "key": 9, "parent": 1, "name": "> Peculiarities of Industrial Growth (India)", "color": "darkblue", "hasChildren": true }
+    ],
+
+    "8": [
+      { "key": 12, "parent": 8, "name": "> Timeline and Location", "color": "darkgreen", "hasChildren": true },
+      { "key": 13, "parent": 8, "name": "> Early Entrepreneurs", "color": "darkgreen", "hasChildren": true }
+    ],
+    "12": [
+      { "key": 14, "parent": 12, "name": "First cotton mill: Bombay (1854)", "color": "darkred" },
+      { "key": 15, "parent": 12, "name": "Jute mills: Bengal (1855, 1862)", "color": "darkred" },
+      { "key": 16, "parent": 12, "name": "Elgin Mill: Kanpur (1860)", "color": "darkred" },
+      { "key": 17, "parent": 12, "name": "Cotton mill: Ahmedabad (Year after Bombay)", "color": "darkred" },
+      { "key": 18, "parent": 12, "name": "Spinning/Weaving mills: Madras (1874)", "color": "darkred" },
+      { "key": 19, "parent": 12, "name": "First iron/steel works: Jamshedpur (1912, J.N. Tata)", "color": "darkred" }
+    ],
+    "13": [
+      { "key": 20, "parent": 13, "name": "Capital derived mostly from China Trade (Opium/Tea)", "color": "darkred" },
+      { "key": 21, "parent": 13, "name": "Bengali Dwarkanath Tagore (Set up joint-stock companies 1830s-40s)", "color": "darkred" },
+      { "key": 22, "parent": 13, "name": "Bombay: Dinshaw Petit, J.N. Tata", "color": "darkred" },
+      { "key": 23, "parent": 13, "name": "Marwaris: Seth Hukumchand (set up first Indian jute mill 1917)", "color": "darkred" },
+      { "key": 24, "parent": 13, "name": "Other capital sources: Trade with Burma, Middle East, East Africa", "color": "darkred" }
+    ],
+
+    "9": [
+      { "key": 25, "parent": 9, "name": "> Colonial Control Constraints", "color": "darkgreen", "hasChildren": true },
+      { "key": 26, "parent": 9, "name": "> European Managing Agencies", "color": "darkgreen", "hasChildren": true },
+      { "key": 27, "parent": 9, "name": "> Workforce", "color": "darkgreen", "hasChildren": true },
+      { "key": 28, "parent": 9, "name": "> European Agency Focus", "color": "darkgreen", "hasChildren": true },
+      { "key": 29, "parent": 9, "name": "> Indian Businessmen Frozen (Late 19th Century)", "color": "darkgreen", "hasChildren": true },
+      { "key": 30, "parent": 9, "name": "> Impact of Swadeshi Movement (Early 20th Century)", "color": "darkgreen", "hasChildren": true },
+      { "key": 31, "parent": 9, "name": "> First World War Boom", "color": "darkgreen", "hasChildren": true }
+    ],
+    "25": [
+      { "key": 32, "parent": 25, "name": "Indian merchants barred from trading in manufactured goods with Europe", "color": "darkred" },
+      { "key": 33, "parent": 25, "name": "Forced to export raw materials (cotton, opium, wheat, indigo)", "color": "darkred" },
+      { "key": 34, "parent": 25, "name": "Edged out of shipping business", "color": "darkred" }
+    ],
+    "26": [
+      { "key": 35, "parent": 26, "name": "Controlled key sector until WWI (Bird, Heilgers, Andrew Yule, Jardine Skinner)", "color": "darkred" },
+      { "key": 36, "parent": 26, "name": "Mobilized capital, set up, and managed joint-stock companies", "color": "darkred" },
+      { "key": 37, "parent": 26, "name": "Indian financiers invested capital; Europeans made decisions", "color": "darkred" }
+    ],
+    "27": [
+      { "key": 38, "parent": 27, "name": "Came from surrounding districts (e.g., Ratnagiri to Bombay, Kanpur villages)", "color": "darkred" },
+      { "key": 39, "parent": 27, "name": "Peasants and artisans seeking work", "color": "darkred" },
+      { "key": 40, "parent": 27, "name": "Workers moved between village and city (returning during harvests)", "color": "darkred" },
+      { "key": 41, "parent": 27, "name": "Job getting was difficult (more seekers than jobs)", "color": "darkred" },
+      { "key": 42, "parent": 27, "name": "Industrialists employed jobbers (trusted worker, recruiter, powerful figure)", "color": "darkred" }
+    ],
+    "28": [
+      { "key": 43, "parent": 28, "name": "Products for export trade", "color": "darkred" },
+      { "key": 44, "parent": 28, "name": "Tea/Coffee plantations, Mining, Indigo, Jute", "color": "darkred" }
+    ],
+    "29": [
+      { "key": 45, "parent": 29, "name": "Avoided competition with Manchester cloth", "color": "darkred" },
+      { "key": 46, "parent": 29, "name": "Produced coarse cotton yarn (used by handloom weavers or exported to China)", "color": "darkred" }
+    ],
+    "30": [
+      { "key": 47, "parent": 30, "name": "Nationalist mobilized boycott of foreign cloth", "color": "darkred" },
+      { "key": 48, "parent": 30, "name": "Industrial groups pressured government for tariff protection", "color": "darkred" },
+      { "key": 49, "parent": 30, "name": "Decline of Indian yarn export to China (due to Japan/Yokohama mills)", "color": "darkred" },
+      { "key": 50, "parent": 30, "name": "Indian mills shift from yarn to cloth production (substituted 1906-1913)", "color": "darkred" }
+    ],
+    "31": [
+      { "key": 51, "parent": 31, "name": "British mills busy with war production (Manchester imports to India declined)", "color": "darkred" },
+      { "key": 52, "parent": 31, "name": "Indian mills supplied war needs (bags, ropes, uniforms, etc.)", "color": "darkred" },
+      { "key": 53, "parent": 31, "name": "Production boomed, workers worked longer hours", "color": "darkred" },
+      { "key": 54, "parent": 31, "name": "Post-war: Manchester failed to recapture market (due to global competition, British economic collapse)", "color": "darkred" }
+    ]
+  }
+}
