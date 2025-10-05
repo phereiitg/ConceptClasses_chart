@@ -1,0 +1,40 @@
+{
+  "root": [
+    { "key": 1, "name": "> Socialism in Europe and the Russian Revolution", "color": "darkblue", "hasChildren": true }
+  ],
+
+  "nodes": {
+    "1": [
+      { "key": 2, "name": "> The Age of Social Change", "color": "darkgreen", "hasChildren": false },
+      { "key": 3, "name": "> The Coming of Socialism to Europe", "color": "darkgreen", "hasChildren": false },
+      { "key": 4, "name": "> The Russian Revolution", "color": "darkgreen", "hasChildren": false },
+      { "key": 5, "name": "> After February and October Revolution (1917)", "color": "darkgreen", "hasChildren": false },
+      { "key": 6, "name": "> Civil War and Socialist Society (1918–1939)", "color": "darkgreen", "hasChildren": false },
+      { "key": 7, "name": "> Global Influence of the Revolution", "color": "darkgreen", "hasChildren": true }
+    ],
+
+    "7": [
+      { "key": 8, "name": "Workers’ state possibility inspired people worldwide", "color": "black", "hasChildren": false },
+      { "key": 9, "name": "Communist Parties formed globally (e.g., CP of Great Britain)", "color": "black", "hasChildren": false },
+      { "key": 10, "name": "Bolsheviks encouraged colonial peoples", "color": "black", "hasChildren": false },
+      { "key": 11, "name": "Comintern formed (international union of pro-Bolshevik parties)", "color": "black", "hasChildren": false },
+      { "key": 12, "name": "USSR gave socialism world stature by WWII", "color": "black", "hasChildren": true },
+      { "key": 16, "name": "Reputation Decline (1950s)", "color": "black", "hasChildren": true },
+      { "key": 20, "name": "Influence in India", "color": "black", "hasChildren": true }
+    ],
+
+    "12": [
+      { "key": 13, "name": "Backward country became great power (industry/agriculture developed)", "color": "black", "hasChildren": false }
+    ],
+
+    "16": [
+      { "key": 17, "name": "Denied essential freedoms to citizens", "color": "black", "hasChildren": false },
+      { "key": 18, "name": "Development achieved through repressive policies", "color": "black", "hasChildren": false }
+    ],
+
+    "20": [
+      { "key": 21, "name": "Communist Party formed in India (mid-1920s)", "color": "black", "hasChildren": false },
+      { "key": 22, "name": "Jawaharlal Nehru and Rabindranath Tagore visited/wrote about Soviet experiment", "color": "black", "hasChildren": false }
+    ]
+  }
+}

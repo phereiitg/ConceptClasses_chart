@@ -1,0 +1,133 @@
+{
+  "root": [
+    { "key": 1, "name": "> Nazism and the Rise of Hitler", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "name": "> The Birth of the Weimar Republic", "color": "lightblue", "hasChildren": true },
+      { "key": 3, "name": "> Political Instability and Economic Crises", "color": "lightblue", "hasChildren": true },
+      { "key": 4, "name": "> Hitler’s Rise to Power", "color": "lightblue", "hasChildren": true },
+      { "key": 5, "name": "> Nazi Worldview and Ideology", "color": "lightblue", "hasChildren": true },
+      { "key": 6, "name": "> Destruction and Annihilation (The Holocaust)", "color": "lightblue" },
+      { "key": 7, "name": "> Nazi Reconstruction and Foreign Policy", "color": "lightblue" },
+      { "key": 8, "name": "> Nazi Control over Youth and Women", "color": "lightblue" }
+    ],
+
+    "2": [
+      { "key": 9, "name": "End of WWI (1914–1918)", "color": "lightgreen", "hasChildren": true },
+      { "key": 10, "name": "Establishment of Republic", "color": "lightgreen", "hasChildren": true }
+    ],
+
+    "9": [
+      { "key": 11, "name": "Germany defeated by Allies (U.S., France, Russia, USA)" },
+      { "key": 12, "name": "Defeat led to abdication of Emperor" }
+    ],
+
+    "10": [
+      { "key": 13, "name": "National Assembly met at Weimar" },
+      { "key": 14, "name": "Democratic constitution with federal structure" },
+      { "key": 15, "name": "Reichstag elected by equal, universal vote (including women)" }
+    ],
+
+    "3": [
+      { "key": 16, "name": "Treaty of Versailles (Humiliation)", "color": "lightgreen", "hasChildren": true },
+      { "key": 17, "name": "Effects of War and Treaty", "color": "lightgreen", "hasChildren": true },
+      { "key": 18, "name": "Political Radicalisation", "color": "lightgreen", "hasChildren": true },
+      { "key": 19, "name": "Economic Crisis of 1923 (Hyperinflation)", "color": "lightgreen", "hasChildren": true },
+      { "key": 20, "name": "Great Economic Depression (1929–1932)", "color": "lightgreen", "hasChildren": true },
+      { "key": 21, "name": "Fragility of Weimar Republic", "color": "lightgreen", "hasChildren": true }
+    ],
+
+    "16": [
+      { "key": 22, "name": "Harsh terms not received well by Germans" },
+      { "key": 23, "name": "Lost colonies, 13% territory, 75% iron, 26% coal" },
+      { "key": 24, "name": "Demilitarized Germany" },
+      { "key": 25, "name": "War Guilt Clause and forced compensation (6 billion)" }
+    ],
+
+    "17": [
+      { "key": 26, "name": "Psychological and financial devastation" },
+      { "key": 27, "name": "Weimar Republic bore burden of war guilt/compensation" },
+      { "key": 28, "name": "Supporters (Socialists, Catholics, Democrats) mocked as 'November criminals'" }
+    ],
+
+    "18": [
+      { "key": 29, "name": "Spartacist League revolutionary uprising (Bolshevik pattern)" },
+      { "key": 30, "name": "Weimar Republic crushed uprising (using Free Corps)" },
+      { "key": 31, "name": "Spartacists founded Communist Party of Germany" },
+      { "key": 32, "name": "Communists and Socialists became irreconcilable enemies" }
+    ],
+
+    "19": [
+      { "key": 33, "name": "Germany refused to pay reparations" },
+      { "key": 34, "name": "French occupied Ruhr (industrial area)" },
+      { "key": 35, "name": "Germany printed currency recklessly" },
+      { "key": 36, "name": "Mark value collapsed; prices soared (Hyperinflation)" },
+      { "key": 37, "name": "Solved temporarily by Dawes Plan (1924)" }
+    ],
+
+    "20": [
+      { "key": 38, "name": "German recovery dependent on US loans" },
+      { "key": 39, "name": "Wall Street Exchange crashed (1929)" },
+      { "key": 40, "name": "USA recalled income fell by half; factories shut down" },
+      { "key": 41, "name": "German industrial production fell to 40% (1932)" },
+      { "key": 42, "name": "6 million unemployed; desperate and criminal activity rose" },
+      { "key": 43, "name": "Middle classes feared proletarianisation" }
+    ],
+
+    "21": [
+      { "key": 44, "name": "Defect: Proportional Representation (led to weak coalitions)" },
+      { "key": 45, "name": "Defect: Article 48 (President could impose emergency rule by decree)" },
+      { "key": 46, "name": "Frequent cabinet changes; liberal use of Article 48" },
+      { "key": 47, "name": "People lost confidence in democratic system" }
+    ],
+
+    "4": [
+      { "key": 48, "name": "Early Life and Entry into Politics", "color": "lightgreen", "hasChildren": true },
+      { "key": 49, "name": "Shift to Mass Movement", "color": "lightgreen", "hasChildren": true },
+      { "key": 50, "name": "Promises and Propaganda", "color": "lightgreen", "hasChildren": true },
+      { "key": 51, "name": "Acquisition and Consolidation of Power", "color": "lightgreen", "hasChildren": true },
+      { "key": 52, "name": "Terror Apparatus", "color": "lightgreen", "hasChildren": true }
+    ],
+
+    "48": [
+      { "key": 53, "name": "Born 1889 in Austria; poor youth" },
+      { "key": 54, "name": "WWI army corporal; earned medals" },
+      { "key": 55, "name": "Humiliated by defeat; furious on Versailles Treaty" },
+      { "key": 56, "name": "Joined German Workers Party (1919)" },
+      { "key": 57, "name": "Renamed it National Socialist German Workers’ Party (Nazi Party)" }
+    ],
+
+    "49": [
+      { "key": 58, "name": "Failed coup attempt in Bavaria (1923)" },
+      { "key": 59, "name": "Nazis gained support during Great Depression (after 1929)" },
+      { "key": 60, "name": "Vote share increased from 2.6% (1928) to 37.3% (1932)" }
+    ],
+
+    "50": [
+      { "key": 61, "name": "Promised strong nation, undo Versailles injustice, restore dignity" },
+      { "key": 62, "name": "Promised employment and secure future" },
+      { "key": 63, "name": "Promised to weed out foreign influences/conspiracies" },
+      { "key": 64, "name": "Used rituals, symbols, mass rallies (Swastika, Nazi salute)" },
+      { "key": 65, "name": "Projected Hitler as Messiah/Saviour" }
+    ],
+
+    "51": [
+      { "key": 66, "name": "Became Chancellor (Jan 30, 1933) – appointed by Hindenburg" },
+      { "key": 67, "name": "Dismantled democratic structure" },
+      { "key": 68, "name": "Fire Decree (Feb 28, 1933): Suspended civil rights" },
+      { "key": 69, "name": "Enabling Act (Mar 3, 1933): Established dictatorship (rule by decree)" },
+      { "key": 70, "name": "Banned all parties and trade unions (except Nazi affiliates)" },
+      { "key": 71, "name": "State control over economy, media, army, judiciary" }
+    ],
+
+    "52": [
+      { "key": 72, "name": "Special surveillance/security forces created" },
+      { "key": 73, "name": "SA (Storm Troopers)" },
+      { "key": 74, "name": "Gestapo (Secret State Police)" },
+      { "key": 75, "name": "SS (Protection Squads)" },
+      { "key": 76, "name": "Criminal Police and Security Service (SD)" },
+      { "key": 77, "name": "Imprisonment in Gestapo chambers/Concentration camps without legal procedure" }
+    ]
+  }
+}

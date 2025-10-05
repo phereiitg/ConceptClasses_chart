@@ -1,0 +1,95 @@
+{
+  "root": [
+    { "key": 1, "name": "> The French Revolution and its Impact", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "name": "> French Society: Old Regime (before 1789)", "color": "darkgreen", "hasChildren": true },
+      { "key": 11, "name": "> Outbreak of the Revolution (1789)", "color": "darkgreen", "hasChildren": true },
+      { "key": 22, "name": "> New Political System and Ideals", "color": "darkgreen", "hasChildren": false },
+      { "key": 23, "name": "> The Reign of Terror (1793–1794)", "color": "darkgreen", "hasChildren": false },
+      { "key": 24, "name": "> After the Terror", "color": "darkgreen", "hasChildren": false },
+      { "key": 25, "name": "> Social Reforms and Movements", "color": "darkgreen", "hasChildren": false },
+      { "key": 26, "name": "> Legacy of the French Revolution", "color": "darkgreen", "hasChildren": false }
+    ],
+
+    "2": [
+      { "key": 3, "name": "> Monarchy", "color": "black", "hasChildren": true },
+      { "key": 6, "name": "> Three Estates", "color": "black", "hasChildren": true },
+      { "key": 9, "name": "> Struggle to Survive (Subsistence Crisis)", "color": "black", "hasChildren": true }
+    ],
+
+    "3": [
+      { "key": 4, "name": "Louis XVI (Ascended 1774)", "color": "black", "hasChildren": false },
+      { "key": 5, "name": "Empty treasury/financial crisis", "color": "black", "hasChildren": false },
+      { "key": 51, "name": "Despotic power of the King (Bastille Symbol)", "color": "black", "hasChildren": false }
+    ],
+
+    "6": [
+      { "key": 7, "name": "First Estate (Clergy)", "color": "black", "hasChildren": true },
+      { "key": 8, "name": "Second Estate (Nobility)", "color": "black", "hasChildren": true },
+      { "key": 81, "name": "Third Estate (Taxpayers)", "color": "black", "hasChildren": true }
+    ],
+
+    "7": [
+      { "key": 71, "name": "Privileges by birth", "color": "black", "hasChildren": false },
+      { "key": 72, "name": "Exempt from state taxes", "color": "black", "hasChildren": false },
+      { "key": 73, "name": "Entitled tithes (Church Tax)", "color": "black", "hasChildren": false }
+    ],
+
+    "8": [
+      { "key": 82, "name": "Privileges by birth", "color": "black", "hasChildren": false },
+      { "key": 83, "name": "Exempt from state taxes", "color": "black", "hasChildren": false },
+      { "key": 84, "name": "Enjoyed feudal privileges/dues", "color": "black", "hasChildren": false }
+    ],
+
+    "81": [
+      { "key": 85, "name": "Paid all taxes (Taille, indirect taxes)", "color": "black", "hasChildren": false },
+      { "key": 86, "name": "Included peasants (90% pop.)", "color": "black", "hasChildren": false },
+      { "key": 87, "name": "Included prosperous Middle Class (merchants, lawyers)", "color": "black", "hasChildren": false }
+    ],
+
+    "9": [
+      { "key": 91, "name": "Population increase (23m to 28m)", "color": "black", "hasChildren": false },
+      { "key": 92, "name": "Rapid rise in bread price (staple diet)", "color": "black", "hasChildren": false },
+      { "key": 93, "name": "Wages didn’t keep pace with prices", "color": "black", "hasChildren": false },
+      { "key": 94, "name": "Worsened by drought/bad harvest", "color": "black", "hasChildren": false }
+    ],
+
+    "11": [
+      { "key": 12, "name": "> Protests against high price of bread", "color": "black", "hasChildren": false },
+      { "key": 13, "name": "> Estates General Convention (May 5, 1789)", "color": "black", "hasChildren": true },
+      { "key": 16, "name": "> National Assembly Formation (June 20, 1789)", "color": "black", "hasChildren": true },
+      { "key": 18, "name": "> Storming of the Bastille (July 14, 1789)", "color": "black", "hasChildren": true },
+      { "key": 19, "name": "> Peasant Revolts in Countryside (Great Fear)", "color": "black", "hasChildren": true },
+      { "key": 20, "name": "> National Assembly Decrees (Aug 4, 1789)", "color": "black", "hasChildren": true }
+    ],
+
+    "13": [
+      { "key": 14, "name": "Voting demand: Each member one vote (Rejected by King)", "color": "black", "hasChildren": false },
+      { "key": 15, "name": "Third Estate walked out", "color": "black", "hasChildren": false }
+    ],
+
+    "16": [
+      { "key": 17, "name": "Tennis Court Oath", "color": "black", "hasChildren": false },
+      { "key": 171, "name": "Leaders: Mirabeau and Abbe Sieyes", "color": "black", "hasChildren": false },
+      { "key": 172, "name": "Goal: Draft Constitution limiting monarch’s powers", "color": "black", "hasChildren": false }
+    ],
+
+    "18": [
+      { "key": 181, "name": "Symbolic Revolution", "color": "black", "hasChildren": false }
+    ],
+
+    "19": [
+      { "key": 191, "name": "Attacked chateaux, looted grain", "color": "black", "hasChildren": false },
+      { "key": 192, "name": "Nobles fled homes", "color": "black", "hasChildren": false }
+    ],
+
+    "20": [
+      { "key": 201, "name": "Abolition of feudal system/dues", "color": "black", "hasChildren": false },
+      { "key": 202, "name": "Clergy forced to give up privileges", "color": "black", "hasChildren": false },
+      { "key": 203, "name": "Abolition of Tithes", "color": "black", "hasChildren": false },
+      { "key": 204, "name": "Church lands confiscated", "color": "black", "hasChildren": false }
+    ]
+  }
+}

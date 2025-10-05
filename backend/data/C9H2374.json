@@ -1,0 +1,94 @@
+{
+  "root": [
+    { "key": 1, "name": "> Socialism in Europe and the Russian Revolution", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "name": "> The Age of Social Change", "color": "darkgreen", "hasChildren": false },
+      { "key": 3, "name": "> The Coming of Socialism to Europe", "color": "darkgreen", "hasChildren": false },
+      { "key": 4, "name": "> The Russian Revolution", "color": "darkgreen", "hasChildren": false },
+      { "key": 5, "name": "> After February and October Revolutions (1917)", "color": "darkgreen", "hasChildren": true },
+      { "key": 28, "name": "> Civil War and Socialist Society (1918–1936)", "color": "darkgreen", "hasChildren": true },
+      { "key": 50, "name": "> Global Influence of the Revolution", "color": "darkgreen", "hasChildren": false }
+    ],
+
+    "5": [
+      { "key": 6, "name": "> The Provisional Government", "color": "black", "hasChildren": true },
+      { "key": 10, "name": "> Lenin’s Return and April Theses", "color": "black", "hasChildren": true },
+      { "key": 15, "name": "> Growing Conflict (Summer 1917)", "color": "black", "hasChildren": true },
+      { "key": 20, "name": "> October Revolution (Nov 7 by Gregorian Calendar)", "color": "black", "hasChildren": true },
+      { "key": 27, "name": "> Changes After October", "color": "black", "hasChildren": true }
+    ],
+
+    "6": [
+      { "key": 7, "name": "Army officials, landowners, industrialists influential", "color": "black", "hasChildren": false },
+      { "key": 8, "name": "Restrictions on public meetings/associations removed; Soviets set up", "color": "black", "hasChildren": false }
+    ],
+
+    "10": [
+      { "key": 11, "name": "Returned from exile in April 1917", "color": "black", "hasChildren": false },
+      { "key": 12, "name": "Demanded: War ends, land transfer to peasants, banks nationalized", "color": "black", "hasChildren": false },
+      { "key": 13, "name": "Argued Bolshevik Party should become Communist Party", "color": "black", "hasChildren": false }
+    ],
+
+    "15": [
+      { "key": 16, "name": "Workers’ movement spread; factory/soldiers’ committees formed", "color": "black", "hasChildren": false },
+      { "key": 17, "name": "Provisional Government arrested workers, attacked leaders", "color": "black", "hasChildren": false },
+      { "key": 18, "name": "Peasants seized land (July–Sept) encouraged by Socialist Revolutionaries", "color": "black", "hasChildren": false }
+    ],
+
+    "20": [
+      { "key": 21, "name": "Lenin feared dictatorship; planned uprising (Oct)", "color": "black", "hasChildren": false },
+      { "key": 22, "name": "Oct 16: Lenin persuaded Petrograd Soviet/Bolshevik Party to seize power", "color": "black", "hasChildren": false },
+      { "key": 23, "name": "Military Revolutionary Committee (Trotsky) organized seizure", "color": "black", "hasChildren": false },
+      { "key": 24, "name": "Oct 24: Uprising began; key offices seized; Aurora shelled Winter Palace", "color": "black", "hasChildren": false },
+      { "key": 25, "name": "Bolsheviks approved by All Russian Congress of Soviets", "color": "black", "hasChildren": false },
+      { "key": 26, "name": "Bolsheviks controlled Moscow–Petrograd area by December", "color": "black", "hasChildren": false }
+    ],
+
+    "27": [
+      { "key": 271, "name": "Private property banned", "color": "black", "hasChildren": false },
+      { "key": 272, "name": "Nationalization of industry/banks (Nov 1917)", "color": "black", "hasChildren": false },
+      { "key": 273, "name": "Land declared social property (peasants seized nobility’s land)", "color": "black", "hasChildren": false },
+      { "key": 274, "name": "Foreign banks in cities banned", "color": "black", "hasChildren": false },
+      { "key": 275, "name": "Banned old titles of aristocracy; no uniforms (modernization)", "color": "black", "hasChildren": false },
+      { "key": 276, "name": "Bolshevik Party renamed Russian Communist Party (Bolsheviks)", "color": "black", "hasChildren": false },
+      { "key": 277, "name": "Dismissed Constituent Assembly (Jan 1918); elected All Russian Congress of Soviets", "color": "black", "hasChildren": false },
+      { "key": 278, "name": "Made peace with Germany at Brest Litovsk (Mar 1918)", "color": "black", "hasChildren": false },
+      { "key": 279, "name": "Russia became one-party state", "color": "black", "hasChildren": false },
+      { "key": 280, "name": "Secret police (Cheka/OGPU/NKVD) suppressed critics", "color": "black", "hasChildren": false }
+    ],
+
+    "28": [
+      { "key": 29, "name": "> The Civil War (1918–1920)", "color": "black", "hasChildren": true },
+      { "key": 39, "name": "> Making a Socialist Society", "color": "black", "hasChildren": true },
+      { "key": 47, "name": "> Stalinism and Collectivisation", "color": "black", "hasChildren": true }
+    ],
+
+    "29": [
+      { "key": 30, "name": "Russian army broke up (peasants deserted for land redistribution)", "color": "black", "hasChildren": false },
+      { "key": 31, "name": "Non-Bolshevik ‘Greens’ (Socialist Revolutionaries) & ‘Whites’ (pro-Tsarists)", "color": "black", "hasChildren": false },
+      { "key": 32, "name": "Foreign backing (France, US, Britain, Japan)", "color": "black", "hasChildren": false },
+      { "key": 33, "name": "Bolsheviks (‘Reds’) controlled former empire by Jan 1920", "color": "black", "hasChildren": false },
+      { "key": 34, "name": "USSR formed (Dec 1922) giving political autonomy to non-Russian nationalities", "color": "black", "hasChildren": false }
+    ],
+
+    "39": [
+      { "key": 40, "name": "Central planning introduced (Five Year Plans)", "color": "black", "hasChildren": false },
+      { "key": 41, "name": "Government fixed prices to promote industrial growth", "color": "black", "hasChildren": false },
+      { "key": 42, "name": "Economic growth rapid; steel production doubled (1927–1932)", "color": "black", "hasChildren": false },
+      { "key": 43, "name": "Poor working conditions (e.g., Magnitogorsk)", "color": "black", "hasChildren": false },
+      { "key": 44, "name": "Extended schooling, crèches; cheap public health care provided", "color": "black", "hasChildren": false }
+    ],
+
+    "47": [
+      { "key": 48, "name": "Acute grain shortage (1927–1928)", "color": "black", "hasChildren": false },
+      { "key": 49, "name": "Stalin believed ‘kulaks’ (rich peasants) were hoarding stocks", "color": "black", "hasChildren": false },
+      { "key": 491, "name": "Enforced grain collection and sealing of kulaks (1930s)", "color": "black", "hasChildren": false },
+      { "key": 492, "name": "Collectivisation Programme (since 1929): Peasants forced to join collective farms (kolkhoz)", "color": "black", "hasChildren": false },
+      { "key": 493, "name": "Resistance: Farmland peasants destroyed livestock (cattle fell 1/3)", "color": "black", "hasChildren": false },
+      { "key": 494, "name": "Famine severely impacted (4 million died)", "color": "black", "hasChildren": false },
+      { "key": 495, "name": "Critics charged with conspiracy; 2 million in prisons/labor camps by 1939", "color": "black", "hasChildren": false }
+    ]
+  }
+}
