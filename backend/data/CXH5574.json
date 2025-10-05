@@ -1,0 +1,87 @@
+{
+  "root": [
+    { "key": 1, "name": "> Print Culture and the Modern World", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "name": "> The First Printed Books (East Asia)", "color": "darkgreen", "hasChildren": true },
+      { "key": 3, "name": "> Print Comes to Europe", "color": "darkgreen", "hasChildren": true },
+      { "key": 4, "name": "> The Print Revolution and Its Impact", "color": "darkgreen", "hasChildren": true },
+      { "key": 5, "name": "> The Nineteenth Century Innovations", "color": "darkgreen", "hasChildren": true },
+      { "key": 6, "name": "> India and the World of Print", "color": "darkgreen", "hasChildren": true }
+    ],
+    "2": [
+      { "key": 7, "name": "Manuscripts Before Print", "color": "darkblue", "hasChildren": true }
+    ],
+    "7": [
+      { "key": 8, "name": "Rich manuscripts (Sanskrit, Arabic, Persian, ornamental)", "color": "black" },
+      { "key": 9, "name": "Copied again & again in handwritten style (tedious/manual)", "color": "black" },
+      { "key": 10, "name": "Highly expensive and fragile, limited to elite society", "color": "black" },
+      { "key": 11, "name": "Preserved through  Book rooms  located in temples and monasteries", "color": "black" }
+    ],
+    "3": [
+      { "key": 12, "name": "First press brought by Portuguese missionaries to Goa (mid-sixteenth century)", "color": "black" },
+      { "key": 13, "name": "First Tamil book (1579), Tamil translation of Catholic texts", "color": "black" },
+      { "key": 14, "name": "English press grows under the East India Company (survey reports/news)", "color": "black" },
+      { "key": 15, "name": "Early newspapers (The Bengal Gazette, 1780)", "color": "black" },
+      { "key": 16, "name": "Indian newspapers begin reporting e.g., Bengal Gazette by Gangadhar Bhattacharya", "color": "black" },
+      { "key": 17, "name": "Widely preserved by James Hicky for gentry", "color": "black" }
+    ],
+    "4": [
+      { "key": 18, "name": "> Religious Reform and Public Debates (Early 19th Century)", "color": "darkblue", "hasChildren": true }
+    ],
+    "18": [
+      { "key": 19, "name": "Intense controversies (reform movements, nationalism, identity)", "color": "black" },
+      { "key": 20, "name": "Reformers publish and publicize views, newspapers", "color": "black" },
+      { "key": 21, "name": "Print joined to everyday religion & new  public sphere ", "color": "black" },
+      { "key": 22, "name": "Muslims: printed works by Mirza Ghalib (Urdu)", "color": "black" },
+      { "key": 23, "name": "Hindus: reformers launched journals like Samachar Darpan", "color": "black" },
+      { "key": 24, "name": "Urdu newspaper: Jam-i-Jahan Numa", "color": "black" },
+      { "key": 25, "name": "Liberals used periodicals to spread Protestant ideas, religious issues", "color": "black" },
+      { "key": 26, "name": "Religious prints used socially e.g., Youri Krishna Press, Lahore", "color": "black" }
+    ],
+    "5": [
+      { "key": 27, "name": "> New Forms of Publication", "color": "darkblue", "hasChildren": true }
+    ],
+    "27": [
+      { "key": 28, "name": "The  New Book  included novels, lyrics, short stories, directory", "color": "black" },
+      { "key": 29, "name": "New literacy forms: lyrics, fables, sermons, essays", "color": "black" },
+      { "key": 30, "name": "New  visual culture  (late 19th century)", "color": "black" },
+      { "key": 31, "name": "Images easily reproduced (multiple copies)", "color": "black" },
+      { "key": 32, "name": "Raja Ravi Varma produced images from epics for circulation", "color": "black" },
+      { "key": 33, "name": "Cheap publications: pamphlets, books from Indian presses, bookshops", "color": "black" },
+      { "key": 34, "name": "Caricatures/Cartoons commenting on sociopolitical themes", "color": "black" }
+    ],
+    "6": [
+      { "key": 35, "name": "> Women and Print in India", "color": "darkblue", "hasChildren": true },
+      { "key": 36, "name": "> Print and the Poor People", "color": "darkblue", "hasChildren": true },
+      { "key": 37, "name": "> Print and Censorship", "color": "darkblue", "hasChildren": true }
+    ],
+    "35": [
+      { "key": 38, "name": "Reading increased (novels described women as heroes/heroines)", "color": "black" },
+      { "key": 39, "name": "Literature aimed at raising the consciousness of women", "color": "black" },
+      { "key": 40, "name": "Muslim girls schools in 19th century", "color": "black" },
+      { "key": 41, "name": "Rashsundari Devi:  Amar Jiban  (autobiography), 1876", "color": "black" },
+      { "key": 42, "name": "Women highlighted spiritual experiences (Tara Bai Shinde, Pandita Ramabai)", "color": "black" },
+      { "key": 43, "name": "Hindi printing focused on women s education (Kashi, 1880s)", "color": "black" }
+    ],
+    "36": [
+      { "key": 44, "name": "Very cheap small books sold at crossroads & bazaars", "color": "black" },
+      { "key": 45, "name": "Public libraries by 1930s across India, open to poor", "color": "black" },
+      { "key": 46, "name": "Workers: Kashibaba,  Chhote aur Bade Ka Sawal , wrote against capitalism", "color": "black" },
+      { "key": 47, "name": "Baba Padmanji s Satya Prakash first novel on social upliftment", "color": "black" },
+      { "key": 48, "name": "Dnyanodaya: Marathi weekly for the poor (Christian missionary press)", "color": "black" }
+    ],
+    "37": [
+      { "key": 49, "name": "Early records targeted Englishmen critical of Company misrule (James Hickey)", "color": "black" },
+      { "key": 50, "name": "British Government controls regulation to prevent rebellion (Vernacular Press Act, 1878)", "color": "black" },
+      { "key": 51, "name": "Articles stopped about British rule; free press demanded change (Indian reformers)", "color": "black" },
+      { "key": 52, "name": "Nationalist newspapers inspire struggle (Kesari, Bal Gangadhar Tilak; Amrita Bazar Patrika)", "color": "black" },
+      { "key": 53, "name": "WWI: Defence of India Act imposed wartime control", "color": "black" },
+      { "key": 54, "name": "Mahatma Gandhi s  Young India ,  Harijan  spread ideas of non-violence", "color": "black" },
+      { "key": 55, "name": "Subhash Chandra Bose s  Azad Hind Radio  opposed British censorship", "color": "black" },
+      { "key": 56, "name": "Nationalist press united people, opposing imperial authority", "color": "black" },
+      { "key": 57, "name": "Independence struggle continued using banned presses; India to be revived", "color": "black" }
+    ]
+  }
+}

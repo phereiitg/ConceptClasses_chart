@@ -1,0 +1,32 @@
+{
+  "root": [
+    { "key": 1, "name": "> Print Culture and the Modern World", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+     { "key": 3, "parent": 1, "name": "> Print Comes to Europe", "color": "darkblue", "hasChildren": true }
+    ],
+    "3": [
+      { "key": 7, "parent": 3, "name": "Pre-Gutenberg Era", "color": "darkgreen", "hasChildren": true },
+      { "key": 8, "parent": 3, "name": "Gutenberg and the Printing Press", "color": "darkgreen", "hasChildren": true }
+    ],
+    "7": [
+      { "key": 9, "parent": 7, "name": "Chinese paper reached Europe via Silk Route (11th century)", "color": "darkred" },
+      { "key": 10, "parent": 7, "name": "Marco Polo brought woodblock printing knowledge to Italy (1295)", "color": "darkred" },
+      { "key": 11, "parent": 7, "name": "Italians began woodblock books; technology spread", "color": "darkred" },
+      { "key": 12, "parent": 7, "name": "High demand increased manuscript production (scribes employed by booksellers)", "color": "darkred" },
+      { "key": 13, "parent": 7, "name": "Limitations of Manuscripts (expensive, laborious, fragile, limited circulation)", "color": "darkred" },
+      { "key": 14, "parent": 7, "name": "Woodblocks used widely by early 15th century (textiles, cards, religious pictures)", "color": "darkred" }
+    ],
+    "8": [
+      { "key": 15, "parent": 8, "name": "Invention in Strasbourg, Germany (1430s)", "color": "darkred" },
+      { "key": 16, "parent": 8, "name": "Adapted existing technology (olive press model, lead moulds for trinkets)", "color": "darkred" },
+      { "key": 17, "parent": 8, "name": "Perfected system by 1448", "color": "darkred" },
+      { "key": 18, "parent": 8, "name": "Innovation: Moveable Type Printing Machine (metal types for alphabet)", "color": "darkred" },
+      { "key": 19, "parent": 8, "name": "First printed book: The Bible (180 copies in 3 years)", "color": "darkred" },
+      { "key": 20, "parent": 8, "name": "Initial printed books resembled manuscripts (hand-illuminated borders)", "color": "darkred" },
+      { "key": 21, "parent": 8, "name": "Boom in Production (1450 1550): 20 million to 200 million copies", "color": "darkred" },
+      { "key": 22, "parent": 8, "name": "Shift from hand printing to mechanical printing = Print Revolution", "color": "darkred" }
+    ]
+  }
+}

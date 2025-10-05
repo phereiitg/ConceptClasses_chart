@@ -1,0 +1,27 @@
+{
+  "root": [
+    { "key": 1, "name": "> Print Culture and the Modern World", "color": "darkblue", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+       { "key": 5, "name": "> The Nineteenth Century Innovations", "color": "darkgreen", "hasChildren": true }
+      
+    ],
+    "4": [
+      { "key": 7, "name": "> New Readers", "color": "darkblue", "hasChildren": true },
+      { "key": 8, "name": "> Technological Advancements", "color": "darkblue", "hasChildren": true }
+    ],
+    "7": [
+      { "key": 9, "name": "Children (primary education compulsory; children's press in France 1857)", "color": "black" },
+      { "key": 10, "name": "Women (important readers/writers; Penny magazines, manuals; Jane Austen, Bronte sisters)", "color": "black" },
+      { "key": 11, "name": "Workers (lending libraries, self-improvement, wrote political tracts/autobiographies)", "color": "black" }
+    ],
+    "8": [
+      { "key": 12, "name": "Metal press (late 18th century)", "color": "black" },
+      { "key": 13, "name": "Power-driven cylindrical press (Richard M. Hoe, 8,000 sheets/hour, useful for newspapers)", "color": "black" },
+      { "key": 14, "name": "Offset press (prints up to six colors)", "color": "black" },
+      { "key": 15, "name": "Electrically operated presses (20th century)", "color": "black" },
+      { "key": 16, "name": "New sales strategies (Shilling Series, dust cover, cheap paperback editions)", "color": "black" }
+    ]
+  }
+}
