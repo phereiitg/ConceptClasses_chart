@@ -1,0 +1,51 @@
+{
+  "root": [
+    { "key": 1, "name": "> The Inter-war Economy (1914–1949)", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Wartime Transformations (WWI 1914–1918)", "color": "darkblue", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "> Post-war Recovery Difficulties", "color": "darkblue", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "> Rise of Mass Production (US)", "color": "darkblue", "hasChildren": true },
+      { "key": 5, "parent": 1, "name": "> The Great Depression (1929–1930s)", "color": "darkblue", "hasChildren": true },
+      { "key": 6, "parent": 1, "name": "> India and the Depression", "color": "darkblue", "hasChildren": true }
+    ],
+    "2": [
+      { "key": 7, "parent": 2, "name": "First modern industrial war (Machine guns, Tanks, Chemical weapons)", "color": "darkgreen" },
+      { "key": 8, "parent": 2, "name": "Massive casualties (9 million dead, 20 million injured)", "color": "darkgreen" },
+      { "key": 9, "parent": 2, "name": "Loss of working-age men (decreased household income)", "color": "darkgreen" },
+      { "key": 10, "parent": 2, "name": "Industries restructured for war production (women took men's jobs)", "color": "darkgreen" },
+      { "key": 11, "parent": 2, "name": "US transformed from debtor to international creditor", "color": "darkgreen" }
+    ],
+    "3": [
+      { "key": 12, "parent": 3, "name": "Britain faced prolonged crisis (lost dominance to India/Japan)", "color": "darkgreen" },
+      { "key": 13, "parent": 3, "name": "Britain burdened with huge external debts (to US)", "color": "darkgreen" },
+      { "key": 14, "parent": 3, "name": "War boom ended: production contracted, unemployment increased", "color": "darkgreen" },
+      { "key": 15, "parent": 3, "name": "Agricultural Crisis: Overproduction of wheat (Canada, US, Australia, E. Europe) led to price fall", "color": "darkgreen" }
+    ],
+    "4": [
+      { "key": 16, "parent": 4, "name": "Pioneer: Henry Ford (Detroit car plant)", "color": "darkgreen" },
+      { "key": 17, "parent": 4, "name": "Adapted assembly line (faster, cheaper production)", "color": "darkgreen" },
+      { "key": 18, "parent": 4, "name": "Result: T-Model Ford (first mass-produced car)", "color": "darkgreen" },
+      { "key": 19, "parent": 4, "name": "Low costs + High wages ($5/day) enabled mass consumption", "color": "darkgreen" },
+      { "key": 20, "parent": 4, "name": "Credit (hire purchase) fuelled demand for Cars, Refrigerators, Radios", "color": "darkgreen" },
+      { "key": 21, "parent": 4, "name": "US became largest overseas lender (1920s)", "color": "darkgreen" }
+    ],
+    "5": [
+      { "key": 22, "parent": 5, "name": "Catastrophic decline in production, employment, trade", "color": "darkgreen" },
+      { "key": 23, "parent": 5, "name": "Worst affected: Agricultural regions (prices fell more sharply)", "color": "darkgreen" },
+      { "key": 24, "parent": 5, "name": "Causes: Agricultural overproduction (reversed gain), US withdrawal of overseas loans", "color": "darkgreen" },
+      { "key": 25, "parent": 5, "name": "Impact on US: Banks slashed lending, households cut buying, system collapsed (6000+ banks closed)", "color": "darkgreen" },
+      { "key": 26, "parent": 5, "name": "US protected economy by doubling import duties (severe blow to world trade)", "color": "darkgreen" }
+    ],
+    "6": [
+      { "key": 27, "parent": 6, "name": "Trade severely affected (exports/imports halved 1928–1934)", "color": "darkgreen" },
+      { "key": 28, "parent": 6, "name": "Wheat prices fell 50%", "color": "darkgreen" },
+      { "key": 29, "parent": 6, "name": "Colonial government forced to reduce revenue demands", "color": "darkgreen" },
+      { "key": 30, "parent": 6, "name": "Peasants fell deeper into debt (e.g., Bengal jute growers)", "color": "darkgreen" },
+      { "key": 31, "parent": 6, "name": "India became exporter of precious metals (gold)", "color": "darkgreen" },
+      { "key": 32, "parent": 6, "name": "Rural unrest led to Civil Disobedience Movement (1931)", "color": "darkgreen" },
+      { "key": 33, "parent": 6, "name": "Urban dwellers with fixed incomes were better off (falling prices)", "color": "darkgreen" }
+    ]
+  }
+}

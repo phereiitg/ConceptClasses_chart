@@ -1,0 +1,61 @@
+{
+  "root": [
+    { "key": 1, "name": "> The Making of a Global World", "color": "darkyellow", "hasChildren": true }
+  ],
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> The Pre-modern World (Ancient–16th Century)", "color": "darkblue", "hasChildren": true }
+      ],
+
+    "2": [
+      { "key": 6, "parent": 2, "name": "> Long History of Interconnectedness", "color": "darkgreen", "hasChildren": true },
+      { "key": 7, "parent": 2, "name": "> Early Links", "color": "darkgreen", "hasChildren": true },
+      { "key": 8, "parent": 2, "name": "> Silk Routes", "color": "darkgreen", "hasChildren": true },
+      { "key": 9, "parent": 2, "name": "> Food Travels (Cultural Exchange)", "color": "darkgreen", "hasChildren": true },
+      { "key": 10, "parent": 2, "name": "> Conquest, Disease and Trade (16th Century)", "color": "darkgreen", "hasChildren": true },
+      { "key": 11, "parent": 2, "name": "> Shifting Global Center", "color": "darkgreen", "hasChildren": true }
+    ],
+
+    "6": [
+      { "key": 12, "parent": 6, "name": "Movement of Trade, Migration, Capital", "color": "darkred" },
+      { "key": 13, "parent": 6, "name": "Travellers sought Knowledge, Opportunity, Fulfillment", "color": "darkred" },
+      { "key": 14, "parent": 6, "name": "Exchange included Goods, Money, Values, Ideas, Germs, Diseases", "color": "darkred" }
+    ],
+
+    "7": [
+      { "key": 15, "parent": 7, "name": "3000 BCE: Indus Valley linked to West Asia (coastal trade)", "color": "darkred" },
+      { "key": 16, "parent": 7, "name": "Cowries (Maldives) used as currency in China and East Africa", "color": "darkred" },
+      { "key": 17, "parent": 7, "name": "Spread of disease traced back to 7th century", "color": "darkred" }
+    ],
+
+    "8": [
+      { "key": 18, "parent": 8, "name": "Vibrant pre-modern trade and cultural links", "color": "darkred" },
+      { "key": 19, "parent": 8, "name": "Existed before Christian Era; thrived till 15th century", "color": "darkred" },
+      { "key": 20, "parent": 8, "name": "Key Exchanges: Chinese silk/pottery; Indian textiles/spices; Europe’s gold/silver", "color": "darkred" },
+      { "key": 21, "parent": 8, "name": "Cultural Exchange: Christianity, Islam, Buddhism", "color": "darkred" }
+    ],
+
+    "9": [
+      { "key": 22, "parent": 9, "name": "Noodles (China) became Spaghetti (West)", "color": "darkred" },
+      { "key": 23, "parent": 9, "name": "New foods introduced after Columbus discovered Americas", "color": "darkred" },
+      { "key": 24, "parent": 9, "name": "American foods: Potato, Soya, Maize, Tomatoes, Chillies", "color": "darkred" },
+      { "key": 25, "parent": 9, "name": "Potato transformed Europe’s poor (made difference between life and death)", "color": "darkred" },
+      { "key": 26, "parent": 9, "name": "Irish Potato Famine (1840s) caused mass starvation/emigration", "color": "darkred" }
+    ],
+
+    "10": [
+      { "key": 27, "parent": 10, "name": "World ‘shrank’ (sea routes to Asia and America)", "color": "darkred" },
+      { "key": 28, "parent": 10, "name": "America’s vast lands/minerals transformed trade", "color": "darkred" },
+      { "key": 29, "parent": 10, "name": "Silver from Peru/Mexico enhanced Europe’s wealth", "color": "darkred" },
+      { "key": 30, "parent": 10, "name": "Spanish conquest of America (mid-16th century)", "color": "darkred" },
+      { "key": 31, "parent": 10, "name": "Most powerful weapon: Germs (Smallpox); Conquerors were immune", "color": "darkred" }
+    ],
+
+    "11": [
+      { "key": 32, "parent": 11, "name": "Until 18th century: China and India were richest countries", "color": "darkred" },
+      { "key": 33, "parent": 11, "name": "15th century: China restricted overseas contact (isolation)", "color": "darkred" },
+      { "key": 34, "parent": 11, "name": "Rising importance of Americas moved world trade center westwards", "color": "darkred" },
+      { "key": 35, "parent": 11, "name": "Europe emerged as center of world trade", "color": "darkred" }
+    ]
+  }
+}

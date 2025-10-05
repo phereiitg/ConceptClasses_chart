@@ -4,14 +4,8 @@
   ],
   "nodes": {
     "1": [
-      { "key": 2, "parent": 1, "name": "> Growth of Modern Nationalism", "color": "darkblue" },
-      { "key": 3, "parent": 1, "name": "> Impact of First World War (Post-1919)", "color": "darkblue" },
-      { "key": 4, "parent": 1, "name": "> Mahatma Gandhi’s New Mode of Struggle", "color": "darkblue" },
-      { "key": 5, "parent": 1, "name": "> Key Movements (1919–1934)", "color": "darkblue", "hasChildren": true },
-      { "key": 6, "parent": 1, "name": "> Participants and Aspirations (Swaraj)", "color": "darkblue", "hasChildren": true },
-      { "key": 7, "parent": 1, "name": "> Limits of Civil Disobedience", "color": "darkblue" },
-      { "key": 8, "parent": 1, "name": "> Sense of Collective Belonging", "color": "darkblue" }
-    ],
+      { "key": 5, "parent": 1, "name": "> Key Movements (1919–1934)", "color": "darkblue", "hasChildren": true }
+       ],
 
     "5": [
       { "key": 9, "parent": 5, "name": "> Movement in Towns/Cities (NCM)", "color": "darkgreen", "hasChildren": true },
