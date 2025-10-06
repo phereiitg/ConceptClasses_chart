@@ -4,13 +4,9 @@
   ],
   "nodes": {
     "1": [
-      { "key": 2, "name": "> The Age of Social Change", "color": "darkgreen", "hasChildren": false },
-      { "key": 3, "name": "> The Coming of Socialism to Europe", "color": "darkgreen", "hasChildren": false },
-      { "key": 4, "name": "> The Russian Revolution", "color": "darkgreen", "hasChildren": false },
       { "key": 5, "name": "> After February and October Revolutions (1917)", "color": "darkgreen", "hasChildren": true },
-      { "key": 28, "name": "> Civil War and Socialist Society (1918–1936)", "color": "darkgreen", "hasChildren": true },
-      { "key": 50, "name": "> Global Influence of the Revolution", "color": "darkgreen", "hasChildren": false }
-    ],
+      { "key": 28, "name": "> Civil War and Socialist Society (1918–1936)", "color": "darkgreen", "hasChildren": true }
+      ],
 
     "5": [
       { "key": 6, "name": "> The Provisional Government", "color": "black", "hasChildren": true },
