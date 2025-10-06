@@ -1,91 +1,91 @@
 {
   "root": [
-    { "key": 1, "name": "> The French Revolution and its Impact", "color": "darkblue", "hasChildren": true ,"expanded": false}
+    { "key": 1, "name": "> The French Revolution and its Impact", "color": "darkblue", "hasChildren": true, "expanded": false }
   ],
 
   "nodes": {
     "1": [
-      { "key": 2, "parent": 1, "name": "> French Society: Old Regime (before 1789)", "color": "darkgreen", "hasChildren": true },
-      { "key": 11, "parent": 1, "name": "> Outbreak of the Revolution (1789)", "color": "darkgreen", "hasChildren": true }
+      { "key": 2, "parent": 1, "name": "> French Society: Old Regime (before 1789)", "color": "darkgreen", "hasChildren": true, "expanded": false },
+      { "key": 11, "parent": 1, "name": "> Outbreak of the Revolution (1789)", "color": "darkgreen", "hasChildren": true, "expanded": false }
     ],
 
     "2": [
-      { "key": 3, "parent": 2, "name": "> Monarchy", "color": "black", "hasChildren": true },
-      { "key": 6, "parent": 2, "name": "> Three Estates", "color": "black", "hasChildren": true },
-      { "key": 9, "parent": 2, "name": "> Struggle to Survive (Subsistence Crisis)", "color": "black", "hasChildren": true }
+      { "key": 3, "parent": 2, "name": "> Monarchy", "color": "black", "hasChildren": true, "expanded": false },
+      { "key": 6, "parent": 2, "name": "> Three Estates", "color": "black", "hasChildren": true, "expanded": false },
+      { "key": 9, "parent": 2, "name": "> Struggle to Survive (Subsistence Crisis)", "color": "black", "hasChildren": true, "expanded": false }
     ],
 
     "3": [
-      { "key": 4, "parent": 3, "name": "Louis XVI (Ascended 1774)", "color": "black", "hasChildren": false },
-      { "key": 5, "parent": 3, "name": "Empty treasury/financial crisis", "color": "black", "hasChildren": false },
-      { "key": 51, "parent": 3, "name": "Despotic power of the King (Bastille Symbol)", "color": "black", "hasChildren": false }
+      { "key": 4, "parent": 3, "name": "Louis XVI (Ascended 1774)", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 5, "parent": 3, "name": "Empty treasury/financial crisis", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 51, "parent": 3, "name": "Despotic power of the King (Bastille Symbol)", "color": "black", "hasChildren": false, "expanded": false }
     ],
 
     "6": [
-      { "key": 7, "parent": 6, "name": "First Estate (Clergy)", "color": "black", "hasChildren": true },
-      { "key": 8, "parent": 6, "name": "Second Estate (Nobility)", "color": "black", "hasChildren": true },
-      { "key": 81, "parent": 6, "name": "Third Estate (Taxpayers)", "color": "black", "hasChildren": true }
+      { "key": 7, "parent": 6, "name": "First Estate (Clergy)", "color": "black", "hasChildren": true, "expanded": false },
+      { "key": 8, "parent": 6, "name": "Second Estate (Nobility)", "color": "black", "hasChildren": true, "expanded": false },
+      { "key": 81, "parent": 6, "name": "Third Estate (Taxpayers)", "color": "black", "hasChildren": true, "expanded": false }
     ],
 
     "7": [
-      { "key": 71, "parent": 7, "name": "Privileges by birth", "color": "black", "hasChildren": false },
-      { "key": 72, "parent": 7, "name": "Exempt from state taxes", "color": "black", "hasChildren": false },
-      { "key": 73, "parent": 7, "name": "Entitled tithes (Church Tax)", "color": "black", "hasChildren": false }
+      { "key": 71, "parent": 7, "name": "Privileges by birth", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 72, "parent": 7, "name": "Exempt from state taxes", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 73, "parent": 7, "name": "Entitled tithes (Church Tax)", "color": "black", "hasChildren": false, "expanded": false }
     ],
 
     "8": [
-      { "key": 82, "parent": 8, "name": "Privileges by birth", "color": "black", "hasChildren": false },
-      { "key": 83, "parent": 8, "name": "Exempt from state taxes", "color": "black", "hasChildren": false },
-      { "key": 84, "parent": 8, "name": "Enjoyed feudal privileges/dues", "color": "black", "hasChildren": false }
+      { "key": 82, "parent": 8, "name": "Privileges by birth", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 83, "parent": 8, "name": "Exempt from state taxes", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 84, "parent": 8, "name": "Enjoyed feudal privileges/dues", "color": "black", "hasChildren": false, "expanded": false }
     ],
 
     "81": [
-      { "key": 85, "parent": 81, "name": "Paid all taxes (Taille, indirect taxes)", "color": "black", "hasChildren": false },
-      { "key": 86, "parent": 81, "name": "Included peasants (90% pop.)", "color": "black", "hasChildren": false },
-      { "key": 87, "parent": 81, "name": "Included prosperous Middle Class (merchants, lawyers)", "color": "black", "hasChildren": false }
+      { "key": 85, "parent": 81, "name": "Paid all taxes (Taille, indirect taxes)", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 86, "parent": 81, "name": "Included peasants (90% pop.)", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 87, "parent": 81, "name": "Included prosperous Middle Class (merchants, lawyers)", "color": "black", "hasChildren": false, "expanded": false }
     ],
 
     "9": [
-      { "key": 91, "parent": 9, "name": "Population increase (23m to 28m)", "color": "black", "hasChildren": false },
-      { "key": 92, "parent": 9, "name": "Rapid rise in bread price (staple diet)", "color": "black", "hasChildren": false },
-      { "key": 93, "parent": 9, "name": "Wages didn’t keep pace with prices", "color": "black", "hasChildren": false },
-      { "key": 94, "parent": 9, "name": "Worsened by drought/bad harvest", "color": "black", "hasChildren": false }
+      { "key": 91, "parent": 9, "name": "Population increase (23m to 28m)", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 92, "parent": 9, "name": "Rapid rise in bread price (staple diet)", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 93, "parent": 9, "name": "Wages didn’t keep pace with prices", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 94, "parent": 9, "name": "Worsened by drought/bad harvest", "color": "black", "hasChildren": false, "expanded": false }
     ],
 
     "11": [
-      { "key": 12, "parent": 11, "name": "> Protests against high price of bread", "color": "black", "hasChildren": false },
-      { "key": 13, "parent": 11, "name": "> Estates General Convention (May 5, 1789)", "color": "black", "hasChildren": true },
-      { "key": 16, "parent": 11, "name": "> National Assembly Formation (June 20, 1789)", "color": "black", "hasChildren": true },
-      { "key": 18, "parent": 11, "name": "> Storming of the Bastille (July 14, 1789)", "color": "black", "hasChildren": true },
-      { "key": 19, "parent": 11, "name": "> Peasant Revolts in Countryside (Great Fear)", "color": "black", "hasChildren": true },
-      { "key": 20, "parent": 11, "name": "> National Assembly Decrees (Aug 4, 1789)", "color": "black", "hasChildren": true }
+      { "key": 12, "parent": 11, "name": "> Protests against high price of bread", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 13, "parent": 11, "name": "> Estates General Convention (May 5, 1789)", "color": "black", "hasChildren": true, "expanded": false },
+      { "key": 16, "parent": 11, "name": "> National Assembly Formation (June 20, 1789)", "color": "black", "hasChildren": true, "expanded": false },
+      { "key": 18, "parent": 11, "name": "> Storming of the Bastille (July 14, 1789)", "color": "black", "hasChildren": true, "expanded": false },
+      { "key": 19, "parent": 11, "name": "> Peasant Revolts in Countryside (Great Fear)", "color": "black", "hasChildren": true, "expanded": false },
+      { "key": 20, "parent": 11, "name": "> National Assembly Decrees (Aug 4, 1789)", "color": "black", "hasChildren": true, "expanded": false }
     ],
 
     "13": [
-      { "key": 14, "parent": 13, "name": "Voting demand: Each member one vote (Rejected by King)", "color": "black", "hasChildren": false },
-      { "key": 15, "parent": 13, "name": "Third Estate walked out", "color": "black", "hasChildren": false }
+      { "key": 14, "parent": 13, "name": "Voting demand: Each member one vote (Rejected by King)", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 15, "parent": 13, "name": "Third Estate walked out", "color": "black", "hasChildren": false, "expanded": false }
     ],
 
     "16": [
-      { "key": 17, "parent": 16, "name": "Tennis Court Oath", "color": "black", "hasChildren": false },
-      { "key": 171, "parent": 16, "name": "Leaders: Mirabeau and Abbe Sieyes", "color": "black", "hasChildren": false },
-      { "key": 172, "parent": 16, "name": "Goal: Draft Constitution limiting monarch’s powers", "color": "black", "hasChildren": false }
+      { "key": 17, "parent": 16, "name": "Tennis Court Oath", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 171, "parent": 16, "name": "Leaders: Mirabeau and Abbe Sieyes", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 172, "parent": 16, "name": "Goal: Draft Constitution limiting monarch’s powers", "color": "black", "hasChildren": false, "expanded": false }
     ],
 
     "18": [
-      { "key": 181, "parent": 18, "name": "Symbolic Revolution", "color": "black", "hasChildren": false }
+      { "key": 181, "parent": 18, "name": "Symbolic Revolution", "color": "black", "hasChildren": false, "expanded": false }
     ],
 
     "19": [
-      { "key": 191, "parent": 19, "name": "Attacked chateaux, looted grain", "color": "black", "hasChildren": false },
-      { "key": 192, "parent": 19, "name": "Nobles fled homes", "color": "black", "hasChildren": false }
+      { "key": 191, "parent": 19, "name": "Attacked chateaux, looted grain", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 192, "parent": 19, "name": "Nobles fled homes", "color": "black", "hasChildren": false, "expanded": false }
     ],
 
     "20": [
-      { "key": 201, "parent": 20, "name": "Abolition of feudal system/dues", "color": "black", "hasChildren": false },
-      { "key": 202, "parent": 20, "name": "Clergy forced to give up privileges", "color": "black", "hasChildren": false },
-      { "key": 203, "parent": 20, "name": "Abolition of Tithes", "color": "black", "hasChildren": false },
-      { "key": 204, "parent": 20, "name": "Church lands confiscated", "color": "black", "hasChildren": false }
+      { "key": 201, "parent": 20, "name": "Abolition of feudal system/dues", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 202, "parent": 20, "name": "Clergy forced to give up privileges", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 203, "parent": 20, "name": "Abolition of Tithes", "color": "black", "hasChildren": false, "expanded": false },
+      { "key": 204, "parent": 20, "name": "Church lands confiscated", "color": "black", "hasChildren": false, "expanded": false }
     ]
   }
 }
