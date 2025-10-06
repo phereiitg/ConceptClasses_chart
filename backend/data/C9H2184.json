@@ -5,11 +5,7 @@
   "nodes": {
     "1": [
       { "key": 2, "name": "> The Age of Social Change", "color": "darkgreen", "hasChildren": true },
-      { "key": 15, "name": "> The Coming of Socialism in Europe", "color": "darkgreen", "hasChildren": true },
-      { "key": 30, "name": "> The Russian Revolution", "color": "darkgreen", "hasChildren": false },
-      { "key": 31, "name": "> After February and October Revolution (1917)", "color": "darkgreen", "hasChildren": false },
-      { "key": 32, "name": "> The Five-Year Socialist Society (1929–1939)", "color": "darkgreen", "hasChildren": false },
-      { "key": 33, "name": "> Global Influence of the Revolution", "color": "darkgreen", "hasChildren": false }
+      { "key": 15, "name": "> The Coming of Socialism in Europe", "color": "darkgreen", "hasChildren": true }
     ],
 
     "2": [
