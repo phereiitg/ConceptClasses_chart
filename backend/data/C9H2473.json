@@ -5,31 +5,31 @@
 
   "nodes": {
     "1": [
-      { "key": 7, "name": "> Global Influence of the Revolution", "color": "darkgreen", "hasChildren": true }
+      { "key": 7, "parent": 1, "name": "> Global Influence of the Revolution", "color": "darkgreen", "hasChildren": true }
     ],
 
     "7": [
-      { "key": 8, "name": "Workers’ state possibility inspired people worldwide", "color": "black", "hasChildren": false },
-      { "key": 9, "name": "Communist Parties formed globally (e.g., CP of Great Britain)", "color": "black", "hasChildren": false },
-      { "key": 10, "name": "Bolsheviks encouraged colonial peoples", "color": "black", "hasChildren": false },
-      { "key": 11, "name": "Comintern formed (international union of pro-Bolshevik parties)", "color": "black", "hasChildren": false },
-      { "key": 12, "name": "USSR gave socialism world stature by WWII", "color": "black", "hasChildren": true },
-      { "key": 16, "name": "Reputation Decline (1950s)", "color": "black", "hasChildren": true },
-      { "key": 20, "name": "Influence in India", "color": "black", "hasChildren": true }
+      { "key": 8, "parent": 7, "name": "Workers’ state possibility inspired people worldwide", "color": "black", "hasChildren": false },
+      { "key": 9, "parent": 7, "name": "Communist Parties formed globally (e.g., CP of Great Britain)", "color": "black", "hasChildren": false },
+      { "key": 10, "parent": 7, "name": "Bolsheviks encouraged colonial peoples", "color": "black", "hasChildren": false },
+      { "key": 11, "parent": 7, "name": "Comintern formed (international union of pro-Bolshevik parties)", "color": "black", "hasChildren": false },
+      { "key": 12, "parent": 7, "name": "USSR gave socialism world stature by WWII", "color": "black", "hasChildren": true },
+      { "key": 16, "parent": 7, "name": "Reputation Decline (1950s)", "color": "black", "hasChildren": true },
+      { "key": 20, "parent": 7, "name": "Influence in India", "color": "black", "hasChildren": true }
     ],
 
     "12": [
-      { "key": 13, "name": "Backward country became great power (industry/agriculture developed)", "color": "black", "hasChildren": false }
+      { "key": 13, "parent": 12, "name": "Backward country became great power (industry/agriculture developed)", "color": "black", "hasChildren": false }
     ],
 
     "16": [
-      { "key": 17, "name": "Denied essential freedoms to citizens", "color": "black", "hasChildren": false },
-      { "key": 18, "name": "Development achieved through repressive policies", "color": "black", "hasChildren": false }
+      { "key": 17, "parent": 16, "name": "Denied essential freedoms to citizens", "color": "black", "hasChildren": false },
+      { "key": 18, "parent": 16, "name": "Development achieved through repressive policies", "color": "black", "hasChildren": false }
     ],
 
     "20": [
-      { "key": 21, "name": "Communist Party formed in India (mid-1920s)", "color": "black", "hasChildren": false },
-      { "key": 22, "name": "Jawaharlal Nehru and Rabindranath Tagore visited/wrote about Soviet experiment", "color": "black", "hasChildren": false }
+      { "key": 21, "parent": 20, "name": "Communist Party formed in India (mid-1920s)", "color": "black", "hasChildren": false },
+      { "key": 22, "parent": 20, "name": "Jawaharlal Nehru and Rabindranath Tagore visited/wrote about Soviet experiment", "color": "black", "hasChildren": false }
     ]
   }
 }
