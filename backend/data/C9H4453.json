@@ -1,0 +1,37 @@
+{
+  "root": [
+    { "key": 1, "name": "> Forest Society and Colonialism", "color": "yellow", "hasChildren": true }
+  ],
+
+  "nodes": {
+    "1": [
+      { "key": 2, "parent": 1, "name": "> Livelihoods, Economies, and Societies (Section II Focus)", "color": "darkblue" },
+      { "key": 3, "parent": 1, "name": "> Deforestation and Its Causes (1700–1995)", "color": "darkblue" },
+      { "key": 4, "parent": 1, "name": "> Rise of Commercial Forestry", "color": "darkblue" },
+      { "key": 5, "parent": 1, "name": "> Impact on Forest Communities", "color": "darkblue" },
+      { "key": 6, "parent": 1, "name": "> Forest Rebellions", "color": "darkblue" },
+      { "key": 7, "parent": 1, "name": "> Forest Transformations in Java (Indonesia)", "color": "darkblue" },
+      { "key": 8, "parent": 1, "name": "> Wars and New Developments", "color": "darkblue", "hasChildren": true }
+    ],
+
+    "8": [
+      { "key": 9, "parent": 8, "name": "> Impact of World Wars", "color": "darkgreen", "hasChildren": true },
+      { "key": 10, "parent": 8, "name": "> New Forestry Trends (Post-1980s)", "color": "darkgreen", "hasChildren": true }
+    ],
+
+    "9": [
+      { "key": 11, "parent": 9, "name": "India: Working plans abandoned, trees cut freely for British war needs", "color": "red" },
+      { "key": 12, "parent": 9, "name": "Java (Dutch): 'Scorched earth' policy (burning teak logs before Japanese occupation)", "color": "red" },
+      { "key": 13, "parent": 9, "name": "Japanese exploitation: Reckless cutting for war industries", "color": "red" },
+      { "key": 14, "parent": 9, "name": "Villagers expanded cultivation into forest areas during wars", "color": "red" }
+    ],
+
+    "10": [
+      { "key": 15, "parent": 10, "name": "Recognition that 'scientific forestry' caused conflicts", "color": "red" },
+      { "key": 16, "parent": 10, "name": "Goal shifted to Conservation rather than timber collection", "color": "red" },
+      { "key": 17, "parent": 10, "name": "Need to involve local people (those living near forests)", "color": "red" },
+      { "key": 18, "parent": 10, "name": "Local protection methods: Sacred groves (sarnas, kan, rai)", "color": "red" },
+      { "key": 19, "parent": 10, "name": "Villages patrolling own forests (collective effort)", "color": "red" }
+    ]
+  }
+}
