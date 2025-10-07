@@ -1,49 +1,50 @@
 {
   "root": [
-    { "key": 1, "name": "> Nationalism in India (1920s onwards)", "color": "darkblue", "hasChildren": true }
+    { "key": 1, "parent": null, "name": "> Nationalism in India (1920s onwards)", "color": "darkblue", "hasChildren": true }
   ],
   "nodes": {
     "1": [
-      { "key": 2, "name": "Growth of Modern Nationalism", "color": "darkgreen", "hasChildren": true },
-      { "key": 3, "name": "Impact of First World War (Post-1919)", "color": "darkgreen", "hasChildren": true },
-      { "key": 4, "name": "Mahatma Gandhi’s New Mode of Struggle", "color": "darkgreen", "hasChildren": true }
+      { "key": 2, "parent": 1, "name": "Growth of Modern Nationalism", "color": "darkgreen", "hasChildren": true },
+      { "key": 3, "parent": 1, "name": "Impact of First World War (Post-1919)", "color": "darkgreen", "hasChildren": true },
+      { "key": 4, "parent": 1, "name": "Mahatma Gandhi’s New Mode of Struggle", "color": "darkgreen", "hasChildren": true }
     ],
     "2": [
-      { "key": 5, "name": "Connected to Anti-Colonial Movement", "color": "black" },
-      { "key": 6, "name": "Shared Bond under Colonialism", "color": "black" },
-      { "key": 7, "name": "Varied Experiences/Notions of Freedom", "color": "black" },
-      { "key": 8, "name": "Congress under Gandhi tried to forge unity", "color": "black" }
+      { "key": 5, "parent": 2, "name": "Connected to Anti-Colonial Movement", "color": "black" },
+      { "key": 6, "parent": 2, "name": "Shared Bond under Colonialism", "color": "black" },
+      { "key": 7, "parent": 2, "name": "Varied Experiences/Notions of Freedom", "color": "black" },
+      { "key": 8, "parent": 2, "name": "Congress under Gandhi tried to forge unity", "color": "black" }
     ],
     "3": [
-      { "key": 9, "name": "New Economic and Political Situation", "color": "black" },
-      { "key": 10, "name": "Increased Defence Expenditure", "color": "black" },
-      { "key": 11, "name": "Financing through Taxes/Loans", "color": "darkgreen", "hasChildren": true },
-      { "key": 12, "name": "Price Doubling (1913–1918) → Hardship", "color": "black" },
-      { "key": 13, "name": "Forced Recruitment in Rural Areas → Anger", "color": "black" },
-      { "key": 14, "name": "Crop Failure (1918–21) → Food Shortages", "color": "black" },
-      { "key": 15, "name": "Influenza Epidemic (12–13 million perished)", "color": "black" }
+      { "key": 9, "parent": 3, "name": "New Economic and Political Situation", "color": "black" },
+      { "key": 10, "parent": 3, "name": "Increased Defence Expenditure", "color": "black" },
+      { "key": 11, "parent": 3, "name": "Financing through Taxes/Loans", "color": "darkgreen", "hasChildren": true },
+      { "key": 12, "parent": 3, "name": "Price Doubling (1913–1918) → Hardship", "color": "black" },
+      { "key": 13, "parent": 3, "name": "Forced Recruitment in Rural Areas → Anger", "color": "black" },
+      { "key": 14, "parent": 3, "name": "Crop Failure (1918–21) → Food Shortages", "color": "black" },
+      { "key": 15, "parent": 3, "name": "Influenza Epidemic (12–13 million perished)", "color": "black" }
     ],
     "11": [
-      { "key": 16, "name": "Customs duties raised", "color": "black" },
-      { "key": 17, "name": "Income tax introduced", "color": "black" }
+      { "key": 16, "parent": 11, "name": "Customs duties raised", "color": "black" },
+      { "key": 17, "parent": 11, "name": "Income tax introduced", "color": "black" }
     ],
     "4": [
-      { "key": 18, "name": "Return to India (Jan 1915)", "color": "darkgreen", "hasChildren": true },
-      { "key": 19, "name": "Idea of Satyagraha", "color": "darkgreen", "hasChildren": true },
-      { "key": 20, "name": "Early Satyagraha Movements", "color": "darkgreen", "hasChildren": true }
+      { "key": 18, "parent": 4, "name": "Return to India (Jan 1915)", "color": "darkgreen", "hasChildren": true },
+      { "key": 19, "parent": 4, "name": "Idea of Satyagraha", "color": "darkgreen", "hasChildren": true },
+      { "key": 20, "parent": 4, "name": "Early Satyagraha Movements", "color": "darkgreen", "hasChildren": true }
     ],
     "18": [
-      { "key": 21, "name": "Emphasized power of truth", "color": "black" }
+      { "key": 21, "parent": 18, "name": "Emphasized power of truth", "color": "black" }
     ],
     "19": [
-      { "key": 22, "name": "Struggle against injustice", "color": "black" },
-      { "key": 23, "name": "Win battle through non-violence", "color": "black" },
-      { "key": 24, "name": "Unite all Indians", "color": "black" }
+      { "key": 22, "parent": 19, "name": "Struggle against injustice", "color": "black" },
+      { "key": 23, "parent": 19, "name": "Win battle through non-violence", "color": "black" },
+      { "key": 24, "parent": 19, "name": "Unite all Indians", "color": "black" }
     ],
     "20": [
-      { "key": 25, "name": "1917: Champaran, Bihar (Plantation system)", "color": "black" },
-      { "key": 26, "name": "1917: Kheda, Gujarat (Revenue relaxation)", "color": "black" },
-      { "key": 27, "name": "1918: Ahmedabad (Cotton mill workers)", "color": "black" }
+      { "key": 25, "parent": 20, "name": "1917: Champaran, Bihar (Plantation system)", "color": "black" },
+      { "key": 26, "parent": 20, "name": "1917: Kheda, Gujarat (Revenue relaxation)", "color": "black" },
+      { "key": 27, "parent": 20, "name": "1918: Ahmedabad (Cotton mill workers)", "color": "black" }
     ]
   }
 }
+
