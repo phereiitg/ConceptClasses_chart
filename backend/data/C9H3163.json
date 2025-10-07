@@ -1,80 +1,80 @@
 {
   "root": [
-    { "key": 1, "name": "> Nazism and the Rise of Hitler", "color": "darkblue", "hasChildren": true }
+    { "key": 1, "name": "> Nazism and the Rise of Hitler", "color": "darkblue", "hasChildren": true, "parent": null }
   ],
 
   "nodes": {
     "1": [
-      { "key": 2, "name": "> The Aftermath of World War II", "color": "darkgreen", "hasChildren": true },
-      { "key": 20, "name": "> The Birth of the Weimar Republic", "color": "darkgreen", "hasChildren": true },
-      { "key": 40, "name": "> Political Instability and Economic Crises", "color": "darkgreen", "hasChildren": false },
-      { "key": 41, "name": "> Hitler’s Rise to Power", "color": "darkgreen", "hasChildren": false },
-      { "key": 42, "name": "> Nazi Worldview and Ideology", "color": "darkgreen", "hasChildren": false },
-      { "key": 43, "name": "> Destruction and Annihilation (The Holocaust)", "color": "darkgreen", "hasChildren": false },
-      { "key": 44, "name": "> Nazi Reconstruction and Foreign Policy", "color": "darkgreen", "hasChildren": false },
-      { "key": 45, "name": "> Nazi Control over Youth and Women", "color": "darkgreen", "hasChildren": false }
+      { "key": 2, "name": "> The Aftermath of World War II", "color": "darkgreen", "hasChildren": true, "parent": 1 },
+      { "key": 20, "name": "> The Birth of the Weimar Republic", "color": "darkgreen", "hasChildren": true, "parent": 1 },
+      { "key": 40, "name": "> Political Instability and Economic Crises", "color": "darkgreen", "hasChildren": false, "parent": 1 },
+      { "key": 41, "name": "> Hitler’s Rise to Power", "color": "darkgreen", "hasChildren": false, "parent": 1 },
+      { "key": 42, "name": "> Nazi Worldview and Ideology", "color": "darkgreen", "hasChildren": false, "parent": 1 },
+      { "key": 43, "name": "> Destruction and Annihilation (The Holocaust)", "color": "darkgreen", "hasChildren": false, "parent": 1 },
+      { "key": 44, "name": "> Nazi Reconstruction and Foreign Policy", "color": "darkgreen", "hasChildren": false, "parent": 1 },
+      { "key": 45, "name": "> Nazi Control over Youth and Women", "color": "darkgreen", "hasChildren": false, "parent": 1 }
     ],
 
     "2": [
-      { "key": 3, "name": "Helmuth’s Father’s Suicide", "color": "black", "hasChildren": true },
-      { "key": 7, "name": "End of War (May 1945)", "color": "black", "hasChildren": true },
-      { "key": 11, "name": "Nuremberg Tribunal", "color": "black", "hasChildren": true },
-      { "key": 15, "name": "Genocidal War / Crimes Against Humanity", "color": "black", "hasChildren": true }
+      { "key": 3, "name": "Helmuth’s Father’s Suicide", "color": "black", "hasChildren": true, "parent": 2 },
+      { "key": 7, "name": "End of War (May 1945)", "color": "black", "hasChildren": true, "parent": 2 },
+      { "key": 11, "name": "Nuremberg Tribunal", "color": "black", "hasChildren": true, "parent": 2 },
+      { "key": 15, "name": "Genocidal War / Crimes Against Humanity", "color": "black", "hasChildren": true, "parent": 2 }
     ],
 
     "3": [
-      { "key": 4, "name": "Prominent Physician, Nazi Supporter", "color": "black", "hasChildren": false },
-      { "key": 5, "name": "Fear of Allied Revenge (‘What we do to the crippled and Jews’)", "color": "black", "hasChildren": false },
-      { "key": 6, "name": "Traumatised Helmuth refused to eat for 9 years", "color": "black", "hasChildren": false }
+      { "key": 4, "name": "Prominent Physician, Nazi Supporter", "color": "black", "hasChildren": false, "parent": 3 },
+      { "key": 5, "name": "Fear of Allied Revenge (‘What we do to the crippled and Jews’)", "color": "black", "hasChildren": false, "parent": 3 },
+      { "key": 6, "name": "Traumatised Helmuth refused to eat for 9 years", "color": "black", "hasChildren": false, "parent": 3 }
     ],
 
     "7": [
-      { "key": 8, "name": "Germany Surrendered to Allies", "color": "black", "hasChildren": false },
-      { "key": 9, "name": "Hitler, Goebbels, and family committed suicide (April 1945)", "color": "black", "hasChildren": false },
-      { "key": 10, "name": "Only zones dividing Germany administered separately", "color": "black", "hasChildren": false }
+      { "key": 8, "name": "Germany Surrendered to Allies", "color": "black", "hasChildren": false, "parent": 7 },
+      { "key": 9, "name": "Hitler, Goebbels, and family committed suicide (April 1945)", "color": "black", "hasChildren": false, "parent": 7 },
+      { "key": 10, "name": "Only zones dividing Germany administered separately", "color": "black", "hasChildren": false, "parent": 7 }
     ],
 
     "11": [
-      { "key": 12, "name": "Prosecuted Nazi war criminals", "color": "black", "hasChildren": false },
-      { "key": 13, "name": "Crimes Against Peace, War Crimes, Crimes Against Humanity", "color": "black", "hasChildren": false },
-      { "key": 14, "name": "Only eleven leading Nazis sentenced to death", "color": "black", "hasChildren": false }
+      { "key": 12, "name": "Prosecuted Nazi war criminals", "color": "black", "hasChildren": false, "parent": 11 },
+      { "key": 13, "name": "Crimes Against Peace, War Crimes, Crimes Against Humanity", "color": "black", "hasChildren": false, "parent": 11 },
+      { "key": 14, "name": "Only eleven leading Nazis sentenced to death", "color": "black", "hasChildren": false, "parent": 11 }
     ],
 
     "15": [
-      { "key": 16, "name": "Mass murder of selected groups", "color": "black", "hasChildren": false },
-      { "key": 17, "name": "Victims included: 6 million Jews, 200,000 Gypsies, 1 million Polish civilians, 70,000 disabled Germans", "color": "black", "hasChildren": false },
-      { "key": 18, "name": "Killing means: Gassing in centres (e.g., Auschwitz)", "color": "black", "hasChildren": false }
+      { "key": 16, "name": "Mass murder of selected groups", "color": "black", "hasChildren": false, "parent": 15 },
+      { "key": 17, "name": "Victims included: 6 million Jews, 200,000 Gypsies, 1 million Polish civilians, 70,000 disabled Germans", "color": "black", "hasChildren": false, "parent": 15 },
+      { "key": 18, "name": "Killing means: Gassing in centres (e.g., Auschwitz)", "color": "black", "hasChildren": false, "parent": 15 }
     ],
 
     "20": [
-      { "key": 21, "name": "End of WWI (1914–1918)", "color": "black", "hasChildren": true },
-      { "key": 26, "name": "Establishment of Republic", "color": "black", "hasChildren": true },
-      { "key": 30, "name": "Treaty of Versailles (Humiliation)", "color": "black", "hasChildren": true },
-      { "key": 36, "name": "Effects of War and Treaty", "color": "black", "hasChildren": true }
+      { "key": 21, "name": "End of WWI (1914–1918)", "color": "black", "hasChildren": true, "parent": 20 },
+      { "key": 26, "name": "Establishment of Republic", "color": "black", "hasChildren": true, "parent": 20 },
+      { "key": 30, "name": "Treaty of Versailles (Humiliation)", "color": "black", "hasChildren": true, "parent": 20 },
+      { "key": 36, "name": "Effects of War and Treaty", "color": "black", "hasChildren": true, "parent": 20 }
     ],
 
     "21": [
-      { "key": 22, "name": "Germany defeated by Allies (UK, France, Russia, USA)", "color": "black", "hasChildren": false },
-      { "key": 23, "name": "Defeat led to abdication of Emperor", "color": "black", "hasChildren": false }
+      { "key": 22, "name": "Germany defeated by Allies (UK, France, Russia, USA)", "color": "black", "hasChildren": false, "parent": 21 },
+      { "key": 23, "name": "Defeat led to abdication of Emperor", "color": "black", "hasChildren": false, "parent": 21 }
     ],
 
     "26": [
-      { "key": 27, "name": "National Assembly met at Weimar", "color": "black", "hasChildren": false },
-      { "key": 28, "name": "Democratic constitution with federal structure", "color": "black", "hasChildren": false },
-      { "key": 29, "name": "Reichstag elected by equal, universal vote (including women)", "color": "black", "hasChildren": false }
+      { "key": 27, "name": "National Assembly met at Weimar", "color": "black", "hasChildren": false, "parent": 26 },
+      { "key": 28, "name": "Democratic constitution with federal structure", "color": "black", "hasChildren": false, "parent": 26 },
+      { "key": 29, "name": "Reichstag elected by equal, universal vote (including women)", "color": "black", "hasChildren": false, "parent": 26 }
     ],
 
     "30": [
-      { "key": 31, "name": "Harsh terms not received well by Germans", "color": "black", "hasChildren": false },
-      { "key": 32, "name": "Lost colonies, 13% territory, 75% iron, 26% coal", "color": "black", "hasChildren": false },
-      { "key": 33, "name": "Demilitarized Germany", "color": "black", "hasChildren": false },
-      { "key": 34, "name": "War Guilt Clause and forced compensation (6 billion)", "color": "black", "hasChildren": false }
+      { "key": 31, "name": "Harsh terms not received well by Germans", "color": "black", "hasChildren": false, "parent": 30 },
+      { "key": 32, "name": "Lost colonies, 13% territory, 75% iron, 26% coal", "color": "black", "hasChildren": false, "parent": 30 },
+      { "key": 33, "name": "Demilitarized Germany", "color": "black", "hasChildren": false, "parent": 30 },
+      { "key": 34, "name": "War Guilt Clause and forced compensation (6 billion)", "color": "black", "hasChildren": false, "parent": 30 }
     ],
 
     "36": [
-      { "key": 37, "name": "Psychological and financial devastation", "color": "black", "hasChildren": false },
-      { "key": 38, "name": "Weimar Republic bore burden of war guilt/compensation", "color": "black", "hasChildren": false },
-      { "key": 39, "name": "Supporters (Socialists, Catholics, Democrats) mocked as ‘November criminals’", "color": "black", "hasChildren": false }
+      { "key": 37, "name": "Psychological and financial devastation", "color": "black", "hasChildren": false, "parent": 36 },
+      { "key": 38, "name": "Weimar Republic bore burden of war guilt/compensation", "color": "black", "hasChildren": false, "parent": 36 },
+      { "key": 39, "name": "Supporters (Socialists, Catholics, Democrats) mocked as ‘November criminals’", "color": "black", "hasChildren": false, "parent": 36 }
     ]
   }
 }
