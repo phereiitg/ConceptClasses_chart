@@ -8,15 +8,5 @@
       { "key": 2, "parent": 1, "name": "> French Society: Old Regime (before 1789)", "color": "darkgreen" },
       { "key": 11, "parent": 1, "name": "> Outbreak of the Revolution (1789)", "color": "darkgreen"}
     ]
-  },
-  "buttonStyle": {
-        "shape": "circle",
-        "size": "14px",
-        "color": "#ffffff",
-        "backgroundColor": "#007BFF",
-        "border": "1px solid #0056b3",
-        "hover": {
-          "backgroundColor": "#0056b3"
-        }
-      }
+  }
 }
