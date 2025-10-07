@@ -6,7 +6,7 @@
   "nodes": {
     "1": [
       { "key": 2, "parent": 1, "name": "> French Society: Old Regime (before 1789)", "color": "darkgreen", "hasChildren": true, "isexpanded": false, "iconState": "collapsed" },
-      { "key": 11, "parent": 1, "name": "> Outbreak of the Revolution (1789)", "color": "darkgreen", "hasChildren": true, "isexpanded": false, "iconState": "collapsed" }
+      { "key": 11, "parent": 1, "name": "> Outbreak of the Revolution (1789)", "color": "darkgreen", "hasChildren": true,  "iconState": "collapsed" }
     ],
 
     "2": [
