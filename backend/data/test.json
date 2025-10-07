@@ -1,17 +1,22 @@
 {
   "root": [
-    { 
-      "key": 1, 
-      "name": "> The French Revolution and Its Impact", 
-      "color": "darkblue", 
-      "hasChildren": true,
-      "parent": null
-    }
+    { "key": 1, "name": "> The French Revolution and its Impact", "color": "darkblue", "hasChildren": true, "isexpanded": false }
   ],
+
   "nodes": {
     "1": [
-      { "key": 23, "parent": 1, "name": "> Social Reforms and Movements", "color": "darkgreen", "hasChildren": false },
-      { "key": 24, "parent": 1, "name": "> Legacy of the French Revolution", "color": "darkgreen", "hasChildren": false }
+      { "key": 2, "parent": 1, "name": "> French Society: Old Regime (before 1789)", "color": "darkgreen", "hasChildren": true, "isexpanded": false },
+      { "key": 11, "parent": 1, "name": "> Outbreak of the Revolution (1789)", "color": "darkgreen", "hasChildren": true, "isexpanded": false }
     ]
-  }
+  },
+  "buttonStyle": {
+        "shape": "circle",
+        "size": "14px",
+        "color": "#ffffff",
+        "backgroundColor": "#007BFF",
+        "border": "1px solid #0056b3",
+        "hover": {
+          "backgroundColor": "#0056b3"
+        }
+      }
 }
