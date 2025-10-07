@@ -10,11 +10,6 @@
   ],
   "nodes": {
     "1": [
-      { "key": 2, "parent": 1, "name": "> French Society: Old Regime (Before 1789)", "color": "darkgreen", "hasChildren": false },
-      { "key": 3, "parent": 1, "name": "> Outbreak of the Revolution (1789)", "color": "darkgreen", "hasChildren": false },
-      { "key": 4, "parent": 1, "name": "> New Political Systems and Ideals", "color": "darkgreen", "hasChildren": true },
-      { "key": 16, "parent": 1, "name": "> The Reign of Terror (1793–1794)", "color": "darkgreen", "hasChildren": true },
-      { "key": 22, "parent": 1, "name": "> After the Terror", "color": "darkgreen", "hasChildren": false },
       { "key": 23, "parent": 1, "name": "> Social Reforms and Movements", "color": "darkgreen", "hasChildren": false },
       { "key": 24, "parent": 1, "name": "> Legacy of the French Revolution", "color": "darkgreen", "hasChildren": false }
     ]
