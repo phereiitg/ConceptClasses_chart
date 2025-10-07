@@ -1,12 +1,12 @@
 {
   "root": [
-    { "key": 1, "name": "> The French Revolution and Its Impact", "color": "darkblue", "hasChildren": true, "parent": null, "expanded": false }
+    { "key": 1, "name": "> The French Revolution and Its Impact", "color": "darkblue", "hasChildren": true, "parent": null }
   ],
 
   "nodes": {
     "1": [
-      { "key": 4, "parent": 1, "name": "> New Political Systems and Ideals", "color": "darkgreen", "hasChildren": true, "expanded": false },
-      { "key": 16, "parent": 1, "name": "> The Reign of Terror (1793–1794)", "color": "darkgreen", "hasChildren": true, "expanded": false }
+      { "key": 4, "parent": 1, "name": "> New Political Systems and Ideals", "color": "darkgreen", "hasChildren": true,  },
+      { "key": 16, "parent": 1, "name": "> The Reign of Terror (1793–1794)", "color": "darkgreen", "hasChildren": true, }
     ],
 
     "4": [
