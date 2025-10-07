@@ -1,169 +1,63 @@
 {
   "root": [
-    { "key": 1, "name": "> The French Revolution and its Impact", "color": "darkblue", "hasChildren": true, "isexpanded": false, "iconState": "collapsed" }
+    { 
+      "key": 1, 
+      "name": "> The French Revolution and Its Impact", 
+      "color": "darkblue", 
+      "hasChildren": true,
+      "parent": null
+    }
   ],
-
   "nodes": {
     "1": [
-      { "key": 2, "parent": 1, "name": "> French Society: Old Regime (before 1789)", "color": "darkgreen", "hasChildren": true, "isexpanded": false, "iconState": "collapsed" },
-      { "key": 11, "parent": 1, "name": "> Outbreak of the Revolution (1789)", "color": "darkgreen", "hasChildren": true,  "iconState": "collapsed" }
+      { "key": 2, "parent": 1, "name": "> French Society: Old Regime (Before 1789)", "color": "darkgreen", "hasChildren": false },
+      { "key": 3, "parent": 1, "name": "> Outbreak of the Revolution (1789)", "color": "darkgreen", "hasChildren": false },
+      { "key": 4, "parent": 1, "name": "> New Political Systems and Ideals", "color": "darkgreen", "hasChildren": true },
+      { "key": 16, "parent": 1, "name": "> The Reign of Terror (1793–1794)", "color": "darkgreen", "hasChildren": true },
+      { "key": 22, "parent": 1, "name": "> After the Terror", "color": "darkgreen", "hasChildren": false },
+      { "key": 23, "parent": 1, "name": "> Social Reforms and Movements", "color": "darkgreen", "hasChildren": false },
+      { "key": 24, "parent": 1, "name": "> Legacy of the French Revolution", "color": "darkgreen", "hasChildren": false }
     ],
 
-    "2": [
-      { "key": 3, "parent": 2, "name": "> Monarchy", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" },
-      { "key": 6, "parent": 2, "name": "> Three Estates", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" },
-      { "key": 9, "parent": 2, "name": "> Struggle to Survive (Subsistence Crisis)", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" }
+    "4": [
+      { "key": 5, "parent": 4, "name": "> Constitutional Monarchy (1791)", "color": "black", "hasChildren": true },
+      { "key": 10, "parent": 4, "name": "> Declaration of Rights of Man and Citizen", "color": "black", "hasChildren": true },
+      { "key": 13, "parent": 4, "name": "> Rise of the Republic (1792–93)", "color": "black", "hasChildren": true }
     ],
 
-    "3": [
-      { "key": 4, "parent": 3, "name": "Louis XVI (Ascended 1774)", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 5, "parent": 3, "name": "Empty treasury/financial crisis", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 51, "parent": 3, "name": "Despotic power of the King (Bastille Symbol)", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" }
+    "5": [
+      { "key": 6, "parent": 5, "name": "Constitution limited king’s power", "color": "black", "hasChildren": false },
+      { "key": 7, "parent": 5, "name": "Separation of powers (Legislative, Executive, Judiciary)", "color": "black", "hasChildren": false },
+      { "key": 8, "parent": 5, "name": "National Assembly indirectly elected", "color": "black", "hasChildren": false },
+      { "key": 9, "parent": 5, "name": "Active Citizens (Taxpaying men > 25) got vote", "color": "black", "hasChildren": false },
+      { "key": 91, "parent": 5, "name": "Passive Citizens (No vote: women, poor men)", "color": "black", "hasChildren": false }
     ],
 
-    "6": [
-      { "key": 7, "parent": 6, "name": "First Estate (Clergy)", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" },
-      { "key": 8, "parent": 6, "name": "Second Estate (Nobility)", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" },
-      { "key": 81, "parent": 6, "name": "Third Estate (Taxpayers)", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" }
-    ],
-
-    "7": [
-      { "key": 71, "parent": 7, "name": "Privileges by birth", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 72, "parent": 7, "name": "Exempt from state taxes", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 73, "parent": 7, "name": "Entitled tithes (Church Tax)", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" }
-    ],
-
-    "8": [
-      { "key": 82, "parent": 8, "name": "Privileges by birth", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 83, "parent": 8, "name": "Exempt from state taxes", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 84, "parent": 8, "name": "Enjoyed feudal privileges/dues", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" }
-    ],
-
-    "81": [
-      { "key": 85, "parent": 81, "name": "Paid all taxes (Taille, indirect taxes)", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 86, "parent": 81, "name": "Included peasants (90% pop.)", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 87, "parent": 81, "name": "Included prosperous Middle Class (merchants, lawyers)", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" }
-    ],
-
-    "9": [
-      { "key": 91, "parent": 9, "name": "Population increase (23m to 28m)", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 92, "parent": 9, "name": "Rapid rise in bread price (staple diet)", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 93, "parent": 9, "name": "Wages didn’t keep pace with prices", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 94, "parent": 9, "name": "Worsened by drought/bad harvest", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" }
-    ],
-
-    "11": [
-      { "key": 12, "parent": 11, "name": "> Protests against high price of bread", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 13, "parent": 11, "name": "> Estates General Convention (May 5, 1789)", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" },
-      { "key": 16, "parent": 11, "name": "> National Assembly Formation (June 20, 1789)", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" },
-      { "key": 18, "parent": 11, "name": "> Storming of the Bastille (July 14, 1789)", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" },
-      { "key": 19, "parent": 11, "name": "> Peasant Revolts in Countryside (Great Fear)", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" },
-      { "key": 20, "parent": 11, "name": "> National Assembly Decrees (Aug 4, 1789)", "color": "black", "hasChildren": true, "expanded": false, "iconState": "collapsed" }
+    "10": [
+      { "key": 11, "parent": 10, "name": "Natural and inalienable rights", "color": "black", "hasChildren": false },
+      { "key": 12, "parent": 10, "name": "Liberty, Property, Security, Resistance to Oppression", "color": "black", "hasChildren": false },
+      { "key": 121, "parent": 10, "name": "Equality before law", "color": "black", "hasChildren": false },
+      { "key": 122, "parent": 10, "name": "Freedom of Speech and Expression", "color": "black", "hasChildren": false }
     ],
 
     "13": [
-      { "key": 14, "parent": 13, "name": "Voting demand: Each member one vote (Rejected by King)", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 15, "parent": 13, "name": "Third Estate walked out", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" }
+      { "key": 14, "parent": 13, "name": "Jacobin Club (Robespierre leader)", "color": "black", "hasChildren": false },
+      { "key": 15, "parent": 13, "name": "Sans-culottes (Literally 'without knee breeches')", "color": "black", "hasChildren": false },
+      { "key": 151, "parent": 13, "name": "Storming of Tuileries (Aug 10, 1792)", "color": "black", "hasChildren": false },
+      { "key": 152, "parent": 13, "name": "New Assembly (The Convention)", "color": "black", "hasChildren": false },
+      { "key": 153, "parent": 13, "name": "Abolished Monarchy (Sep 21, 1792)", "color": "black", "hasChildren": false },
+      { "key": 154, "parent": 13, "name": "Universal male suffrage (Men 21+ regardless of wealth)", "color": "black", "hasChildren": false },
+      { "key": 155, "parent": 13, "name": "Execution of Louis XVI (Jan 1793)", "color": "black", "hasChildren": false }
     ],
 
     "16": [
-      { "key": 17, "parent": 16, "name": "Tennis Court Oath", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 171, "parent": 16, "name": "Leaders: Mirabeau and Abbe Sieyes", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 172, "parent": 16, "name": "Goal: Draft Constitution limiting monarch’s powers", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" }
-    ],
-
-    "18": [
-      { "key": 181, "parent": 18, "name": "Symbolic Revolution", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" }
-    ],
-
-    "19": [
-      { "key": 191, "parent": 19, "name": "Attacked chateaux, looted grain", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 192, "parent": 19, "name": "Nobles fled homes", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" }
-    ],
-
-    "20": [
-      { "key": 201, "parent": 20, "name": "Abolition of feudal system/dues", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 202, "parent": 20, "name": "Clergy forced to give up privileges", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 203, "parent": 20, "name": "Abolition of Tithes", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" },
-      { "key": 204, "parent": 20, "name": "Church lands confiscated", "color": "black", "hasChildren": false, "expanded": false, "iconState": "leaf" }
+      { "key": 17, "parent": 16, "name": "Led by Maximillian Robespierre", "color": "black", "hasChildren": false },
+      { "key": 18, "parent": 16, "name": "Policy of severe control and punishment", "color": "black", "hasChildren": false },
+      { "key": 19, "parent": 16, "name": "Enemies guillotined (Ex-nobles, clergy, dissenters)", "color": "black", "hasChildren": false },
+      { "key": 20, "parent": 16, "name": "Economic measures (Wages/prices ceiling, rationing)", "color": "black", "hasChildren": false },
+      { "key": 21, "parent": 16, "name": "Forced sale of grain at fixed prices", "color": "black", "hasChildren": false },
+      { "key": 211, "parent": 16, "name": "Churches shut down", "color": "black", "hasChildren": false },
+      { "key": 212, "parent": 16, "name": "Robespierre arrested and executed (July 1794)", "color": "black", "hasChildren": false }
     ]
-  },
-
-  "buttonStyle": {
-    "root": {
-      "background": "#FFD54F",
-      "color": "#111111",
-      "border": "1px solid rgba(0,0,0,0.08)",
-      "borderRadius": "14px",
-      "padding": "10px 18px",
-      "fontFamily": "Inter, system-ui, sans-serif",
-      "fontSize": "18px",
-      "fontWeight": "700",
-      "lineHeight": "1.3",
-      "cursor": "pointer",
-      "boxShadow": "0 8px 20px rgba(0,0,0,0.1)",
-      "transition": "all 0.2s ease",
-      "display": "inline-flex",
-      "alignItems": "center",
-      "justifyContent": "center",
-      "gap": "10px",
-      "icon": { "collapsed": "+", "expanded": "−", "leaf": "-" }
-    },
-    "major": {
-      "background": "#1E3A8A",
-      "color": "#FFFFFF",
-      "border": "1px solid rgba(255,255,255,0.08)",
-      "borderRadius": "12px",
-      "padding": "8px 14px",
-      "fontFamily": "Inter, system-ui, sans-serif",
-      "fontSize": "16px",
-      "fontWeight": "700",
-      "cursor": "pointer",
-      "boxShadow": "0 6px 16px rgba(30,58,138,0.15)",
-      "transition": "all 0.2s ease",
-      "icon": { "collapsed": "+", "expanded": "−", "leaf": "-" }
-    },
-    "invention": {
-      "background": "#0B6623",
-      "color": "#FFFFFF",
-      "border": "1px solid rgba(255,255,255,0.06)",
-      "borderRadius": "10px",
-      "padding": "7px 12px",
-      "fontFamily": "Inter, system-ui, sans-serif",
-      "fontSize": "15px",
-      "fontWeight": "600",
-      "cursor": "pointer",
-      "boxShadow": "0 5px 12px rgba(11,102,35,0.12)",
-      "transition": "all 0.2s ease",
-      "icon": { "collapsed": "+", "expanded": "−", "leaf": "-" }
-    },
-    "explanatory": {
-      "background": "#E53935",
-      "color": "#FFFFFF",
-      "border": "1px solid rgba(0,0,0,0.06)",
-      "borderRadius": "8px",
-      "padding": "6px 11px",
-      "fontFamily": "Inter, system-ui, sans-serif",
-      "fontSize": "14px",
-      "fontWeight": "600",
-      "cursor": "pointer",
-      "boxShadow": "0 4px 10px rgba(229,57,53,0.12)",
-      "transition": "all 0.2s ease",
-      "icon": { "collapsed": "+", "expanded": "−", "leaf": "-" }
-    },
-    "fact": {
-      "background": "#111111",
-      "color": "#F5F5F5",
-      "border": "1px solid rgba(255,255,255,0.04)",
-      "borderRadius": "7px",
-      "padding": "5px 9px",
-      "fontFamily": "Inter, system-ui, sans-serif",
-      "fontSize": "13px",
-      "fontWeight": "500",
-      "cursor": "default",
-      "boxShadow": "none",
-      "transition": "all 0.2s ease",
-      "icon": { "collapsed": "+", "expanded": "−", "leaf": "-" }
-    }
   }
 }
