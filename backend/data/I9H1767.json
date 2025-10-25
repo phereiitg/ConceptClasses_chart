@@ -1,0 +1,129 @@
+{
+  "root": [
+    { "key": 1, "name": "> Jainism and Buddhism (6th Century B.C.E.)", "color": "yellow", "hasChildren": true }
+  ],
+
+  "nodes": {
+    "1": [
+      { "key": 2, "name": "> Historical Context & Emergence", "color": "lightblue", "hasChildren": true },
+      { "key": 20, "name": "> Jainism", "color": "lightblue", "hasChildren": true },
+      { "key": 40, "name": "> Buddhism", "color": "lightblue", "hasChildren": true },
+      { "key": 60, "name": "> Similarities and Differences", "color": "lightblue", "hasChildren": true }
+    ],
+
+    "2": [
+      { "key": 3, "name": "Time Period (Around 6th century B.C.E.)", "color": "green", "hasChildren": false },
+      { "key": 4, "name": "Response to Vedic Society", "color": "lightblue", "hasChildren": true },
+      { "key": 5, "name": "Societal Changes", "color": "lightblue", "hasChildren": true }
+    ],
+
+    "4": [
+      { "key": 6, "name": "Vedic religion rigid", "color": "green", "hasChildren": false },
+      { "key": 7, "name": "Growing social and religious inequality", "color": "green", "hasChildren": false },
+      { "key": 8, "name": "Ordinary people dissatisfied", "color": "green", "hasChildren": false }
+    ],
+
+    "5": [
+      { "key": 9, "name": "Trade and cities growing", "color": "green", "hasChildren": false },
+      { "key": 10, "name": "New class: merchants", "color": "green", "hasChildren": false },
+      { "key": 11, "name": "Time ripe for reform", "color": "green", "hasChildren": false }
+    ],
+
+    "20": [
+      { "key": 21, "name": "Founder", "color": "lightblue", "hasChildren": true },
+      { "key": 25, "name": "Core Teachings", "color": "lightblue", "hasChildren": true },
+      { "key": 30, "name": "Path to Salvation (Three Jewels)", "color": "lightblue", "hasChildren": true },
+      { "key": 33, "name": "Spread and Legacy", "color": "lightblue", "hasChildren": true }
+    ],
+
+    "21": [
+      { "key": 22, "name": "Vardhamana Mahavira", "color": "green", "hasChildren": false },
+      { "key": 23, "name": "Born 540 B.C.E. at Kundagrama (Bihar)", "color": "green", "hasChildren": false },
+      { "key": 24, "name": "Attained Kevala Jnana (Perfect Knowledge)", "color": "green", "hasChildren": false }
+    ],
+
+    "25": [
+      { "key": 26, "name": "Panch Mahavratas (Five Great Vows)", "color": "lightblue", "hasChildren": true },
+      { "key": 27, "name": "All living beings have souls (ahimsa: nonviolence)", "color": "green", "hasChildren": false },
+      { "key": 28, "name": "Purity of thought and deed essential", "color": "green", "hasChildren": false }
+    ],
+
+    "26": [
+      { "key": 29, "name": "Nonviolence (Ahimsa)", "color": "green", "hasChildren": false },
+      { "key": 291, "name": "Truth (Satya)", "color": "green", "hasChildren": false },
+      { "key": 292, "name": "Non-stealing (Asteya)", "color": "green", "hasChildren": false },
+      { "key": 293, "name": "Chastity (Brahmacharya)", "color": "green", "hasChildren": false },
+      { "key": 294, "name": "Non-possession (Aparigraha)", "color": "green", "hasChildren": false }
+    ],
+
+    "30": [
+      { "key": 31, "name": "Right Faith", "color": "green", "hasChildren": false },
+      { "key": 32, "name": "Right Knowledge", "color": "green", "hasChildren": false },
+      { "key": 321, "name": "Right Conduct", "color": "green", "hasChildren": false }
+    ],
+
+    "33": [
+      { "key": 34, "name": "Spread peacefully via preaching, not wars", "color": "green", "hasChildren": false },
+      { "key": 35, "name": "Supported by rulers (Chandragupta Maurya, Kharavela of Kalinga)", "color": "green", "hasChildren": false },
+      { "key": 36, "name": "Sects: Svetambaras, Digambaras", "color": "green", "hasChildren": false }
+    ],
+
+    "40": [
+      { "key": 41, "name": "Founder", "color": "lightblue", "hasChildren": true },
+      { "key": 45, "name": "Core Philosophy (Four Noble Truths & Eightfold Path)", "color": "lightblue", "hasChildren": true },
+      { "key": 50, "name": "Key Principles", "color": "lightblue", "hasChildren": true },
+      { "key": 55, "name": "Spread and Legacy", "color": "lightblue", "hasChildren": true }
+    ],
+
+    "41": [
+      { "key": 42, "name": "Siddhartha Gautama (Prince of Shakya clan)", "color": "green", "hasChildren": false },
+      { "key": 43, "name": "Born around 563 B.C.E. at Lumbini", "color": "green", "hasChildren": false },
+      { "key": 44, "name": "Attained enlightenment at Bodh Gaya", "color": "green", "hasChildren": false }
+    ],
+
+    "45": [
+      { "key": 46, "name": "Life is full of suffering", "color": "green", "hasChildren": false },
+      { "key": 47, "name": "Desire is the cause of suffering", "color": "green", "hasChildren": false },
+      { "key": 48, "name": "Ending desire ends suffering", "color": "green", "hasChildren": false },
+      { "key": 49, "name": "Follow Eightfold Path to attain nirvana", "color": "green", "hasChildren": false }
+    ],
+
+    "50": [
+      { "key": 51, "name": "Rejected rigid caste system", "color": "green", "hasChildren": false },
+      { "key": 52, "name": "Emphasized morality, meditation", "color": "green", "hasChildren": false },
+      { "key": 53, "name": "Goal: Nirvana (state of perfect peace)", "color": "green", "hasChildren": false }
+    ],
+
+    "55": [
+      { "key": 56, "name": "Spread due to simplicity & universal appeal", "color": "green", "hasChildren": false },
+      { "key": 57, "name": "Key role of King Ashoka", "color": "green", "hasChildren": false },
+      { "key": 58, "name": "Spread across Asia (Sri Lanka, China, Japan)", "color": "green", "hasChildren": false },
+      { "key": 59, "name": "Sects: Hinayana, Mahayana, Vajrayana", "color": "green", "hasChildren": false }
+    ],
+
+    "60": [
+      { "key": 61, "name": "Similarities", "color": "lightblue", "hasChildren": true },
+      { "key": 65, "name": "Key Differences", "color": "lightblue", "hasChildren": true },
+      { "key": 70, "name": "Lasting Legacy", "color": "lightblue", "hasChildren": true }
+    ],
+
+    "61": [
+      { "key": 62, "name": "Opposed dominance of rituals and caste system", "color": "green", "hasChildren": false },
+      { "key": 63, "name": "Emphasized nonviolence, truth, self-discipline", "color": "green", "hasChildren": false },
+      { "key": 64, "name": "Stressed salvation through individual effort", "color": "green", "hasChildren": false }
+    ],
+
+    "65": [
+      { "key": 66, "name": "Nonviolence strictness: Jainism absolute; Buddhism moderate", "color": "green", "hasChildren": false },
+      { "key": 67, "name": "Concept of soul: Jainism believes in eternal soul; Buddhism denies permanent soul", "color": "green", "hasChildren": false },
+      { "key": 68, "name": "Monastic life: Jainism austere, Buddhism moderate", "color": "green", "hasChildren": false }
+    ],
+
+    "70": [
+      { "key": 71, "name": "Promoted equality and compassion", "color": "green", "hasChildren": false },
+      { "key": 72, "name": "Influenced Indian art, architecture, philosophy", "color": "green", "hasChildren": false },
+      { "key": 73, "name": "Spread Indian culture to Sri Lanka, China, Japan", "color": "green", "hasChildren": false },
+      { "key": 74, "name": "Still inspires millions worldwide", "color": "green", "hasChildren": false }
+    ]
+  }
+}
